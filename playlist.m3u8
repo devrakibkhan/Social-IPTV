@@ -1,10 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Bangla TV",Ekushey TV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Banglavision.svg",Bangla Vision
+http://103.229.254.25:7001/play/a06d/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/Logo_of_Channel_24_%28Bangladesh%29.svg" group-title="News TV",Channel 24 (akash)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/Logo_of_Channel_24_%28Bangladesh%29.svg" group-title="News TV",Channel 24 (bdix)
 http://103.229.254.25:7001/play/a05n/index.m3u8
-#EXTINF:-1 tvg-logo="https://atnmusictv.com/images/logo.png" group-title="Music",ATN Music
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ATN_News_logo.svg/960px-ATN_News_logo.svg.png" group-title="News TV",ATN NEWS (akash)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/53/2/atn-bangla-logo-png_seeklogo-537053.png" group-title="Bangla TV",ATN Bangla
@@ -31,3 +33,5 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://images.muslimandquran.com/frontend/images/ILM_TV" group-title="Islamic",ILM TV
 https://tplay.live/originals/ilm-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://atnmusictv.com/images/logo.png" group-title="Music",ATN Music
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
