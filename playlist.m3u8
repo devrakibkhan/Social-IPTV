@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Music",9XM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="Music",9XM
 http://103.229.254.25:7001/play/a07o/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX2eGB47dEs7OMC3x82T0vcStU2NtSJ-EG7g&s" group-title="News TV",Al Jazeera
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
@@ -15,14 +15,14 @@ https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 http://103.229.254.25:7001/play/a06d/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.icon-icons.com/70/PNG/512/bbc_news_14062.png" group-title="News TV",BBC NEWS
 http://45.148.145.57/IN_BN/index.m3u8
-#EXTINF:-1 group-title="Bangla TV",Boishakhi TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Boishakhi_Tv_Logo.png" group-title="Bangla TV",Boishakhi TV
 http://103.229.254.25:7001/play/a067/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Bangladesh_Television_Logo.svg" group-title="Bangla TV",BTV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Bangladesh_Television_Logo.svg" group-title="Bangla TV",BTV HD bdix
 http://103.229.254.25:7001/play/a064/index.m3u8
-#EXTINF:-1 group-title="Kids",Cartoon Network
-http://110.39.27.47:8001/play/a01k/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/250px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network
+http://103.229.254.25:7001/play/a0cn/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/Logo_of_Channel_24_%28Bangladesh%29.svg" group-title="News TV",Channel 24 (akash)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/Logo_of_Channel_24_%28Bangladesh%29.svg" group-title="News TV",Channel 24 (bdix)
@@ -31,14 +31,16 @@ http://103.229.254.25:7001/play/a05n/index.m3u8
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/CNN-Logo.png" group-title="News TV",CNN (2)
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
-#EXTINF:-1 group-title="Bangla TV",Colors Bangla HD
-http://103.229.254.25:7001/play/a076/index.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/4ac8cc41d31d22a1f7863b8ec54dbce6.png" group-title="Bangla TV",Colors Bangla HD
+http://103.229.254.25:7001/play/a0ds/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/DBC_FB_LOGO.jpg" group-title="News TV",DBC 
 http://103.229.254.25:7001/play/a06h/index.m3u8
 #EXTINF:-1 tvg-logo="https://jcwsw2vt33.gpcdn.net/uploads/images/2022/07/25/logos_1384ea456744d5914ba331fa72df78c8_goplay_deepto_logo_final_white.svg" group-title="Bangla TV",Deepto TV (BDIX)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Discovery_HD.svg" group-title="Science",Discovery HD
-http://103.229.254.25:7001/play/a071/index.m3u8
+http://103.229.254.25:7001/play/a03g/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png",Discovery Kids
+http://103.229.254.25:7001/play/a0dg/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/539-5392287_logo-disney-junior-png-transparent-png.png" group-title="Kids",Disney Junior
 http://103.229.254.25:7001/play/a09r/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News TV",DW English
@@ -53,8 +55,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 http://103.229.254.25:7001/play/a09k/index.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Bangla TV",Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 group-title="Bangla TV",ETV HD
-http://103.229.254.25:7001/play/a0de/index.m3u8
 #EXTINF:-1 tvg-logo="https://gazitv.com/wp-content/uploads/2019/06/GTV-LOGO-HD240x108.png" group-title="Bangla TV",Gazi TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://images.muslimandquran.com/frontend/images/ILM_TV" group-title="Islamic",ILM TV
@@ -63,7 +63,7 @@ https://tplay.live/originals/ilm-tv/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xuNhiek.png" group-title="Islamic",Islam bangla
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/islamchbangla.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Movies",JALSHA MOVIES
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/556/803/png-transparent-multicolored-star-illustration-with-text-overlay-jalsha-movies-star-jalsha-star-india-high-definition-television-maa-miscellaneous-purple-television-thumbnail.png" group-title="Movies",JALSHA MOVIES
 http://103.229.254.25:7001/play/a078/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/54prTx28YpPxSpk_PfJGuOfQgcZbNdvbfk0adGePrAvINO4Mo9_bw3j-J4seXn6hNGuMr1ck=s900-c-k-c0x00ffffff-no-rj" group-title="News TV",Jamuna Television bdix
 http://103.229.254.25:7001/play/a05y/index.m3u8
@@ -80,10 +80,10 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/MTV_HD_Logo_2013.svg" group-title="Music",MTV HD
 http://223.123.33.46:7000/play/a0ec/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nagorik%20TV.png" group-title="Bangla TV",Nagorik TV
-http://116.204.149.16/nagorik/tracks-v1a1/mono.m3u8
+http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/36/1/news24-channel-logo-png_seeklogo-362149.png" group-title="News TV",News 24 HD
 http://103.229.254.25:7001/play/a06i/index.m3u8
-#EXTINF:-1 group-title="Bangla TV",NEXUS TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" group-title="Bangla TV",NEXUS TV
 http://103.229.254.25:7001/play/a05m/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg" group-title="Bangla TV",NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
@@ -108,4 +108,4 @@ http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png" group-title="Sports",T Sports HD
 http://198.195.239.50:8095/Tsports/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" group-title="Bangla TV",Zee Bangla HD
-http://103.182.170.32:8888/play/a048
+http://103.229.254.25:7001/play/a0c3/index.m3u8
