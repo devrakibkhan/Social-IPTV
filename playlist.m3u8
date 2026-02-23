@@ -99,7 +99,7 @@ https://raw.githubusercontent.com/gift4bd/ytm/main/RTVMusic.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Bangla TV",Star Jalsha HD
 https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Hindi",STAR Plus HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Hindi",STAR Plus HD
 http://223.123.33.46:7000/play/a0ez/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/960px-Star_Sports_1_HD.png" group-title="Sports",STAR SPORTS 1 HD
 http://163.61.227.29:8000/play/a00f/index.m3u8
