@@ -149,6 +149,8 @@ http://103.229.254.25:7001/play/a068/index.m3u8
 http://116.204.149.16/rtvhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Sangeet%20Bangla.png" group-title="Music",Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
+#EXTINF:-1 group-title="Music",Shinchan
+https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="News",SOMOY TV (akash)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 group-title="Movies",Sony PIX HD
