@@ -81,6 +81,8 @@ http://103.229.254.25:7001/play/a06h/index.m3u8
 http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mAd_68MdZlq04iEEHF6HGv9wj-9pBEHHcnVZBX9uKGzI4=s900-c-k-c0x00ffffff-no-rj" group-title="Bangla",Deepto TV (BDIX)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a1/99/74/a19974ce222a14ccfa0f26b47013c5e0.jpg" group-title="Science",Discovery FHD
+http://203.18.159.115/DISCOVERYHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a1/99/74/a19974ce222a14ccfa0f26b47013c5e0.jpg" group-title="Science",Discovery HD
 http://103.229.254.25:7001/play/a03g/index.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/232/671/png-clipart-discovery-kids-logo-discovery-inc-television-channel-science-television-child.png" group-title="Kids",Discovery Kids
@@ -143,6 +145,10 @@ http://vmi3039524.contaboserver.net:5050/music/index.m3u8
 http://116.204.149.16/mytv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nagorik%20TV.png" group-title="Bangla",Nagorik TV
 http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports",NAT GEO FHD
+http://203.18.159.115/NATGEOHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="Science",NAT GEO WILD FHD
+http://203.18.159.115/NATGEOWILDHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://asianews.network/wp-content/uploads/bfi_thumb/NDTV-logo-7695noll0a3o77rdn1v1rwygourz0x52k2w4poe7o00.jpg" group-title="News",NDTV
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/36/1/news24-channel-logo-png_seeklogo-362149.png" group-title="News",News 24 HD
