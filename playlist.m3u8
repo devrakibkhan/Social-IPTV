@@ -13,6 +13,8 @@ http://103.229.254.25:7001/play/a07o/index.m3u8
 http://103.175.73.12:8080/live/155/155_0.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX2eGB47dEs7OMC3x82T0vcStU2NtSJ-EG7g&s" group-title="News",Al Jazeera News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX2eGB47dEs7OMC3x82T0vcStU2NtSJ-EG7g&s" group-title="News",Al Jazeera News
+https://live-hls-web-aje-gcp.thehlive.com/AJE/03.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8-dRaKujMT9l8HW_GWB8zg56b1Ungq-PTOQ&s" group-title="Bangla",Ananda TV
 http://103.229.254.25:7001/play/a05v/index.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_720,h_405,c_scale,f_webp,q_auto:eco/resources/0-9-9z5543514/list/1920x1080listd4a78816ce2d4ea7afc7efe5e639e9cd.jpg" group-title="Movies",AND prive HD
@@ -77,6 +79,8 @@ http://203.18.159.115/CARTOONNETWORK/tracks-v1a1/mono.m3u8
 https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 group-title="News",CGTN
 https://cdn10jtedge.indihometv.com/atm/DASH/CGTN_DOCUMENTARY/manifest.mpd
+#EXTINF:-1 group-title="News",CGTN
+https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
 #EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/v2/D5603AQFz3t9wbZNupQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1703760547370?e=2147483647&v=beta&t=14SxDJ9CU2_GJXNSWlGlwxQAP3X5BKLFOEn0sq3lfC0" group-title="News",Channel 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/v2/D5603AQFz3t9wbZNupQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1703760547370?e=2147483647&v=beta&t=14SxDJ9CU2_GJXNSWlGlwxQAP3X5BKLFOEn0sq3lfC0" group-title="News",Channel 24
@@ -287,8 +291,6 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="News",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="News",TRT World
-https://live-hls-web-aje-gcp.thehlive.com/AJE/03.m3u8
 #EXTINF:-1 tvg-logo="https://img.willow.tv/apps/wlw-nw-lgo.png" group-title="Sports",Willow TV
 https://mysouq1.com/live/76631957/10205687/675819.ts
 #EXTINF:-1 group-title="News",Wion News
