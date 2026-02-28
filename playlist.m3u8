@@ -79,7 +79,7 @@ https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-sam
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/4ac8cc41d31d22a1f7863b8ec54dbce6.png" group-title="Bangla",Colors Bangla HD
 http://103.229.254.25:7001/play/a0ds/index.m3u8
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/591/655/png-clipart-viacom-18-logo-color-television-colors-zee-tv-logo-purple-television.png" group-title="Hindi",colors HD
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/591/655/png-clipart-viacom-18-logo-color-television-colors-zee-tv-logo-purple-television.png" group-title="Hindi / Urdu",colors HD
 http://103.229.254.25:7001/play/a077/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/DBC_FB_LOGO.jpg" group-title="News",DBC
 http://103.229.254.25:7001/play/a06h/index.m3u8
@@ -199,7 +199,7 @@ http://203.18.159.115/SONYBBCEARTHHD/tracks-v1a1/mono.m3u8
 http://103.229.254.25:7001/play/a0ed/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png" group-title="Movies",Sony SET
 http://103.229.254.25:7001/play/a09u/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png" group-title="Hindi",Sony SET FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png" group-title="Hindi / Urdu",Sony SET FHD
 http://203.18.159.115/SONYENTHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZpPg2Gdg/SRK-TV.png" group-title="Bangla",SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
@@ -215,9 +215,9 @@ https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 http://203.18.159.115/STARJALSHAHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k2Bd3SgH/STAR-MOVIES-HD.png" group-title="Movies",STAR MOVIES HD
 https://padmaonline.duckdns.org:8088/StarMoviesHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiXmyE6eROlxWjy8vlwIkmPqsYjf1e8MSgEg&s" group-title="Hindi",STAR Plus
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiXmyE6eROlxWjy8vlwIkmPqsYjf1e8MSgEg&s" group-title="Hindi / Urdu",STAR Plus
 http://103.229.254.25:7001/play/a09p/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiXmyE6eROlxWjy8vlwIkmPqsYjf1e8MSgEg&s" group-title="Hindi",STAR Plus HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiXmyE6eROlxWjy8vlwIkmPqsYjf1e8MSgEg&s" group-title="Hindi / Urdu",STAR Plus HD
 http://103.229.254.25:7001/play/a09z/index.m3u8
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/25.png" group-title="Sports",Star Sports 1
 http://103.182.170.32:8888/play/a040
