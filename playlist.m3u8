@@ -5,7 +5,7 @@ https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="Music",9XM
 http://103.229.254.25:7001/play/a07o/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="Music",9XM (Copy)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="Music",9XM
 http://103.175.73.12:8080/live/155/155_0.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX2eGB47dEs7OMC3x82T0vcStU2NtSJ-EG7g&s" group-title="News",Al Jazeera News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
@@ -15,7 +15,7 @@ http://103.229.254.25:7001/play/a05v/index.m3u8
 http://103.229.254.25:7001/play/a03f/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/107-1076403_animal-planet-png-animal-planet-logo-2019-transparent.png" group-title="Science",Animal Planet HD
 http://103.229.254.25:7001/play/a0dr/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/107-1076403_animal-planet-png-animal-planet-logo-2019-transparent.png" group-title="Science",Animal Planet HD (Copy)
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/107-1076403_animal-planet-png-animal-planet-logo-2019-transparent.png" group-title="Science",Animal Planet HD
 http://203.18.159.115/ANIMALPLANETHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRKG7DsOmuTHOGWOpDP-JJ0dn29ccv6XnO0zJc1YwiIuPEla17-YmkiyQ-&s=10" group-title="Kids",Animes HD. TV
 https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
@@ -35,11 +35,11 @@ http://103.175.73.12:8080/live/43/43_0.m3u8
 https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00877-b4unetworkeuropefast-b4umusic-xiaomiin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxmWWziIDbNnUn5EpjQVrla8h7Ohuw7OJI8cVrAZgveuJygc_Sg79BKumnwOn4vUpKy-o&usqp=CAU" group-title="Bangla",Bangla Vision
 http://103.229.254.25:7001/play/a06d/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxmWWziIDbNnUn5EpjQVrla8h7Ohuw7OJI8cVrAZgveuJygc_Sg79BKumnwOn4vUpKy-o&usqp=CAU" group-title="Bangla",Bangla Vision (Copy)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxmWWziIDbNnUn5EpjQVrla8h7Ohuw7OJI8cVrAZgveuJygc_Sg79BKumnwOn4vUpKy-o&usqp=CAU" group-title="Bangla",Bangla Vision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lILjyQtVME8/sddefault.jpg" group-title="Bangla",BanglaTV HD
 http://103.229.254.25:7001/play/a06c/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lILjyQtVME8/sddefault.jpg" group-title="Bangla",BanglaTV HD (Copy)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lILjyQtVME8/sddefault.jpg" group-title="Bangla",BanglaTV HD
 http://116.204.149.16/banglatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3200001RI_20250107T024804SQUARE.png" group-title="Science",BBC EARTH FHD
 http://203.18.159.115/BBCEARTHHD/tracks-v1a1/mono.m3u8
