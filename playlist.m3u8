@@ -239,6 +239,8 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.
 #DISABLED:https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8?ads.vf=7dIosAVyILi
 #DISABLED:#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/702/993/png-clipart-trace-urban-television-channel-free-to-air-urban-contemporary-others-television-text.png" group-title="Music",TRACE URBAN
 #DISABLED:http://151.80.18.177:86/Trace_Urban_HD/index.m3u8
+#EXTINF:-1 group-title="News",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://img.willow.tv/apps/wlw-nw-lgo.png" group-title="Sports",Willow TV
 https://mysouq1.com/live/76631957/10205687/675819.ts
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/nf15u1K12VXgBLh5HTf0asDF5Fc36RsUICRi8xY1Cs0QhAL_jmtW07wAUdRzrYDBKwv_KIa09Q=s900-c-k-c0x00ffffff-no-rj" group-title="Music",YRF Music
