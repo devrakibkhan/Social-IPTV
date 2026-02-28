@@ -73,6 +73,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8
 http://103.229.254.25:7001/play/a064/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/250px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network
 http://103.229.254.25:7001/play/a0cn/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/250px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network
+http://172.19.178.180/servers-stailer/143srv.php?stream=cn&format=m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/250px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network HD+
 http://203.18.159.115/CARTOONNETWORK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="News",CGTN
@@ -129,6 +131,8 @@ http://103.229.254.25:7001/play/a03g/index.m3u8
 http://103.229.254.25:7001/play/a0dg/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/539-5392287_logo-disney-junior-png-transparent-png.png" group-title="Kids",Disney Junior
 http://103.229.254.25:7001/play/a09r/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/539-5392287_logo-disney-junior-png-transparent-png.png" group-title="Kids",Disney Junior
+http://172.19.178.180/servers-stailer/143srv.php?stream=disney_hindi&format=m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Kids",Duronto TV HD
 http://103.229.254.25:7001/play/a05k/index.m3u8
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180721/qie/7032d14b245d3dab85cc0f4e62b809bb.webp" group-title="News",DW News
@@ -179,6 +183,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701.m3u8
 http://103.229.254.25:7001/play/a05y/index.m3u8
 #EXTINF:-1 group-title="Kids",Jio TV
 https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
+#EXTINF:-1 group-title="Kids",Jio TV
+https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ubZMeQv.jpg" group-title="Kids",Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 #EXTINF:-1 tvg-logo="https://qurantv.in/wp-content/uploads/2023/11/logo-quran.png" group-title="Islamic",Live Quran TVs
@@ -231,6 +237,8 @@ https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 http://103.229.254.25:7001/play/a07b/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg" group-title="Kids",NICK
 http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg" group-title="Kids",NICK
+http://172.19.178.180/servers-stailer/143srv.php?stream=nick_jr&format=m3u8
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg" group-title="Bangla",NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="Islamic",Peace TV Bangla
