@@ -65,9 +65,9 @@ http://103.229.254.25:7001/play/a064/index.m3u8
 http://103.229.254.25:7001/play/a0cn/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/250px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network HD+
 http://203.18.159.115/CARTOONNETWORK/tracks-v1a1/mono.m3u8
-#EXTINF:-1,CGTN
+#EXTINF:-1 group-title="News",CGTN
 https://0472.org/hls/cgtn.m3u8
-#EXTINF:-1,CGTN
+#EXTINF:-1 group-title="News",CGTN
 https://cdn10jtedge.indihometv.com/atm/DASH/CGTN_DOCUMENTARY/manifest.mpd
 #EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/v2/D5603AQFz3t9wbZNupQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1703760547370?e=2147483647&v=beta&t=14SxDJ9CU2_GJXNSWlGlwxQAP3X5BKLFOEn0sq3lfC0" group-title="News",Channel 24 (akash)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
@@ -249,6 +249,8 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://img.willow.tv/apps/wlw-nw-lgo.png" group-title="Sports",Willow TV
 https://mysouq1.com/live/76631957/10205687/675819.ts
+#EXTINF:-1 group-title="News",Wion News
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/nf15u1K12VXgBLh5HTf0asDF5Fc36RsUICRi8xY1Cs0QhAL_jmtW07wAUdRzrYDBKwv_KIa09Q=s900-c-k-c0x00ffffff-no-rj" group-title="Music",YRF Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://p7.hiclipart.com/preview/225/230/365/zee-bangla-television-channel-zee-tv-zee-entertainment-enterprises-others-thumbnail.jpg" group-title="Bangla",Zee Bangla HD
