@@ -43,7 +43,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 http://203.18.159.115/AXNHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://apiexcellent.com/storage/images/medias/television/product/b4u-movies-television10050.webp" group-title="Movies" tvg-server="Server 1",B4U Movies
 http://103.175.73.12:8080/live/43/43_0.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Music.png" group-title="Movies" tvg-server="Server 1",B4U Music
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Music.png" group-title="Music" tvg-server="Server 1",B4U Music
 https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00877-b4unetworkeuropefast-b4umusic-xiaomiin/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-server="Server 1",Bangla Plus
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
