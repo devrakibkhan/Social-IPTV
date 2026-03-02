@@ -3,7 +3,7 @@
 #DISABLED:https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest.mpd
 #DISABLED:#EXTINF:-1 tvg-logo="https://iili.io/d9mgekX.png" group-title="Movies" tvg-server="Server 2",4 Film
 #DISABLED:https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/8XM_2011_logo.png" group-title="Music" tvg-country="IN" tvg-server="Server 1",8XM
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/8XM_2011_logo.png" group-title="Music" tvg-country="IN" tvg-server="Server 1",8XM [IN]
 https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/849/297/png-clipart-9x-jalwa-television-channel-9x-media-streaming-media-others-miscellaneous-television.png" group-title="Music" tvg-server="Server 1",9X Jalwa
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8
@@ -21,7 +21,7 @@ https://live-hls-web-aje-gcp.thehlive.com/AJE/03.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8-dRaKujMT9l8HW_GWB8zg56b1Ungq-PTOQ&s" group-title="Bangla" tvg-server="Server 1",Ananda TV
 http://103.229.254.25:7001/play/a05v/index.m3u8
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_720%2Ch_405%2Cc_scale%2Cf_webp%2Cq_auto:eco/resources/0-9-9z5543514/list/1920x1080listd4a78816ce2d4ea7afc7efe5e639e9cd.jpg" group-title="Movies" tvg-country="IN" tvg-server="Server 1",AND prive HD
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_720%2Ch_405%2Cc_scale%2Cf_webp%2Cq_auto:eco/resources/0-9-9z5543514/list/1920x1080listd4a78816ce2d4ea7afc7efe5e639e9cd.jpg" group-title="Movies" tvg-country="IN" tvg-server="Server 1",AND prive HD [IN]
 http://103.229.254.25:7001/play/a03f/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/107-1076403_animal-planet-png-animal-planet-logo-2019-transparent.png" group-title="Science" tvg-server="Server 1",Animal Planet HD
 http://103.229.254.25:7001/play/a0dr/index.m3u8
@@ -33,13 +33,13 @@ https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/162-1620250_asian-tv-bd-logo-hd-png-download.png" group-title="Bangla" tvg-server="Server 1",Asian TV
 http://103.229.254.25:7001/play/a063/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/53/2/atn-bangla-logo-png_seeklogo-537053.png" group-title="Bangla" tvg-country="BD" tvg-server="Server 1",ATN Bangla
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/53/2/atn-bangla-logo-png_seeklogo-537053.png" group-title="Bangla" tvg-country="BD" tvg-server="Server 1",ATN Bangla [BD]
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 #DISABLED:#EXTINF:-1 tvg-logo="https://atnmusictv.com/images/logo.png" group-title="Music" tvg-server="Server 1",ATN Music
 #DISABLED:https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ATN_News_logo.svg/960px-ATN_News_logo.svg.png" group-title="News" tvg-country="BD" tvg-server="Server 1",ATN NEWS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ATN_News_logo.svg/960px-ATN_News_logo.svg.png" group-title="News" tvg-country="BD" tvg-server="Server 1",ATN NEWS [BD]
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/AXN_HD_Logo_2015.svg" group-title="Movies" tvg-country="US" tvg-server="Server 1",AXN FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/AXN_HD_Logo_2015.svg" group-title="Movies" tvg-country="US" tvg-server="Server 1",AXN FHD [US]
 http://203.18.159.115/AXNHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://apiexcellent.com/storage/images/medias/television/product/b4u-movies-television10050.webp" group-title="Movies" tvg-server="Server 1",B4U Movies
 http://103.175.73.12:8080/live/43/43_0.m3u8
@@ -47,9 +47,9 @@ http://103.175.73.12:8080/live/43/43_0.m3u8
 https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00877-b4unetworkeuropefast-b4umusic-xiaomiin/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-server="Server 1",Bangla Plus
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxmWWziIDbNnUn5EpjQVrla8h7Ohuw7OJI8cVrAZgveuJygc_Sg79BKumnwOn4vUpKy-o&usqp=CAU" group-title="Bangla" tvg-country="BD" tvg-server="Server 1",Bangla Vision
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxmWWziIDbNnUn5EpjQVrla8h7Ohuw7OJI8cVrAZgveuJygc_Sg79BKumnwOn4vUpKy-o&usqp=CAU" group-title="Bangla" tvg-country="BD" tvg-server="Server 1",Bangla Vision [BD]
 http://103.229.254.25:7001/play/a06d/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxmWWziIDbNnUn5EpjQVrla8h7Ohuw7OJI8cVrAZgveuJygc_Sg79BKumnwOn4vUpKy-o&usqp=CAU" group-title="Bangla" tvg-country="BD" tvg-server="Server 2",Bangla Vision
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxmWWziIDbNnUn5EpjQVrla8h7Ohuw7OJI8cVrAZgveuJygc_Sg79BKumnwOn4vUpKy-o&usqp=CAU" group-title="Bangla" tvg-country="BD" tvg-server="Server 2",Bangla Vision [BD]
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lILjyQtVME8/sddefault.jpg" group-title="Bangla" tvg-server="Server 1",BanglaTV HD
 http://103.229.254.25:7001/play/a06c/index.m3u8
@@ -65,7 +65,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-209587/index.m3u8
 https://streams2.sofast.tv/ptnr-yupptv/title-BEST_ACTION_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9a4a5412-ca99-48d3-9013-d1811b95b9d2/manifest.m3u8?hdnts=st%3D1770940793~exp%3D1770962393~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-BEST_ACTION_YUPPTV%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F9a4a5412-ca99-48d3-9013-d1811b95b9d2%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.182.225.137_yuppfast_2_channel_256_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.182.225.137_yuppfast_2_channel_256_-1~hmac%3Deb932934d8f7d64df402a8195dc7085d429ccc8b92dc15ba6ecf60c96c09d3fb
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vuyumm.png" group-title="Movies" tvg-server="Server 1",BEST DRAMA TV
 https://streams2.sofast.tv/ptnr-yupptv/title-BEST_DRAMA_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9800ea5c-2183-4160-9f01-70e5d6428a50/manifest.m3u8?hdnts=st%3D1770940793~exp%3D1770962393~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-BEST_DRAMA_YUPPTV%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F9800ea5c-2183-4160-9f01-70e5d6428a50%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.182.225.137_yuppfast_2_channel_257_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.182.225.137_yuppfast_2_channel_257_-1~hmac%3Dda4c60344f283214b250cd23d44dd7d51abd0e658f330b04997206a6fc0d13d5
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_l6c-PPJ1sgFS7b37M7GXWTsuJhHVO2eh81N2Okr6HGzQ=s900-c-k-c0x00ffffff-no-rj" group-title="Bangla" tvg-country="BD" tvg-server="Server 1",BijoyTV
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_l6c-PPJ1sgFS7b37M7GXWTsuJhHVO2eh81N2Okr6HGzQ=s900-c-k-c0x00ffffff-no-rj" group-title="Bangla" tvg-country="BD" tvg-server="Server 1",BijoyTV [BD]
 http://103.229.254.25:7001/play/a066/index.m3u8
 #EXTINF:-1 group-title="English" tvg-server="Server 1",Bloomberg
 https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-dash/bloomberg.mpd
@@ -163,7 +163,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/FRANCE_24/manifest.mpd
 https://amg00106-france24-france24-samsungit-ya8pw.amagi.tv/playlist/amg00106-france24-france24-samsungit/cb573d1e786c64899dd43a62cef24482847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae774cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f8e955178a65f4b7011bc67b45fa83439c8201b3d6820d8311d374a2109496f882db44d08cb9599e06e627475c2c69ebed13f8d26997e8bd4c0db3411c5b44158ccd92fa5d7287575363fcf0c6be6cf161a0e3499a41078b3fbc60a911a345b753db8b22a1a9a8914351299bca5a6c22d289cae0e014038d59d583c4f86e26e79c797943da23cc21142b84efc21a83b178fcdd38b197562e0cf2b86bbc80e8f385d98c4e8f6bc9c8e4883c302d096552dc2ec8fd6cdf3a937ca1ca6149362b5f9da97ce09beb345a023de6fa3e9e7349d9e146e2b50116c57a1256e461960e4b3c8c7c5b75eb29f68d2f2ca7124ad46573ab0375b74bf2ee78aee7c3b35272f5ffd752f36ad8b008f9ff16e6386f0e4ce0a46c176e6449fdc22a4d3c70c840a4f4cfe27c0649acd4c5eccf5e3d4868440342dbacb73ecbcef3281b17d35a6935274759c552a41cb56a7e0920cd11c4bf4925d5744603d2e76e0d143cec8bdbe7a0d9c543b97aa9bfde313d345466fd7e451167ddb2824eee7a2c5a7f4e8b1b6b53b7650316f2f429845028fd15faa172a9b2e6c3f9d930797b5327aa511d/94/848x480_1686360/index.m3u8
 #EXTINF:-1 tvg-logo="https://gazitv.com/wp-content/uploads/2019/06/GTV-LOGO-HD240x108.png" group-title="Bangla" tvg-server="Server 1",Gazi TV
 http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
-#EXTINF:-1 group-title="News" tvg-country="CA" tvg-server="Server 1",Global News
+#EXTINF:-1 group-title="News" tvg-country="CA" tvg-server="Server 1",Global News [CA]
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/6/6a/%E0%A6%97%E0%A7%8D%E0%A6%B2%E0%A7%8B%E0%A6%AC%E0%A6%BE%E0%A6%B2_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B_%E0%A7%A8.png" group-title="Bangla" tvg-server="Server 1",GLOBAL TV HD
 http://103.229.254.25:7001/play/a05o/index.m3u8
