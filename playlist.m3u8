@@ -97,11 +97,11 @@ http://103.229.254.25:7001/play/a05n/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://appv10static.jaagobd.com/media/channel_logos/channel-i-logo-F9F1100F83-seeklogo.com.png" group-title="Bangla" tvg-server="Server 2",Channel I HD
 http://103.229.254.25:7001/play/a06e/index.m3u8
-#EXTINF:-1 group-title="News" tvg-server="Server 1",CNA
+#EXTINF:-1 group-title="News" tvg-country="SG" tvg-server="Server 1",CNA [SG]
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/CNN-Logo.png" group-title="News" tvg-server="Server 1",CNN
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/CNN-Logo.png" group-title="News" tvg-country="US" tvg-server="Server 1",CNN [US]
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/CNN-Logo.png" group-title="News" tvg-server="Server 2",CNN
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/CNN-Logo.png" group-title="News" tvg-country="US" tvg-server="Server 2",CNN [US]
 https://viamotionhsi.netplus.ch/live/eds/cnn/browser-dash/cnn.mpd
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/4ac8cc41d31d22a1f7863b8ec54dbce6.png" group-title="Bangla" tvg-server="Server 1",Colors Bangla HD
 http://103.229.254.25:7001/play/a0ds/index.m3u8
