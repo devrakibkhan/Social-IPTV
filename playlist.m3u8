@@ -331,11 +331,11 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.
 #DISABLED:https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="English" tvg-server="Server 1",Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-server="Server 1",TRT World
+#EXTINF:-1 group-title="News" tvg-country="TR" tvg-server="Server 1",TRT World [TR]
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://img.willow.tv/apps/wlw-nw-lgo.png" group-title="Sports" tvg-server="Server 1",Willow TV
 https://mysouq1.com/live/76631957/10205687/675819.ts
-#EXTINF:-1 group-title="News" tvg-server="Server 1",Wion News
+#EXTINF:-1 group-title="News" tvg-country="IN" tvg-server="Server 1",Wion News [IN]
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/nf15u1K12VXgBLh5HTf0asDF5Fc36RsUICRi8xY1Cs0QhAL_jmtW07wAUdRzrYDBKwv_KIa09Q=s900-c-k-c0x00ffffff-no-rj" group-title="Music" tvg-server="Server 1",YRF Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
