@@ -175,7 +175,7 @@ http://103.229.254.25:7001/play/a07k/index.m3u8
 http://103.175.73.12:8080/live/53/53_0.m3u8
 #EXTINF:-1 tvg-logo="https://images.muslimandquran.com/frontend/images/ILM_TV" group-title="Islamic" tvg-server="Server 1",ILM TV
 https://tplay.live/originals/ilm-tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOuZOIPdupd0t7vf4BGnYgGeo1PQWV37_9Sg&s" group-title="News" tvg-server="Server 1",INDEPENDENT TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOuZOIPdupd0t7vf4BGnYgGeo1PQWV37_9Sg&s" group-title="News" tvg-country="BD" tvg-server="Server 1",INDEPENDENT TV [BD]
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://islamchannelbangla.tv/wp-content/uploads/2024/04/Islam-channel-Bangla-logo.png" group-title="Islamic" tvg-server="Server 1",Islam Bangla
 https://live-islamtv-bangla.simplestreamcdn.com/live12/islamtv_bangla/bitrate1.isml/bitrate1-audio_0=128000-video=2406976.m3u8
@@ -231,7 +231,7 @@ https://d1tm3cz23db55z.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/36/1/news24-channel-logo-png_seeklogo-362149.png" group-title="News" tvg-server="Server 1",News 24 HD
 http://103.229.254.25:7001/play/a06i/index.m3u8
-#EXTINF:-1 group-title="News" tvg-server="Server 1",Newsmax
+#EXTINF:-1 group-title="News" tvg-country="US" tvg-server="Server 1",Newsmax [US]
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" group-title="Bangla" tvg-server="Server 1",NEXUS TV
 http://103.229.254.25:7001/play/a05m/index.m3u8
@@ -261,7 +261,7 @@ https://stream.shariarsuvo.com/hls6/rajdhaniweb.m3u8
 http://103.229.254.25:7001/play/a068/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTzzQb-2GEhC4xPijUwu-I1ACTavtg9QNIjmaxs8SEb1v3b0aud6UVsbDSAZLTEM80KuI&usqp=CAU" group-title="Bangla" tvg-server="Server 2",Rtv HD
 http://116.204.149.16/rtvhd/index.m3u8
-#EXTINF:-1 group-title="News" tvg-server="Server 1",Russia Today
+#EXTINF:-1 group-title="News" tvg-country="RU" tvg-server="Server 1",Russia Today [RU]
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-server="Server 1",SA TV HD
 http://103.229.254.25:7001/play/a062/index.m3u8
