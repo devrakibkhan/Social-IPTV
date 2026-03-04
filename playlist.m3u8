@@ -129,9 +129,9 @@ https://amitomar.hoichoi.pro/bdixbd.net/index.fmp4.m3u8
 http://198.195.239.50:8095/Tsports/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-server="Server 8",Current Live Sports
 http://198.195.239.50:8095/WiLLow/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/DBC_FB_LOGO.jpg" group-title="News" tvg-server="Server 2",DBC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/DBC_FB_LOGO.jpg" group-title="News" tvg-server="Ch Shaheb",DBC
 http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/DBC_FB_LOGO.jpg" group-title="News" tvg-server="Server 1",DBC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/DBC_FB_LOGO.jpg" group-title="News" tvg-server="bdix",DBC
 http://103.229.254.25:7001/play/a06h/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/DBC_FB_LOGO.jpg" group-title="News" tvg-server="AynaOTT",DBC
 https://tvsen6.aynascope.net/dbcnews/index.m3u8?e=1772575116&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b23808005a6864c5bcb15b53e94a9139
