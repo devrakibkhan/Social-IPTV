@@ -191,7 +191,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 http://103.229.254.25:7001/play/a09k/index.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Bangla" tvg-server="Server 1",Ekushey TV
 http://103.229.254.25:7001/play/a05x/index.m3u8
-#EXTINF:-1 tvg-id="EntertainmentTonight.us@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTGQ6jFNL8LY14PLHCWNNYZaNNRk057JY50Q&s" group-title="News" tvg-country="US" tvg-server="Server 1",Entertainment Tonight [US]
+#EXTINF:-1 tvg-id="EntertainmentTonight.us@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTGQ6jFNL8LY14PLHCWNNYZaNNRk057JY50Q&s" group-title="English" tvg-country="US" tvg-server="Server 1",Entertainment Tonight [US]
 https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/08/Fox-News-Channel-Emblem-1024x576.png" group-title="News" tvg-country="US" tvg-server="Server 1",Fox News [US]
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
