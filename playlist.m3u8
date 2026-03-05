@@ -91,6 +91,8 @@ https://streams2.sofast.tv/ptnr-yupptv/title-BEST_DRAMA_YUPPTV/v1/master/611d79b
 http://103.229.254.25:7001/play/a066/index.m3u8
 #EXTINF:-1 group-title="English" tvg-server="Server 1",Bloomberg
 https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-dash/bloomberg.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/px0CSti.png" group-title="Music" tvg-country="US" tvg-server="Server 1",Blues TV [US]
+https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Boishakhi_Tv_Logo.png" group-title="Bangla" tvg-server="Server 1",Boishakhi TV
 http://103.229.254.25:7001/play/a067/index.m3u8
 #EXTINF:-1 tvg-logo="https://ranjhatv.yolasite.com/resources/bollywood-action-channel-images-logo-large.png" group-title="Movies" tvg-server="Server 1",Bollywood Action
@@ -211,6 +213,8 @@ https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8
 https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
 #EXTINF:-1 tvg-logo="https://gazitv.com/wp-content/uploads/2019/06/GTV-LOGO-HD240x108.png" group-title="Bangla" tvg-server="Server 1",Gazi TV
 http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/5pUcU1hV801eiqcR7Yx7AGKDO8NBXNAxaObL2YW5U_JPrfhj5MPk2Aty-BNsthVEuC4" group-title="News" tvg-country="UK" tvg-server="1080p",GB News [UK]
+https://amg01076-lightningintern-gbnewsau-samsungau-et7fz.amagi.tv/playlist/amg01076-lightningintern-gbnewsau-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://linkchur.top/amrbd/logos/ch_90.png" group-title="News" tvg-country="PK" tvg-server="Server 1",GEO NEWS [PK]
 http://203.18.159.115/GEONEWSHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="News" tvg-country="CA" tvg-server="Server 1",Global News [CA]
