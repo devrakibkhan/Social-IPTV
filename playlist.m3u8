@@ -291,8 +291,8 @@ http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 http://172.19.178.180/servers-stailer/143srv.php?stream=nick_jr&format=m3u8
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg" group-title="Bangla" tvg-server="Server 1",NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
-#EXTINF:-1 group-title="Other Language" tvg-country="OM" tvg-server="Server 1",Oman TV [OM]
-http://103.161.153.165:8000/play/a04r/index.m3u8
+#DISABLED:#EXTINF:-1 group-title="Other Language" tvg-country="OM" tvg-server="Server 1",Oman TV [OM]
+#DISABLED:http://103.161.153.165:8000/play/a04r/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="Islamic" tvg-server="Server 1",Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="Islamic" tvg-server="Server 2",Peace TV Bangla
@@ -301,6 +301,8 @@ http://172.19.178.180/servers-stailer/146srv.php?stream=peace_tv_bangla&format=m
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 #DISABLED:#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/pocket-films.png" group-title="Movies" tvg-server="Server 1",Pocket Films
 #DISABLED:https://vglivessai.akamaized.net/ptnr-yupptv/title-Pocket_Films/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/playlist.m3u8?hdnts=st%3D1770940794~exp%3D1770962394~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-Pocket_Films%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fb8ada260-bb81-472b-b7c1-3a79213a84b8%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.182.225.137_yuppfast_2_channel_318_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.182.225.137_yuppfast_2_channel_318_-1~hmac%3D064b18ffa809e92dcac0bfe33a503fc5732006d2ad5f04b1dde5c1325758d8fd
+#EXTINF:-1 group-title="Other Language" tvg-country="QA" tvg-server="Server 1",Qatar TV [QA]
+http://103.161.153.165:8000/play/a053/index.m3u8
 #EXTINF:-1 tvg-logo="https://rajdhanitv.online/assets/images/logo/1757970614logo%20footer.png" group-title="Bangla" tvg-server="Server 1",RAJDHANI TV HD
 https://stream.shariarsuvo.com/hls6/rajdhaniweb.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTzzQb-2GEhC4xPijUwu-I1ACTavtg9QNIjmaxs8SEb1v3b0aud6UVsbDSAZLTEM80KuI&usqp=CAU" group-title="Bangla" tvg-server="Server 1",Rtv HD
