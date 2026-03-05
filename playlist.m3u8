@@ -193,6 +193,10 @@ http://103.229.254.25:7001/play/a09k/index.m3u8
 http://103.229.254.25:7001/play/a05x/index.m3u8
 #EXTINF:-1 tvg-id="EntertainmentTonight.us@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTGQ6jFNL8LY14PLHCWNNYZaNNRk057JY50Q&s" group-title="English" tvg-country="US" tvg-server="Server 1",Entertainment Tonight [US]
 https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
+#EXTINF:-1 group-title="News" tvg-country="BE" tvg-server="720p",Euronews English [BE]
+https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-country="BE" tvg-server="Server 2",Euronews English [BE]
+https://dash4.antik.sk/live/test_euronews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/08/Fox-News-Channel-Emblem-1024x576.png" group-title="News" tvg-country="US" tvg-server="Server 1",Fox News [US]
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/08/Fox-News-Channel-Emblem-1024x576.png" group-title="News" tvg-country="US" tvg-server="Server 2",Fox News [US]
