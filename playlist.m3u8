@@ -157,8 +157,10 @@ https://amitomar.hoichoi.pro/bdixbd.net/index.fmp4.m3u8
 http://198.195.239.50:8095/Tsports/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-server="Server 8",Current Live Sports
 http://198.195.239.50:8095/WiLLow/index.m3u8
-#EXTINF:-1 group-title="Music" tvg-server="1080p",Dance TV Estonia
+#EXTINF:-1 group-title="Music" tvg-server="One",Dance TV Estonia
 https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
+#EXTINF:-1 group-title="Music" tvg-server="Algorhythm",Dance TV Estonia
+https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/DBC_FB_LOGO.jpg" group-title="News" tvg-server="Ch Shaheb",DBC
 http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/DBC_FB_LOGO.jpg" group-title="News" tvg-server="bdix",DBC
