@@ -3,6 +3,8 @@
 https://raw.githubusercontent.com/arijitreza/web/9f84a3561c6dd32152ac88a7bb4476dc1d06e79d/playlist.m3u
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_720%2Ch_405%2Cc_scale%2Cf_webp%2Cq_auto:eco/resources/0-9-9z5543514/list/1920x1080listd4a78816ce2d4ea7afc7efe5e639e9cd.jpg" group-title="Movies" tvg-country="IN" tvg-server="Server 1",& prive HD [IN]
 http://103.229.254.25:7001/play/a03f/index.m3u8
+#EXTINF:-1 tvg-id="30AMusic.us@SD" tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="Music" tvg-country="US" tvg-server="Server 1",30A Music [US]
+https://30a-tv.com/music.m3u8
 #DISABLED:#EXTINF:-1 tvg-logo="https://iili.io/d9mgekX.png" group-title="Movies" tvg-server="Server 1",4 Film
 #DISABLED:https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest.mpd
 #DISABLED:#EXTINF:-1 tvg-logo="https://iili.io/d9mgekX.png" group-title="Movies" tvg-server="Server 2",4 Film
@@ -235,6 +237,8 @@ http://103.175.73.12:8080/live/53/53_0.m3u8
 https://tplay.live/originals/ilm-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOuZOIPdupd0t7vf4BGnYgGeo1PQWV37_9Sg&s" group-title="News" tvg-country="BD" tvg-server="Server 1",INDEPENDENT TV [BD]
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-server="Server 1",InTrouble
+https://amg00861-amg00861c6-rlaxx-uk-3951.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.iranintl.com/images/rdk9umy0/production/160ef70030c32425c484a6be7008711055d849b5-1298x1066.jpg?rect=0%2C193%2C1298%2C681&w=1200&h=630&fit=max&auto=format" group-title="News" tvg-country="IR" tvg-server="Dev Live",Iran International [IR]
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/201491b7327fffb27d78f800dd9f42d2" group-title="News" tvg-country="IR" tvg-server="Server 1",Iran Press [IR]
