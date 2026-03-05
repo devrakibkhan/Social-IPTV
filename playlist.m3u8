@@ -343,6 +343,8 @@ https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 http://103.161.153.165:8000/play/a053/index.m3u8
 #EXTINF:-1 tvg-logo="https://rajdhanitv.online/assets/images/logo/1757970614logo%20footer.png" group-title="Bangla" tvg-server="Server 1",RAJDHANI TV HD
 https://stream.shariarsuvo.com/hls6/rajdhaniweb.m3u8
+#EXTINF:-1 tvg-id="RetroCrush.us@SD" tvg-logo="https://i.imgur.com/M40b4YI.png" group-title="Kids" tvg-country="JP" tvg-server="Server 1",RetroCrush [JP]
+https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/profile/1/profileManifest.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTzzQb-2GEhC4xPijUwu-I1ACTavtg9QNIjmaxs8SEb1v3b0aud6UVsbDSAZLTEM80KuI&usqp=CAU" group-title="Bangla" tvg-server="Server 1",Rtv HD
 http://103.229.254.25:7001/play/a068/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTzzQb-2GEhC4xPijUwu-I1ACTavtg9QNIjmaxs8SEb1v3b0aud6UVsbDSAZLTEM80KuI&usqp=CAU" group-title="Bangla" tvg-server="Server 2",Rtv HD
