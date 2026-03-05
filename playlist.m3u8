@@ -43,13 +43,13 @@ http://103.229.254.25:7001/play/a0dr/index.m3u8
 http://203.18.159.115/ANIMALPLANETHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRKG7DsOmuTHOGWOpDP-JJ0dn29ccv6XnO0zJc1YwiIuPEla17-YmkiyQ-&s=10" group-title="Kids" tvg-server="Server 1",Animes HD. TV
 https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
-#EXTINF:-1 group-title="Music" tvg-server="Server 1",Arabica TV
-http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="News" tvg-country="KR" tvg-server="Server 1",Arirang TV  [KR]
+#DISABLED:#EXTINF:-1 group-title="Music" tvg-server="Server 1",Arabica TV
+#DISABLED:http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="News" tvg-country="KR" tvg-server="Server 1",Arirang TV [KR]
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="News" tvg-country="KR" tvg-server="Server 2",Arirang TV  [KR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="News" tvg-country="KR" tvg-server="Server 2",Arirang TV [KR]
 https://dash3.antik.sk/live/test_arirang/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="News" tvg-country="KR" tvg-server="Server 3",Arirang TV  [KR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="News" tvg-country="KR" tvg-server="Server 3",Arirang TV [KR]
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/162-1620250_asian-tv-bd-logo-hd-png-download.png" group-title="Bangla" tvg-country="BD" tvg-server="Server 1",Asian TV [BD]
 http://103.229.254.25:7001/play/a063/index.m3u8
@@ -97,8 +97,8 @@ https://streams2.sofast.tv/ptnr-yupptv/title-BEST_DRAMA_YUPPTV/v1/master/611d79b
 http://103.229.254.25:7001/play/a066/index.m3u8
 #EXTINF:-1 group-title="English" tvg-server="Server 1",Bloomberg
 https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-dash/bloomberg.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/px0CSti.png" group-title="Music" tvg-country="US" tvg-server="Server 1",Blues TV [US]
-https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
+#DISABLED:#EXTINF:-1 tvg-logo="https://i.imgur.com/px0CSti.png" group-title="Music" tvg-country="US" tvg-server="Server 1",Blues TV [US]
+#DISABLED:https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Boishakhi_Tv_Logo.png" group-title="Bangla" tvg-server="Server 1",Boishakhi TV
 http://103.229.254.25:7001/play/a067/index.m3u8
 #EXTINF:-1 tvg-logo="https://ranjhatv.yolasite.com/resources/bollywood-action-channel-images-logo-large.png" group-title="Movies" tvg-server="Server 1",Bollywood Action
@@ -157,22 +157,22 @@ https://amitomar.hoichoi.pro/bdixbd.net/index.fmp4.m3u8
 http://198.195.239.50:8095/Tsports/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-server="Server 8",Current Live Sports
 http://198.195.239.50:8095/WiLLow/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" group-title="Music" tvg-server="One",Dance TV Estonia
-https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" group-title="Music" tvg-server="Algorhythm",Dance TV Estonia
-https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" group-title="Music" tvg-server="Two",Dance TV Estonia
-https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" group-title="Music" tvg-server="Deep House",Dance TV Estonia
-https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" group-title="Music" tvg-server="Mainstage",Dance TV Estonia
-https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" group-title="Music" tvg-server="Floor",Dance TV Estonia
-https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" group-title="Music" tvg-server="Mnimal Tech",Dance TV Estonia
-https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" group-title="Music" tvg-server="Techno Warehouse",Dance TV Estonia
-https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8
+#DISABLED:#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" group-title="Music" tvg-server="One",Dance TV Estonia
+#DISABLED:https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
+#DISABLED:#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" group-title="Music" tvg-server="Algorhythm",Dance TV Estonia
+#DISABLED:https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8
+#DISABLED:#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" group-title="Music" tvg-server="Two",Dance TV Estonia
+#DISABLED:https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+#DISABLED:#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" group-title="Music" tvg-server="Deep House",Dance TV Estonia
+#DISABLED:https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8
+#DISABLED:#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" group-title="Music" tvg-server="Mainstage",Dance TV Estonia
+#DISABLED:https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8
+#DISABLED:#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" group-title="Music" tvg-server="Floor",Dance TV Estonia
+#DISABLED:https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8
+#DISABLED:#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" group-title="Music" tvg-server="Mnimal Tech",Dance TV Estonia
+#DISABLED:https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8
+#DISABLED:#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" group-title="Music" tvg-server="Techno Warehouse",Dance TV Estonia
+#DISABLED:https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/DBC_FB_LOGO.jpg" group-title="News" tvg-server="Ch Shaheb",DBC
 http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/DBC_FB_LOGO.jpg" group-title="News" tvg-server="bdix",DBC
@@ -309,19 +309,19 @@ http://103.229.254.25:7001/play/a0et/index.m3u8
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-id="MrBeanAnimated.uk@English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="Kids" tvg-country="UK" tvg-server="Server 1",Mr. Bean Animated [UK]
 https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/87-877053_mtv-music-hd-mtv-live-hd-logo.png" group-title="Music" tvg-server="Server 1",MTV HD
-http://103.175.73.12:8080/live/150/150_0.m3u8
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/87-877053_mtv-music-hd-mtv-live-hd-logo.png" group-title="Music" tvg-server="Server 2",MTV HD
 http://103.229.254.25:7001/play/a02s/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/87-877053_mtv-music-hd-mtv-live-hd-logo.png" group-title="Music" tvg-server="HD",MTV HD
 http://103.161.153.165:8000/play/a056/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/87-877053_mtv-music-hd-mtv-live-hd-logo.png" group-title="Music" tvg-server="Server 1",MTV HD
+http://103.175.73.12:8080/live/150/150_0.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/12/musicbangla.jpg" group-title="Music" tvg-server="Server 1",Music Bangla
 http://vmi3039524.contaboserver.net:5050/music/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/VWjHNn5Y/MYTV-HD.png" group-title="Bangla" tvg-server="Server 1",MY TV HD
 http://116.204.149.16/mytv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nagorik%20TV.png" group-title="Bangla" tvg-server="Server 1",Nagorik TV
 http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Naruto.us@US" tvg-logo="https://i.imgur.com/M8X3Kvc.png" group-title="Kids" tvg-country="JP" tvg-server="1080p",Naruto  [JP]
+#EXTINF:-1 tvg-id="Naruto.us@US" tvg-logo="https://i.imgur.com/M8X3Kvc.png" group-title="Kids" tvg-country="JP" tvg-server="1080p",Naruto [JP]
 https://d21vn5eki5qsdi.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-server="Server 1",NAT GEO FHD
 http://203.18.159.115/NATGEOHD/tracks-v1a1/mono.m3u8
@@ -335,10 +335,6 @@ https://d1tm3cz23db55z.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 http://103.161.153.165:8000/play/a03j/index.m3u8
 #EXTINF:-1 tvg-logo="https://asianews.network/wp-content/uploads/bfi_thumb/NDTV-logo-7695noll0a3o77rdn1v1rwygourz0x52k2w4poe7o00.jpg" group-title="News" tvg-server="Server 1",NDTV
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:-1 group-title="Music" tvg-server="Server 1",New Channel
-
-#EXTINF:-1 group-title="News" tvg-server="Server 1",New Channel
-
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/36/1/news24-channel-logo-png_seeklogo-362149.png" group-title="News" tvg-server="Server 1",News 24 HD
 https://tvsen6.aynascope.net/news24/index.m3u8?e=1772575118&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=1da496adf7131fa4cdb3d020f8e6b21f
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/36/1/news24-channel-logo-png_seeklogo-362149.png" group-title="News" tvg-server="Server 1",News 24 HD
@@ -393,8 +389,8 @@ http://103.229.254.25:7001/play/a062/index.m3u8
 http://103.161.153.165:8000/play/a023/index.m3u8
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Sangeet%20Bangla.png" group-title="Music" tvg-server="Server 1",Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
-#EXTINF:-1 group-title="Music" tvg-server="Server 1",Shinchan
-https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
+#DISABLED:#EXTINF:-1 group-title="Music" tvg-server="Server 1",Shinchan
+#DISABLED:https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
 #EXTINF:-1 group-title="News" tvg-server="Server 1",Sky News
 https://viamotionhsi.netplus.ch/live/eds/skynews/browser-dash/skynews.mpd
 #EXTINF:-1 group-title="News" tvg-server="Server 2",Sky News
