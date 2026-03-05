@@ -343,8 +343,14 @@ http://203.18.159.115/SONYBBCEARTHHD/tracks-v1a1/mono.m3u8
 https://raw.githubusercontent.com/arijitreza/web/9f84a3561c6dd32152ac88a7bb4476dc1d06e79d/playlist.m3u
 #EXTINF:-1 group-title="Movies" tvg-server="Server 1",Sony PIX HD
 http://103.229.254.25:7001/play/a0ed/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-server="Server 2",Sony PIX HD
+http://103.161.153.165:8000/play/a056/index.m3u8
+#EXTINF:-1 group-title="Hindi / Urdu" tvg-country="IN" tvg-server="HD",SONY SAB [IN]
+http://103.161.153.165:8000/play/a057/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png" group-title="Movies" tvg-server="Server 1",Sony SET
 http://103.229.254.25:7001/play/a09u/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png" group-title="Hindi / Urdu" tvg-server="HD",Sony SET FHD
+http://103.161.153.165:8000/play/a01i/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png" group-title="Hindi / Urdu" tvg-server="Server 1",Sony SET FHD
 http://203.18.159.115/SONYENTHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZpPg2Gdg/SRK-TV.png" group-title="Bangla" tvg-server="Server 1",SRK TV
