@@ -413,6 +413,8 @@ https://raw.githubusercontent.com/arijitreza/web/9f84a3561c6dd32152ac88a7bb4476d
 http://103.229.254.25:7001/play/a0ed/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/41.png" group-title="Movies" tvg-server="Server 2",Sony PIX HD
 http://103.161.153.165:8000/play/a056/index.m3u8
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/41.png" group-title="Movies" tvg-server="Server 3",Sony PIX HD
+https://edge2.roarzone.info:8447/roarzone/edge3/sony-pix-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/36.png" group-title="Hindi / Urdu" tvg-country="IN" tvg-server="HD",SONY SAB [IN]
 http://103.161.153.165:8000/play/a057/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png" group-title="Movies" tvg-server="Server 1",Sony SET
