@@ -245,6 +245,8 @@ https://amg01076-lightningintern-gbnewsau-samsungau-et7fz.amagi.tv/playlist/amg0
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://linkchur.top/amrbd/logos/ch_90.png" group-title="News" tvg-country="PK" tvg-server="Server 1",GEO NEWS [PK]
 http://203.18.159.115/GEONEWSHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://linkchur.top/amrbd/logos/ch_90.png" group-title="News" tvg-country="PK" tvg-server="Server 2",GEO NEWS [PK]
+
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180714/ugo/kisspng-global-news-global-television-network-corus-entert-logo-pot-quebec-5b4a7b27122a34.4291103315316078470744.jpg" group-title="News" tvg-country="CA" tvg-server="Server 1",Global News [CA]
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/6/6a/%E0%A6%97%E0%A7%8D%E0%A6%B2%E0%A7%8B%E0%A6%AC%E0%A6%BE%E0%A6%B2_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B_%E0%A7%A8.png" group-title="Bangla" tvg-server="Server 1",GLOBAL TV HD
