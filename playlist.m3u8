@@ -25,7 +25,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #DISABLED:https://tvsen6.aynascope.net/AbcNews/index.m3u8?e=1772575110&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=935a9c8ac020e76049fb06dd6e007560
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/065af1ce1aa68d9d96c27050a8125413" group-title="News" tvg-country="US" tvg-server="Server 3",ABC News [US]
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/065af1ce1aa68d9d96c27050a8125413" group-title="News" tvg-country="US" tvg-server="Server 1",ABC News Live [US]
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/K8w8Wg_TLVd8JM6VyhEFYSQtOMvPIbW-gGcZ2h2MploGS_yiA5-HNGlqNwSulHjfeEhWiTJj0d5okT2-kvl1LyY" group-title="News" tvg-country="US" tvg-server="Server 1",ABC News Live [US]
 https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master_4000.m3u8
 #EXTINF:-1 group-title="Movies" tvg-server="Server 1",Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
@@ -127,7 +127,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #DISABLED:#EXTINF:-1 tvg-logo="https://appv10static.jaagobd.com/media/channel_logos/channel-i-logo-F9F1100F83-seeklogo.com.png" group-title="Bangla" tvg-server="Server 2",Channel I HD
 #DISABLED:http://103.229.254.25:7001/play/a06e/index.m3u8
-#DISABLED:#EXTINF:-1 group-title="News" tvg-country="SG" tvg-server="Server 1",CNA [SG]
+#DISABLED:#EXTINF:-1 tvg-logo="https://astromedia.com.my/wp-content/uploads/2024/01/CNA.png" group-title="News" tvg-country="SG" tvg-server="Server 1",CNA [SG]
 #DISABLED:https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/CNN-Logo.png" group-title="News" tvg-country="US" tvg-server="Server 1",CNN [US]
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
@@ -241,9 +241,11 @@ https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/cha
 http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/5pUcU1hV801eiqcR7Yx7AGKDO8NBXNAxaObL2YW5U_JPrfhj5MPk2Aty-BNsthVEuC4" group-title="News" tvg-country="GB" tvg-server="1080p",GB News [GB]
 https://amg01076-lightningintern-gbnewsau-samsungau-et7fz.amagi.tv/playlist/amg01076-lightningintern-gbnewsau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2025/04/geo-logo.png" group-title="Hindi / Urdu" tvg-country="PK" tvg-server="Server 1",GEO Entertainment [PK]
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://linkchur.top/amrbd/logos/ch_90.png" group-title="News" tvg-country="PK" tvg-server="Server 1",GEO NEWS [PK]
 http://203.18.159.115/GEONEWSHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="News" tvg-country="CA" tvg-server="Server 1",Global News [CA]
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180714/ugo/kisspng-global-news-global-television-network-corus-entert-logo-pot-quebec-5b4a7b27122a34.4291103315316078470744.jpg" group-title="News" tvg-country="CA" tvg-server="Server 1",Global News [CA]
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/6/6a/%E0%A6%97%E0%A7%8D%E0%A6%B2%E0%A7%8B%E0%A6%AC%E0%A6%BE%E0%A6%B2_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B_%E0%A7%A8.png" group-title="Bangla" tvg-server="Server 1",GLOBAL TV HD
 http://103.229.254.25:7001/play/a05o/index.m3u8
@@ -341,13 +343,13 @@ https://tvsen6.aynascope.net/news24/index.m3u8?e=1772575118&u=78be6644-0a65-48ec
 #DISABLED:http://103.229.254.25:7001/play/a06i/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/1001f1d96d63da3ced733a843613b6e0" group-title="News" tvg-country="IN" tvg-server="Server 1",News Nation [IN]
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
-#EXTINF:-1 group-title="News" tvg-country="US" tvg-server="Server 1",Newsmax [US]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUc3QILp2MdiknzQaZVy3ydCDIBgDSsoacvQ&s" group-title="News" tvg-country="US" tvg-server="Server 1",Newsmax 2 [US]
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" group-title="Bangla" tvg-server="Server 1",NEXUS TV
 http://103.229.254.25:7001/play/a05m/index.m3u8
-#EXTINF:-1 group-title="News" tvg-server="Server 1",NHK World
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2022/09/14105807/NHK-World-TV.jpg" group-title="News" tvg-server="Server 1",NHK World
 https://cdn10jtedge.indihometv.com/atm/DASH/NHK_WORLD_JAPAN/manifest.mpd
-#DISABLED:#EXTINF:-1 group-title="News" tvg-server="Server 2",NHK World
+#DISABLED:#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2022/09/14105807/NHK-World-TV.jpg" group-title="News" tvg-server="Server 2",NHK World
 #DISABLED:https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg" group-title="Kids" tvg-server="Server 1",NICK
 http://103.229.254.25:7001/play/a07b/index.m3u8
@@ -377,11 +379,11 @@ https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/profile
 http://103.229.254.25:7001/play/a068/index.m3u8
 #DISABLED:#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTzzQb-2GEhC4xPijUwu-I1ACTavtg9QNIjmaxs8SEb1v3b0aud6UVsbDSAZLTEM80KuI&usqp=CAU" group-title="Bangla" tvg-server="Server 2",Rtv HD
 #DISABLED:http://116.204.149.16/rtvhd/index.m3u8
-#EXTINF:-1 group-title="News" tvg-country="RU" tvg-server="Server 1",Russia Today [RU]
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/926c45196425487.Y3JvcCwxMzgwLDEwODAsMjcwLDA.jpg" group-title="News" tvg-country="RU" tvg-server="Server 1",Russia Today [RU]
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#DISABLED:#EXTINF:-1 group-title="News" tvg-country="RU" tvg-server="Server 2",Russia Today [RU]
+#DISABLED:#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/926c45196425487.Y3JvcCwxMzgwLDEwODAsMjcwLDA.jpg" group-title="News" tvg-country="RU" tvg-server="Server 2",Russia Today [RU]
 #DISABLED:https://rt-glb.rttv.com/live/rtnews/playlist.m3u8?v=1
-#DISABLED:#EXTINF:-1 group-title="News" tvg-country="RU" tvg-server="Global Version",Russia Today [RU]
+#DISABLED:#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/926c45196425487.Y3JvcCwxMzgwLDEwODAsMjcwLDA.jpg" group-title="News" tvg-country="RU" tvg-server="Global Version",Russia Today [RU]
 #DISABLED:https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8?v=1
 #EXTINF:-1 group-title="Bangla" tvg-server="Server 1",SA TV HD
 http://103.229.254.25:7001/play/a062/index.m3u8
@@ -391,11 +393,11 @@ http://103.229.254.25:7001/play/a062/index.m3u8
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 #DISABLED:#EXTINF:-1 group-title="Music" tvg-server="Server 1",Shinchan
 #DISABLED:https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
-#EXTINF:-1 group-title="News" tvg-server="Server 1",Sky News
+#EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2018/01/sky-news-new-logo.jpg" group-title="News" tvg-server="Server 1",Sky News
 https://viamotionhsi.netplus.ch/live/eds/skynews/browser-dash/skynews.mpd
-#DISABLED:#EXTINF:-1 group-title="News" tvg-server="Server 2",Sky News
+#DISABLED:#EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2018/01/sky-news-new-logo.jpg" group-title="News" tvg-server="Server 2",Sky News
 #DISABLED:https://linear417-gb-hls3-prd-ak.cdn.skycdp.com/100e/Content/HLS_004_1080_30/Live/channel(skynews)/index_1080.m3u8
-#DISABLED:#EXTINF:-1 group-title="News" tvg-server="Server 3",Sky News
+#DISABLED:#EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2018/01/sky-news-new-logo.jpg" group-title="News" tvg-server="Server 3",Sky News
 #DISABLED:https://tvsen5.aynascope.net/skynews/index.m3u8?e=1772575131&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=69dde787e4bacb2f96c93fd24dd092b1
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="News" tvg-server="Server 1",SOMOY TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
@@ -477,15 +479,15 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="English" tvg-server="hd",Travel XP
 http://103.161.153.165:8000/play/a05d/index.m3u8
-#EXTINF:-1 group-title="News" tvg-country="TR" tvg-server="Server 1",TRT World [TR]
+#EXTINF:-1 tvg-logo="https://www.productionbase.co.uk/RecruiterImage.aspx?ptype=Original&mID=429140" group-title="News" tvg-country="TR" tvg-server="Server 1",TRT World [TR]
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#DISABLED:#EXTINF:-1 group-title="News" tvg-country="TR" tvg-server="Server 2",TRT World [TR]
+#DISABLED:#EXTINF:-1 tvg-logo="https://www.productionbase.co.uk/RecruiterImage.aspx?ptype=Original&mID=429140" group-title="News" tvg-country="TR" tvg-server="Server 2",TRT World [TR]
 #DISABLED:https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="V2BEATTV.uk@SD" tvg-logo="https://i.imgur.com/PXGqyLn.png" group-title="Music" tvg-country="UK" tvg-server="Server 1",V2BEAT [UK]
 https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.willow.tv/apps/wlw-nw-lgo.png" group-title="Sports" tvg-server="Server 1",Willow TV
 https://mysouq1.com/live/76631957/10205687/675819.ts
-#EXTINF:-1 group-title="News" tvg-country="IN" tvg-server="Server 1",Wion News [IN]
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/8uD2Vq_A-isGSlUgfIIRBZUD47fpZPfOb1QwQEwOWJgkxymEbSClBiCnt6lGNAEkgh0=w600-h300-pc0xffffff-pd" group-title="News" tvg-country="IN" tvg-server="Server 1",Wion News [IN]
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/nf15u1K12VXgBLh5HTf0asDF5Fc36RsUICRi8xY1Cs0QhAL_jmtW07wAUdRzrYDBKwv_KIa09Q=s900-c-k-c0x00ffffff-no-rj" group-title="Music" tvg-server="Server 1",YRF Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
