@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="Movies" tvg-country="IN" tvg-server="HD",& Flix [IN]
 https://raw.githubusercontent.com/arijitreza/web/9f84a3561c6dd32152ac88a7bb4476dc1d06e79d/playlist.m3u
-#DISABLED:#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_720%2Ch_405%2Cc_scale%2Cf_webp%2Cq_auto:eco/resources/0-9-9z5543514/list/1920x1080listd4a78816ce2d4ea7afc7efe5e639e9cd.jpg" group-title="Movies" tvg-country="IN" tvg-server="Server 1",& prive HD [IN]
-#DISABLED:http://103.229.254.25:7001/play/a03f/index.m3u8
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_720%2Ch_405%2Cc_scale%2Cf_webp%2Cq_auto:eco/resources/0-9-9z5543514/list/1920x1080listd4a78816ce2d4ea7afc7efe5e639e9cd.jpg" group-title="Movies" tvg-country="IN" tvg-server="Server 1",& prive HD [IN]
+http://103.229.254.25:7001/play/a03f/index.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_720%2Ch_405%2Cc_scale%2Cf_webp%2Cq_auto:eco/resources/0-9-9z5543514/list/1920x1080listd4a78816ce2d4ea7afc7efe5e639e9cd.jpg" group-title="Movies" tvg-country="IN" tvg-server="Server 2",& prive HD [IN]
 http://103.161.153.165:8000/play/a017/index.m3u8
 #EXTINF:-1 tvg-id="30AMusic.us@SD" tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="Music" tvg-country="US" tvg-server="Server 1",30A Music [US]
