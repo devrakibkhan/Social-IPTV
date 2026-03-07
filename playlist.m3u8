@@ -479,6 +479,8 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 http://103.161.153.165:8000/play/a05d/index.m3u8
 #EXTINF:-1 group-title="News" tvg-country="TR" tvg-server="Server 1",TRT World [TR]
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#DISABLED:#EXTINF:-1 group-title="News" tvg-country="TR" tvg-server="Server 2",TRT World [TR]
+#DISABLED:https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="V2BEATTV.uk@SD" tvg-logo="https://i.imgur.com/PXGqyLn.png" group-title="Music" tvg-country="UK" tvg-server="Server 1",V2BEAT [UK]
 https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.willow.tv/apps/wlw-nw-lgo.png" group-title="Sports" tvg-server="Server 1",Willow TV
