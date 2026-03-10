@@ -15,10 +15,10 @@ https://30a-tv.com/music.m3u8
 https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/849/297/png-clipart-9x-jalwa-television-channel-9x-media-streaming-media-others-miscellaneous-television.png" group-title="Music" tvg-country="IN" tvg-server="Server 1",9X Jalwa [IN]
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8
-#DISABLED:#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="Music" tvg-country="IN" tvg-server="Server 3",9XM [IN]
-#DISABLED:https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/c8939874-787e-41ae-8d35-f5ea6e15720d/0.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="Music" tvg-country="IN" tvg-server="Server 1",9XM [IN]
-http://103.229.254.25:7001/play/a07o/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="Music" tvg-country="IN" tvg-server="Server 3",9XM [IN]
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/c8939874-787e-41ae-8d35-f5ea6e15720d/0.m3u8
+#DISABLED:#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="Music" tvg-country="IN" tvg-server="Server 1",9XM [IN]
+#DISABLED:http://103.229.254.25:7001/play/a07o/index.m3u8
 #DISABLED:#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="Music" tvg-country="IN" tvg-server="Server 2",9XM [IN]
 #DISABLED:http://103.175.73.12:8080/live/155/155_0.m3u8
 #DISABLED:#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/065af1ce1aa68d9d96c27050a8125413" group-title="News" tvg-country="US" tvg-server="Server 1",ABC News [US]
@@ -31,8 +31,8 @@ https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a44
 https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master_4000.m3u8
 #EXTINF:-1 group-title="Movies" tvg-server="Server 1",Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#DISABLED:#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/7cfc0baf-1201-477f-b722-d3099fafe17f?height=230&width=512&croppingPoint=&version=1&type=png" group-title="News" tvg-country="SA" tvg-server="Server 1",Al Arabiya English [SA]
-#DISABLED:https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/7cfc0baf-1201-477f-b722-d3099fafe17f?height=230&width=512&croppingPoint=&version=1&type=png" group-title="News" tvg-country="SA" tvg-server="Server 1",Al Arabiya English [SA]
+https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX2eGB47dEs7OMC3x82T0vcStU2NtSJ-EG7g&s" group-title="News" tvg-country="QA" tvg-server="thehlive",Al Jazeera News [QA]
 https://live-hls-web-aje-gcp.thehlive.com/AJE/03.m3u8
 #DISABLED:#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX2eGB47dEs7OMC3x82T0vcStU2NtSJ-EG7g&s" group-title="News" tvg-country="QA" tvg-server="owrcovcrpy",Al Jazeera News [QA]
@@ -83,11 +83,11 @@ https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3200001RI_20250107T024804SQUARE.png" group-title="Science" tvg-country="UK" tvg-server="Server 1",BBC EARTH FHD [UK]
 http://203.18.159.115/BBCEARTHHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://images.icon-icons.com/70/PNG/512/bbc_news_14062.png" group-title="News" tvg-country="GB" tvg-server="Server 1",BBC NEWS [GB]
+#EXTINF:-1 tvg-logo="https://images.icon-icons.com/70/PNG/512/bbc_news_14062.png" group-title="News" tvg-country="UK" tvg-server="Server 1",BBC NEWS [UK]
 https://a1xs.vip/1000015
-#DISABLED:#EXTINF:-1 tvg-logo="https://images.icon-icons.com/70/PNG/512/bbc_news_14062.png" group-title="News" tvg-country="GB" tvg-server="Server 2",BBC NEWS [GB]
+#DISABLED:#EXTINF:-1 tvg-logo="https://images.icon-icons.com/70/PNG/512/bbc_news_14062.png" group-title="News" tvg-country="UK" tvg-server="Server 2",BBC NEWS [UK]
 #DISABLED:http://103.182.170.32:8888/play/a04k
-#DISABLED:#EXTINF:-1 tvg-logo="https://images.icon-icons.com/70/PNG/512/bbc_news_14062.png" group-title="News" tvg-country="GB" tvg-server="Server 3",BBC NEWS [GB]
+#DISABLED:#EXTINF:-1 tvg-logo="https://images.icon-icons.com/70/PNG/512/bbc_news_14062.png" group-title="News" tvg-country="UK" tvg-server="Server 3",BBC NEWS [UK]
 #DISABLED:https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 tvg-logo="https://www.bengalbeats.com/media/common/logo.png" group-title="Music" tvg-country="BD" tvg-server="Server 1",Bengal Beats [BD]
 https://live20.bozztv.com/giatvplayout7/giatv-209587/index.m3u8
@@ -175,13 +175,13 @@ http://103.229.254.25:7001/play/a077/index.m3u8
 #DISABLED:https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8
 #DISABLED:#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" group-title="Music" tvg-server="Techno Warehouse",Dance TV Estonia
 #DISABLED:https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/DBC_FB_LOGO.jpg" group-title="News" tvg-server="Ch Shaheb",DBC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/DBC_FB_LOGO.jpg" group-title="News" tvg-country="BD" tvg-server="Ch Shaheb",DBC [BD]
 http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
-#DISABLED:#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/DBC_FB_LOGO.jpg" group-title="News" tvg-server="bdix",DBC
+#DISABLED:#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/DBC_FB_LOGO.jpg" group-title="News" tvg-country="BD" tvg-server="bdix",DBC [BD]
 #DISABLED:http://103.229.254.25:7001/play/a06h/index.m3u8
-#DISABLED:#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/DBC_FB_LOGO.jpg" group-title="News" tvg-server="AynaOTT",DBC
+#DISABLED:#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/DBC_FB_LOGO.jpg" group-title="News" tvg-country="BD" tvg-server="AynaOTT",DBC [BD]
 #DISABLED:https://tvsen6.aynascope.net/dbcnews/index.m3u8?e=1772575116&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b23808005a6864c5bcb15b53e94a9139
-#DISABLED:#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/DBC_FB_LOGO.jpg" group-title="News" tvg-server="HD",DBC
+#DISABLED:#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/DBC_FB_LOGO.jpg" group-title="News" tvg-country="BD" tvg-server="HD",DBC [BD]
 #DISABLED:http://103.161.153.165:8000/play/a02v/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mAd_68MdZlq04iEEHF6HGv9wj-9pBEHHcnVZBX9uKGzI4=s900-c-k-c0x00ffffff-no-rj" group-title="Bangla" tvg-server="Server 1",Deepto TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711.m3u8
@@ -241,7 +241,7 @@ https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8
 https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
 #EXTINF:-1 tvg-logo="https://gazitv.com/wp-content/uploads/2019/06/GTV-LOGO-HD240x108.png" group-title="Bangla" tvg-server="Server 1",Gazi TV
 http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/5pUcU1hV801eiqcR7Yx7AGKDO8NBXNAxaObL2YW5U_JPrfhj5MPk2Aty-BNsthVEuC4" group-title="News" tvg-country="GB" tvg-server="1080p",GB News [GB]
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/5pUcU1hV801eiqcR7Yx7AGKDO8NBXNAxaObL2YW5U_JPrfhj5MPk2Aty-BNsthVEuC4" group-title="News" tvg-country="DE" tvg-server="1080p",GB News [DE]
 https://amg01076-lightningintern-gbnewsau-samsungau-et7fz.amagi.tv/playlist/amg01076-lightningintern-gbnewsau-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2025/04/geo-logo.png" group-title="Hindi / Urdu" tvg-country="PK" tvg-server="Server 1",GEO Entertainment [PK]
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8
@@ -277,11 +277,11 @@ https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 http://103.229.254.25:7001/play/a0dt/index.m3u8
 #DISABLED:#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/556/803/png-transparent-multicolored-star-illustration-with-text-overlay-jalsha-movies-star-jalsha-star-india-high-definition-television-maa-miscellaneous-purple-television-thumbnail.png" group-title="Movies" tvg-server="Server 2",JALSHA MOVIES
 #DISABLED:http://203.18.159.115/JALSHAMOVIESHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/54prTx28YpPxSpk_PfJGuOfQgcZbNdvbfk0adGePrAvINO4Mo9_bw3j-J4seXn6hNGuMr1ck=s900-c-k-c0x00ffffff-no-rj" group-title="News" tvg-server="Server 1",Jamuna TV
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/54prTx28YpPxSpk_PfJGuOfQgcZbNdvbfk0adGePrAvINO4Mo9_bw3j-J4seXn6hNGuMr1ck=s900-c-k-c0x00ffffff-no-rj" group-title="News" tvg-country="BD" tvg-server="Server 1",Jamuna TV [BD]
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701.m3u8
-#DISABLED:#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/54prTx28YpPxSpk_PfJGuOfQgcZbNdvbfk0adGePrAvINO4Mo9_bw3j-J4seXn6hNGuMr1ck=s900-c-k-c0x00ffffff-no-rj" group-title="News" tvg-server="bdix",Jamuna TV
+#DISABLED:#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/54prTx28YpPxSpk_PfJGuOfQgcZbNdvbfk0adGePrAvINO4Mo9_bw3j-J4seXn6hNGuMr1ck=s900-c-k-c0x00ffffff-no-rj" group-title="News" tvg-country="BD" tvg-server="bdix",Jamuna TV [BD]
 #DISABLED:http://103.229.254.25:7001/play/a05y/index.m3u8
-#DISABLED:#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/54prTx28YpPxSpk_PfJGuOfQgcZbNdvbfk0adGePrAvINO4Mo9_bw3j-J4seXn6hNGuMr1ck=s900-c-k-c0x00ffffff-no-rj" group-title="News" tvg-server="Server 3",Jamuna TV
+#DISABLED:#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/54prTx28YpPxSpk_PfJGuOfQgcZbNdvbfk0adGePrAvINO4Mo9_bw3j-J4seXn6hNGuMr1ck=s900-c-k-c0x00ffffff-no-rj" group-title="News" tvg-country="BD" tvg-server="Server 3",Jamuna TV [BD]
 #DISABLED:https://tvsen6.aynascope.net/jamunatv/index.m3u8?e=1772575120&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=27369dc1dd77246429821cdcc5b24e2f
 #EXTINF:-1 group-title="Kids" tvg-server="Server 1",Jio TV
 https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
@@ -339,11 +339,11 @@ http://203.18.159.115/NATGEOWILDHD/tracks-v1a1/mono.m3u8
 #DISABLED:https://d1tm3cz23db55z.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WildTV/476.m3u8
 #DISABLED:#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="Science" tvg-server="Server 3",NAT GEO WILD FHD
 #DISABLED:http://103.161.153.165:8000/play/a03j/index.m3u8
-#EXTINF:-1 tvg-logo="https://asianews.network/wp-content/uploads/bfi_thumb/NDTV-logo-7695noll0a3o77rdn1v1rwygourz0x52k2w4poe7o00.jpg" group-title="News" tvg-server="Server 1",NDTV
+#EXTINF:-1 tvg-logo="https://asianews.network/wp-content/uploads/bfi_thumb/NDTV-logo-7695noll0a3o77rdn1v1rwygourz0x52k2w4poe7o00.jpg" group-title="News" tvg-country="IN" tvg-server="Server 1",NDTV [IN]
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/36/1/news24-channel-logo-png_seeklogo-362149.png" group-title="News" tvg-server="Server 1",News 24 HD
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/36/1/news24-channel-logo-png_seeklogo-362149.png" group-title="News" tvg-country="BD" tvg-server="Server 1",News 24 HD [BD]
 https://tvsen6.aynascope.net/news24/index.m3u8?e=1772575118&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=1da496adf7131fa4cdb3d020f8e6b21f
-#DISABLED:#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/36/1/news24-channel-logo-png_seeklogo-362149.png" group-title="News" tvg-server="Server 1",News 24 HD
+#DISABLED:#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/36/1/news24-channel-logo-png_seeklogo-362149.png" group-title="News" tvg-country="BD" tvg-server="Server 1",News 24 HD [BD]
 #DISABLED:http://103.229.254.25:7001/play/a06i/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/1001f1d96d63da3ced733a843613b6e0" group-title="News" tvg-country="IN" tvg-server="Server 1",News Nation [IN]
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
@@ -351,9 +351,9 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/in
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" group-title="Bangla" tvg-server="Server 1",NEXUS TV
 http://103.229.254.25:7001/play/a05m/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2022/09/14105807/NHK-World-TV.jpg" group-title="News" tvg-server="Server 1",NHK World
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2022/09/14105807/NHK-World-TV.jpg" group-title="News" tvg-country="JP" tvg-server="Server 1",NHK World [JP]
 https://cdn10jtedge.indihometv.com/atm/DASH/NHK_WORLD_JAPAN/manifest.mpd
-#DISABLED:#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2022/09/14105807/NHK-World-TV.jpg" group-title="News" tvg-server="Server 2",NHK World
+#DISABLED:#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2022/09/14105807/NHK-World-TV.jpg" group-title="News" tvg-country="JP" tvg-server="Server 2",NHK World [JP]
 #DISABLED:https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg" group-title="Kids" tvg-server="Server 1",NICK
 http://103.229.254.25:7001/play/a07b/index.m3u8
@@ -397,17 +397,17 @@ http://103.229.254.25:7001/play/a062/index.m3u8
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 #DISABLED:#EXTINF:-1 group-title="Music" tvg-server="Server 1",Shinchan
 #DISABLED:https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2018/01/sky-news-new-logo.jpg" group-title="News" tvg-server="Server 1",Sky News
+#EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2018/01/sky-news-new-logo.jpg" group-title="News" tvg-country="US" tvg-server="Server 1",Sky News [US]
 https://viamotionhsi.netplus.ch/live/eds/skynews/browser-dash/skynews.mpd
-#DISABLED:#EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2018/01/sky-news-new-logo.jpg" group-title="News" tvg-server="Server 2",Sky News
+#DISABLED:#EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2018/01/sky-news-new-logo.jpg" group-title="News" tvg-country="US" tvg-server="Server 2",Sky News [US]
 #DISABLED:https://linear417-gb-hls3-prd-ak.cdn.skycdp.com/100e/Content/HLS_004_1080_30/Live/channel(skynews)/index_1080.m3u8
-#DISABLED:#EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2018/01/sky-news-new-logo.jpg" group-title="News" tvg-server="Server 3",Sky News
+#DISABLED:#EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2018/01/sky-news-new-logo.jpg" group-title="News" tvg-country="US" tvg-server="Server 3",Sky News [US]
 #DISABLED:https://tvsen5.aynascope.net/skynews/index.m3u8?e=1772575131&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=69dde787e4bacb2f96c93fd24dd092b1
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="News" tvg-server="Server 1",SOMOY TV
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="News" tvg-country="BD" tvg-server="Server 1",SOMOY TV [BD]
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
-#DISABLED:#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="News" tvg-server="Server 2",SOMOY TV
+#DISABLED:#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="News" tvg-country="BD" tvg-server="Server 2",SOMOY TV [BD]
 #DISABLED:https://tvsen6.aynascope.net/somoytv/index.m3u8?e=1772575113&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=dc4274cd35caa500ae1fc918027f4915
-#DISABLED:#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="News" tvg-server="HD",SOMOY TV
+#DISABLED:#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="News" tvg-country="BD" tvg-server="HD",SOMOY TV [BD]
 #DISABLED:http://103.161.153.165:8000/play/a02c/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/33.png" group-title="Kids" tvg-country="IN" tvg-server="HD",SONY AATH [IN]
 http://103.161.153.165:8000/play/sonyatth/index.m3u8
