@@ -465,10 +465,10 @@ https://hls.sunmusic.live/hls/stream.m3u8
 http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/56LQJQbGxYzzM_xKyXQ3JgSn4af73igvALJsQbLllVodpyyG4S3ffr0s95Ue1y6OA942" group-title="Sports" tvg-server="Server 1",T Sports
 http://198.195.239.50:8095/Tsports/index.m3u8
-#DISABLED:#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/56LQJQbGxYzzM_xKyXQ3JgSn4af73igvALJsQbLllVodpyyG4S3ffr0s95Ue1y6OA942" group-title="Sports" tvg-server="Server 2",T Sports
-#DISABLED:http://203.18.159.115/TSPORTS/tracks-v1a1/mono.m3u8
-#DISABLED:#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/56LQJQbGxYzzM_xKyXQ3JgSn4af73igvALJsQbLllVodpyyG4S3ffr0s95Ue1y6OA942" group-title="Sports" tvg-server="Server 3",T Sports
-#DISABLED:http://103.161.153.165:8000/play/tspohd/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/56LQJQbGxYzzM_xKyXQ3JgSn4af73igvALJsQbLllVodpyyG4S3ffr0s95Ue1y6OA942" group-title="Sports" tvg-server="Server 2",T Sports
+http://203.18.159.115/TSPORTS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/56LQJQbGxYzzM_xKyXQ3JgSn4af73igvALJsQbLllVodpyyG4S3ffr0s95Ue1y6OA942" group-title="Sports" tvg-server="Server 3",T Sports
+http://103.161.153.165:8000/play/tspohd/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/313-3132318_tlc-channel-hd-png-download.png" group-title="English" tvg-country="US" tvg-server="Server 1",TLC [US]
 http://103.161.153.165:8000/play/a04l/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_main.png" group-title="Music" tvg-server="Server 1",Totalmusic
