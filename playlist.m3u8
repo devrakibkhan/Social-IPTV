@@ -25,6 +25,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #DISABLED:http://103.229.254.25:7001/play/a07o/index.m3u8
 #DISABLED:#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="Music" tvg-country="IN" tvg-server="Server 2",9XM [IN]
 #DISABLED:http://103.175.73.12:8080/live/155/155_0.m3u8
+#EXTINF:-1 tvg-logo="https://www.atrescine.com/public/img/atrescine/android-chrome-192x192.png" group-title="Movies" tvg-country="MX" tvg-server="Server 1",A3Cine (18) [MX]
+http://m3u.tvcluboficial.com/Reach.Bot/p6C/14.m3u8
 #DISABLED:#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/065af1ce1aa68d9d96c27050a8125413" group-title="News" tvg-country="US" tvg-server="Server 1",ABC News [US]
 #DISABLED:http://103.168.18.83:80/zan/app/ts_live_1964.m3u8
 #DISABLED:#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/065af1ce1aa68d9d96c27050a8125413" group-title="News" tvg-country="US" tvg-server="AynaOTT",ABC News [US]
@@ -43,6 +45,8 @@ https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 #DISABLED:#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX2eGB47dEs7OMC3x82T0vcStU2NtSJ-EG7g&s" group-title="News" tvg-country="QA" tvg-server="Server 3",Al Jazeera News [QA]
 #DISABLED:http://103.161.153.165:8000/play/a04q/index.m3u8
+#DISABLED:#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX2eGB47dEs7OMC3x82T0vcStU2NtSJ-EG7g&s" group-title="News" tvg-country="QA" tvg-server="Server 4",Al Jazeera News [QA]
+#DISABLED:http://m3u.tvcluboficial.com/Reach.Bot/p6C/27.m3u8
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99951457/168x168.png?type=color_onBlack" group-title="English" tvg-country="US" tvg-server="Server 1",America's Got Talent [US]
 https://live-content.xumo.com/4266/content/XM02PHOU3FONLI/28943384/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8-dRaKujMT9l8HW_GWB8zg56b1Ungq-PTOQ&s" group-title="Bangla" tvg-country="BD" tvg-server="Server 1",Ananda TV [BD]
@@ -341,11 +345,11 @@ http://103.229.254.25:7001/play/a0et/index.m3u8
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-id="MrBeanAnimated.uk@English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="Kids" tvg-country="UK" tvg-server="Server 1",Mr. Bean Animated [UK]
 https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/87-877053_mtv-music-hd-mtv-live-hd-logo.png" group-title="Music" tvg-server="Server 2",MTV HD
+#EXTINF:-1 tvg-id="MTV.in@SD" tvg-logo="https://www.nicepng.com/png/detail/87-877053_mtv-music-hd-mtv-live-hd-logo.png" group-title="Music" tvg-server="Server 2",MTV HD
 http://103.229.254.25:7001/play/a02s/index.m3u8
-#DISABLED:#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/87-877053_mtv-music-hd-mtv-live-hd-logo.png" group-title="Music" tvg-server="HD",MTV HD
+#DISABLED:#EXTINF:-1 tvg-id="MTV.in@SD" tvg-logo="https://www.nicepng.com/png/detail/87-877053_mtv-music-hd-mtv-live-hd-logo.png" group-title="Music" tvg-server="HD",MTV HD
 #DISABLED:http://103.161.153.165:8000/play/a056/index.m3u8
-#DISABLED:#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/87-877053_mtv-music-hd-mtv-live-hd-logo.png" group-title="Music" tvg-server="Server 1",MTV HD
+#DISABLED:#EXTINF:-1 tvg-id="MTV.in@SD" tvg-logo="https://www.nicepng.com/png/detail/87-877053_mtv-music-hd-mtv-live-hd-logo.png" group-title="Music" tvg-server="Server 1",MTV HD
 #DISABLED:http://103.175.73.12:8080/live/150/150_0.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/12/musicbangla.jpg" group-title="Music" tvg-server="Server 1",Music Bangla
 http://vmi3039524.contaboserver.net:5050/music/index.m3u8
