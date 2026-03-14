@@ -89,6 +89,8 @@ http://103.229.254.25:7001/play/a06d/index.m3u8
 http://103.229.254.25:7001/play/a06c/index.m3u8
 #DISABLED:#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lILjyQtVME8/sddefault.jpg" group-title="Bangla" tvg-country="BD" tvg-server="Server 2",BanglaTV HD [BD]
 #DISABLED:http://116.204.149.16/banglatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99951133/168x168.png?type=color_onBlack" group-title="Movies" tvg-country="US" tvg-server="Server 1",Baywatch [US]
+https://dbrb49pjoymg4.cloudfront.net/10001/99951133/hls/playlist.m3u8?ads.xumo_channelId=99951133&ads._fw_ifa_type=&ads._fw_did=db3ff583-744a-4e22-be57-4f7b3e621ecd&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=FreemantleBaywatch&ads.csid=xumo_web_FreemantleBaywatch_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_rating=&ads.xumo_contentId=3535&ads.xumo_contentName=FreemantleBaywatch&ads.xumo_providerId=3535&ads.xumo_providerName=FreemantleBaywatch&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951133&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 #EXTINF:-1 tvg-id="BBCThreeCBBC.uk@HD" tvg-logo="https://i.imgur.com/CGXC5fp.png" group-title="Kids" tvg-country="UK" tvg-server="three",BBC CBBC [UK]
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
 #EXTINF:-1 tvg-id="BBCThreeCBBC.uk@HD" tvg-logo="https://i.imgur.com/CGXC5fp.png" group-title="Kids" tvg-country="UK" tvg-server="four",BBC CBBC [UK]
@@ -141,6 +143,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #DISABLED:#EXTINF:-1 tvg-logo="https://appv10static.jaagobd.com/media/channel_logos/channel-i-logo-F9F1100F83-seeklogo.com.png" group-title="Bangla" tvg-server="Server 2",Channel I HD
 #DISABLED:http://103.229.254.25:7001/play/a06e/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991399/168x168.png?type=color_onBlack" group-title="Movies" tvg-country="US" tvg-server="Server 1",CineLife [US]
+https://magnolia-xumo-us.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-xumo/CDN/master.m3u8?is_lat=0&us_privacy=
 #DISABLED:#EXTINF:-1 tvg-logo="https://astromedia.com.my/wp-content/uploads/2024/01/CNA.png" group-title="News" tvg-country="SG" tvg-server="Server 1",CNA [SG]
 #DISABLED:https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/CNN-Logo.png" group-title="News" tvg-country="US" tvg-server="Server 1",CNN [US]
