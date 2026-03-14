@@ -137,16 +137,22 @@ https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-dash/bloomberg.mpd
 #DISABLED:https://bloomberg.com/media-manifest/streams/eu.m3u8
 #DISABLED:#EXTINF:-1 tvg-id="BloombergTV.us@Asia" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="English" tvg-server="US Live",Bloomberg
 #DISABLED:https://bloomberg.com/media-manifest/streams/us-event.m3u8
-#DISABLED:#EXTINF:-1 tvg-logo="https://i.imgur.com/px0CSti.png" group-title="Music" tvg-country="US" tvg-server="Server 1",Blues TV [US]
+#DISABLED:#EXTINF:-1 tvg-id="KMBYLD5.us@SD" tvg-logo="https://i.imgur.com/px0CSti.png" group-title="Music" tvg-country="US" tvg-server="Server 1",Blues TV [US]
 #DISABLED:https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Boishakhi_Tv_Logo.png" group-title="Bangla" tvg-server="Server 1",Boishakhi TV
+#EXTINF:-1 tvg-id="BoishakhiTV.bd@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Boishakhi_Tv_Logo.png" group-title="Bangla" tvg-server="Server 1",Boishakhi TV
 http://103.229.254.25:7001/play/a067/index.m3u8
 #EXTINF:-1 tvg-logo="https://ranjhatv.yolasite.com/resources/bollywood-action-channel-images-logo-large.png" group-title="Movies" tvg-server="Server 1",Bollywood Action
 http://103.229.254.25:7001/play/a0es/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bangladesh_Television_logo.svg/330px-Bangladesh_Television_logo.svg.png" group-title="Bangla" tvg-server="Server 1",BTV HD
+#EXTINF:-1 tvg-id="BTVNational.bd@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bangladesh_Television_logo.svg/330px-Bangladesh_Television_logo.svg.png" group-title="Bangla" tvg-server="National",BTV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8
-#DISABLED:#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bangladesh_Television_logo.svg/330px-Bangladesh_Television_logo.svg.png" group-title="Bangla" tvg-server="Server 2",BTV HD
+#DISABLED:#EXTINF:-1 tvg-id="BTVNational.bd@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bangladesh_Television_logo.svg/330px-Bangladesh_Television_logo.svg.png" group-title="Bangla" tvg-server="Server 2",BTV HD
 #DISABLED:http://103.229.254.25:7001/play/a064/index.m3u8
+#DISABLED:#EXTINF:-1 tvg-id="BTVNational.bd@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bangladesh_Television_logo.svg/330px-Bangladesh_Television_logo.svg.png" group-title="Bangla" tvg-server="BTV World",BTV HD
+#DISABLED:https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/d96eb7f4-83c2-4472-9597-3568390a8ebf/d96eb7f4-83c2-4472-9597-3568390a8ebf_3_playlist.m3u8
+#DISABLED:#EXTINF:-1 tvg-id="BTVNational.bd@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bangladesh_Television_logo.svg/330px-Bangladesh_Television_logo.svg.png" group-title="Bangla" tvg-server="CTG",BTV HD
+#DISABLED:https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/a707f2dc-9704-413a-a67c-17c64a77c350/index.m3u8
+#DISABLED:#EXTINF:-1 tvg-id="BTVNational.bd@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bangladesh_Television_logo.svg/330px-Bangladesh_Television_logo.svg.png" group-title="Bangla" tvg-server="National 2",BTV HD
+#DISABLED:https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/355ba051-9a60-48aa-adcf-5a6c64da8c5c/355ba051-9a60-48aa-adcf-5a6c64da8c5c_3_playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/250px-Cartoon_Network_2010_logo.svg.png" group-title="Kids" tvg-server="Server 1",Cartoon Network
 http://103.229.254.25:7001/play/a0cn/index.m3u8
 #DISABLED:#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/250px-Cartoon_Network_2010_logo.svg.png" group-title="Kids" tvg-server="Server 2",Cartoon Network
