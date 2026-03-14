@@ -275,6 +275,8 @@ http://103.229.254.25:7001/play/a07k/index.m3u8
 https://tplay.live/originals/ilm-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOuZOIPdupd0t7vf4BGnYgGeo1PQWV37_9Sg&s" group-title="News" tvg-country="BD" tvg-server="Server 1",INDEPENDENT TV [BD]
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+#DISABLED:#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOuZOIPdupd0t7vf4BGnYgGeo1PQWV37_9Sg&s" group-title="News" tvg-country="BD" tvg-server="Server 2",INDEPENDENT TV [BD]
+#DISABLED:http://103.161.153.165:8000/play/a022/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-server="Server 1",InTrouble
 https://amg00861-amg00861c6-rlaxx-uk-3951.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.iranintl.com/images/rdk9umy0/production/160ef70030c32425c484a6be7008711055d849b5-1298x1066.jpg?rect=0%2C193%2C1298%2C681&w=1200&h=630&fit=max&auto=format" group-title="News" tvg-country="IR" tvg-server="Dev Live",Iran International [IR]
@@ -295,6 +297,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701.m3u8
 #DISABLED:http://103.229.254.25:7001/play/a05y/index.m3u8
 #DISABLED:#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/54prTx28YpPxSpk_PfJGuOfQgcZbNdvbfk0adGePrAvINO4Mo9_bw3j-J4seXn6hNGuMr1ck=s900-c-k-c0x00ffffff-no-rj" group-title="News" tvg-country="BD" tvg-server="Server 3",Jamuna TV [BD]
 #DISABLED:https://tvsen6.aynascope.net/jamunatv/index.m3u8?e=1772575120&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=27369dc1dd77246429821cdcc5b24e2f
+#DISABLED:#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/54prTx28YpPxSpk_PfJGuOfQgcZbNdvbfk0adGePrAvINO4Mo9_bw3j-J4seXn6hNGuMr1ck=s900-c-k-c0x00ffffff-no-rj" group-title="News" tvg-country="BD" tvg-server="Server 4",Jamuna TV [BD]
+#DISABLED:http://103.161.153.165:8000/play/a02t/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-server="Server 1",Jio TV
 https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
 #DISABLED:#EXTINF:-1 group-title="Kids" tvg-server="Server 2",Jio TV
@@ -321,6 +325,8 @@ http://103.229.254.25:7001/play/a05p/index.m3u8
 #DISABLED:https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 #DISABLED:#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_s1QIH4x4Ru0DufX_CNlWhPvPU3o91ZcA9w&s" group-title="Islamic" tvg-server="hd",Madani TV
 #DISABLED:http://103.161.153.165:8000/play/a032/index.m3u8
+#DISABLED:#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_s1QIH4x4Ru0DufX_CNlWhPvPU3o91ZcA9w&s" group-title="Islamic" tvg-server="Server 4",Madani TV
+#DISABLED:http://103.161.153.165:8000/play/a032/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ex6JZgJ5vlmt_7K95JyKZRaEfgIe1jVqFZ8jhMo-a-r0bQhwcTbEeSTtsOnzNb7p3PHF" group-title="Movies" tvg-server="Server 1",Max Movies
 http://103.229.254.25:7001/play/a0et/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Movie%20Bangla.png" group-title="Movies" tvg-server="Server 1",Movie Bangla
@@ -339,6 +345,8 @@ http://vmi3039524.contaboserver.net:5050/music/index.m3u8
 http://116.204.149.16/mytv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nagorik%20TV.png" group-title="Bangla" tvg-server="Server 1",Nagorik TV
 http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
+#DISABLED:#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nagorik%20TV.png" group-title="Bangla" tvg-server="Server 2",Nagorik TV
+#DISABLED:http://103.161.153.165:8000/play/a02f/index.m3u8
 #EXTINF:-1 tvg-id="Naruto.us@US" tvg-logo="https://i.imgur.com/M8X3Kvc.png" group-title="Kids" tvg-country="JP" tvg-server="1080p",Naruto [JP]
 https://d21vn5eki5qsdi.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-server="Server 1",NAT GEO FHD
