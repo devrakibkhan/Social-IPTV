@@ -391,9 +391,9 @@ http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
 #DISABLED:http://103.161.153.165:8000/play/a02f/index.m3u8
 #EXTINF:-1 tvg-id="Naruto.us@US" tvg-logo="https://i.imgur.com/M8X3Kvc.png" group-title="Kids" tvg-country="JP" tvg-server="1080p",Naruto [JP]
 https://d21vn5eki5qsdi.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-server="Server 1",NAT GEO FHD
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/national-geographic-logo-png-transparent.png" group-title="Science" tvg-server="Server 1",NAT GEO FHD
 http://203.18.159.115/NATGEOHD/tracks-v1a1/mono.m3u8
-#DISABLED:#EXTINF:-1 group-title="Sports" tvg-server="Server 2",NAT GEO FHD
+#DISABLED:#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/national-geographic-logo-png-transparent.png" group-title="Science" tvg-server="Server 2",NAT GEO FHD
 #DISABLED:http://103.161.153.165:8000/play/a04j/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="Science" tvg-server="Server 1",NAT GEO WILD FHD
 http://203.18.159.115/NATGEOWILDHD/tracks-v1a1/mono.m3u8
