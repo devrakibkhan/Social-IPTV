@@ -161,8 +161,10 @@ http://103.229.254.25:7001/play/a0cn/index.m3u8
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/cartoon-network-hd.webp" group-title="Kids" tvg-server="Server 1",Cartoon Network HD+
 http://203.18.159.115/CARTOONNETWORK/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/cartoon-network-hd.webp" group-title="Kids" tvg-server="Server 2",Cartoon Network HD+
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/cartoon-network-hd.webp" group-title="Kids" tvg-server="RoarZone",Cartoon Network HD+
 http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvY2FydG9vbi1uZXR3b3JrLWhk&e=.m3u8
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/cartoon-network-hd.webp" group-title="Kids" tvg-server="Toffee",Cartoon Network HD+
+https://sm-monirul.top/Toffee/live.php?id=206c4fa8e760&e=.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn@SD" tvg-logo="https://m.media-amazon.com/images/I/31wgHL2U4fL.png" group-title="News" tvg-country="CN" tvg-server="Server 1",CGTN [CN]
 https://0472.org/hls/cgtn.m3u8
 #DISABLED:#EXTINF:-1 tvg-id="CGTN.cn@SD" tvg-logo="https://m.media-amazon.com/images/I/31wgHL2U4fL.png" group-title="News" tvg-country="CN" tvg-server="Server 2",CGTN [CN]
