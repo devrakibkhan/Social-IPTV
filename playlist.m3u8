@@ -197,21 +197,21 @@ http://103.161.153.165:8000/play/a036/index.m3u8
 http://103.161.153.165:8000/play/a05e/index.m3u8
 #EXTINF:-1 tvg-id="Colors.in@SD" tvg-logo="https://e7.pngegg.com/pngimages/591/655/png-clipart-viacom-18-logo-color-television-colors-zee-tv-logo-purple-television.png" group-title="Hindi / Urdu" tvg-server="Server 1",colors HD
 http://103.229.254.25:7001/play/a077/index.m3u8
-#DISABLED:#EXTINF:-1 group-title="Sports" tvg-server="Server 1",Current Live Sports
+#DISABLED:#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lpRJsjJojdecpt_clU8FsJGakVCr-wXz1wBoUO7Ko8cw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports" tvg-server="Server 1",Current Live Sports
 #DISABLED:https://owrcovcrpy.gpcdn.net/bpk-tv/1707/output/index.mpd
-#DISABLED:#EXTINF:-1 group-title="Sports" tvg-server="Server 2",Current Live Sports
+#DISABLED:#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lpRJsjJojdecpt_clU8FsJGakVCr-wXz1wBoUO7Ko8cw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports" tvg-server="Server 2",Current Live Sports
 #DISABLED:http://10.111.200.30/live/feed1001/index.m3u8
-#DISABLED:#EXTINF:-1 group-title="Sports" tvg-server="Server 3",Current Live Sports
+#DISABLED:#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lpRJsjJojdecpt_clU8FsJGakVCr-wXz1wBoUO7Ko8cw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports" tvg-server="Server 3",Current Live Sports
 #DISABLED:https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-#DISABLED:#EXTINF:-1 group-title="Sports" tvg-server="Server 4",Current Live Sports
+#DISABLED:#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lpRJsjJojdecpt_clU8FsJGakVCr-wXz1wBoUO7Ko8cw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports" tvg-server="Server 4",Current Live Sports
 #DISABLED:https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-2/playlist.m3u8
-#DISABLED:#EXTINF:-1 group-title="Sports" tvg-server="Server 5",Current Live Sports
+#DISABLED:#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lpRJsjJojdecpt_clU8FsJGakVCr-wXz1wBoUO7Ko8cw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports" tvg-server="Server 5",Current Live Sports
 #DISABLED:https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
-#DISABLED:#EXTINF:-1 group-title="Sports" tvg-server="Server 6",Current Live Sports
+#DISABLED:#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lpRJsjJojdecpt_clU8FsJGakVCr-wXz1wBoUO7Ko8cw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports" tvg-server="Server 6",Current Live Sports
 #DISABLED:https://amitomar.hoichoi.pro/bdixbd.net/index.fmp4.m3u8
-#EXTINF:-1 group-title="Sports" tvg-server="Server 7",Current Live Sports
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lpRJsjJojdecpt_clU8FsJGakVCr-wXz1wBoUO7Ko8cw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports" tvg-server="Server 7",Current Live Sports
 http://198.195.239.50:8095/Tsports/index.m3u8
-#DISABLED:#EXTINF:-1 group-title="Sports" tvg-server="Server 8",Current Live Sports
+#DISABLED:#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lpRJsjJojdecpt_clU8FsJGakVCr-wXz1wBoUO7Ko8cw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports" tvg-server="Server 8",Current Live Sports
 #DISABLED:http://198.195.239.50:8095/WiLLow/index.m3u8
 #DISABLED:#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" group-title="Music" tvg-server="One",Dance TV Estonia
 #DISABLED:https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
