@@ -419,6 +419,8 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7mast
 http://103.229.254.25:7001/play/a06i/index.m3u8
 #DISABLED:#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/36/1/news24-channel-logo-png_seeklogo-362149.png" group-title="News" tvg-country="BD" tvg-server="Server 3",News 24 HD [BD]
 #DISABLED:http://103.161.153.165:8000/play/a02w/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/36/1/news24-channel-logo-png_seeklogo-362149.png" group-title="News" tvg-country="BD" tvg-server="AYNAA",News 24 HD [BD]
+https://tvsen6.aynascope.net/news24/tracks-v1a1/mono.ts.m3u8?e=1774034939&token=86fb45fbda8bb3341212bbc178fbf36c&u=8272bade-b8e1-44a0-98aa-04573b82f8d8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/1001f1d96d63da3ced733a843613b6e0" group-title="News" tvg-country="IN" tvg-server="Server 1",News Nation [IN]
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUc3QILp2MdiknzQaZVy3ydCDIBgDSsoacvQ&s" group-title="News" tvg-country="US" tvg-server="Server 1",Newsmax 2 [US]
@@ -521,6 +523,8 @@ http://103.161.153.165:8000/play/a01i/index.m3u8
 #DISABLED:http://203.18.159.115/SONYENTHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/7d0d368840908947f0e3bb344c29c53f.png" group-title="Sports" tvg-country="IN" tvg-server="Server 1",Sony Sports Ten 5 [IN]
 http://103.161.153.165:8000/play/snt5/index.m3u8
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/sonyyay.png" group-title="Kids" tvg-country="IN" tvg-server="roarzone",Sony YAY [IN]
+https://edge2.roarzone.info:8447/roarzone/edge3/sony-yay/tracks-v1a1/mono.m3u8?token=1cef9a15f04b9a041b73ac76235792d3dea1aee3-da6a02fd63f3611a7f0de10a64bbfc7d-1774032145-1774028545
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZpPg2Gdg/SRK-TV.png" group-title="Bangla" tvg-server="Server 1",SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/675064828294258688/Cw-KocM0_400x400.jpg" group-title="Movies" tvg-server="Server 1",Star Bangla
