@@ -283,6 +283,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-vid
 #DISABLED:https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:-1 tvg-id="Ekhon.bd@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR7S2sGx1khd61ztOj1UA5OaK_FxUDTWLUyA&s" group-title="Bangla" tvg-server="Server 1",EKHON TV
 http://103.229.254.25:7001/play/a09k/index.m3u8
+#EXTINF:-1 tvg-id="Ekhon.bd@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR7S2sGx1khd61ztOj1UA5OaK_FxUDTWLUyA&s" group-title="Bangla" tvg-server="RoarZone",EKHON TV
+https://edge2.roarzone.info:8447/roarzone/edge3/ekhon-tv/tracks-v1a1/mono.m3u8?token=cef8917a4c5b27414757696939edd653be1d4256-98b584a6efbe3f401c7d5aab4db0987d-1774032380-1774028780
 #EXTINF:-1 tvg-id="Ekushey.bd@SD" tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Bangla" tvg-server="Server 1",Ekushey TV
 http://103.229.254.25:7001/play/a05x/index.m3u8
 #EXTINF:-1 tvg-id="EntertainmentTonight.us@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTGQ6jFNL8LY14PLHCWNNYZaNNRk057JY50Q&s" group-title="English" tvg-country="US" tvg-server="Server 1",Entertainment Tonight [US]
