@@ -337,6 +337,8 @@ http://103.229.254.25:7001/play/a05o/index.m3u8
 http://103.229.254.25:7001/play/a07k/index.m3u8
 #DISABLED:#EXTINF:-1 tvg-id="GoldminesMovies.in@SD" tvg-logo="https://yt3.googleusercontent.com/d66J-MMZ06-55gkF5maclPGB5f5j1L0SAs3iWnl3lhoswlWrJ67wD2a3mZGkgHgt-W3kMrIT=s900-c-k-c0x00ffffff-no-rj" group-title="Movies" tvg-server="Server 2",GOLDMINES MOVIES
 #DISABLED:http://103.175.73.12:8080/live/53/53_0.m3u8
+#DISABLED:#EXTINF:-1 tvg-id="GoldminesMovies.in@SD" tvg-logo="https://yt3.googleusercontent.com/d66J-MMZ06-55gkF5maclPGB5f5j1L0SAs3iWnl3lhoswlWrJ67wD2a3mZGkgHgt-W3kMrIT=s900-c-k-c0x00ffffff-no-rj" group-title="Movies" tvg-server="Server 3",GOLDMINES MOVIES
+#DISABLED:https://cdn-2.pishow.tv/live/1459/master.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/alnu5dZzNrFZadSCV0f4z2i9yP8U9tn_0rDbqL9lho-sMPZCZ0pcylWM_6-xWeLcKNytzW4l_Q=s900-c-k-c0x00ffffff-no-rj" group-title="Movies" tvg-server="Server 1",Hindi Dubbed  Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
 #EXTINF:-1 tvg-logo="https://images.muslimandquran.com/frontend/images/ILM_TV" group-title="Islamic" tvg-server="Server 1",ILM TV
@@ -583,10 +585,14 @@ http://103.182.170.32:8888/play/a040
 #DISABLED:http://163.61.227.29:8000/play/a00f/index.m3u8
 #DISABLED:#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/25.png" group-title="Sports" tvg-server="Server 4",Star Sports 1
 #DISABLED:http://203.18.159.115/STARSPORTS1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/25.png" group-title="Sports" tvg-server="Server 5",Star Sports 1
+http://tvn1.chowdhury-shaheb.com/starsport1/index.m3u8
 #DISABLED:#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180611/pks/aa8l5aros.webp" group-title="Sports" tvg-server="Server 1",STAR SPORTS 2
 #DISABLED:http://203.18.159.115/STARSPORTS2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180611/pks/aa8l5aros.webp" group-title="Sports" tvg-server="Server 2",STAR SPORTS 2
 http://116.90.120.151:8000/play/a0jb/index.m3u8
+#DISABLED:#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180611/pks/aa8l5aros.webp" group-title="Sports" tvg-server="Server 3",STAR SPORTS 2
+#DISABLED:http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8
 #DISABLED:#EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/27.png" group-title="Sports" tvg-server="Server 1",Star Sports Select 1 FHD
 #DISABLED:http://203.18.159.115/STARSELECT1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Music" tvg-server="Server 1",SUN MUSIC
