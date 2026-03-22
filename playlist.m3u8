@@ -631,6 +631,10 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/nf15u1K12VXgBLh5HTf0asDF5Fc36RsUICRi8xY1Cs0QhAL_jmtW07wAUdRzrYDBKwv_KIa09Q=s900-c-k-c0x00ffffff-no-rj" group-title="Music" tvg-server="Server 1",YRF Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://5.imimg.com/data5/SELLER/Default/2023/3/XU/BU/RX/58311714/zee-action-advertising-services-500x500.png" group-title="Movies" tvg-country="IN" tvg-server="Server 1",Z Action [IN]
+http://103.175.73.12:8080/live/270/270_0.m3u8
+#EXTINF:-1 tvg-logo="https://p7.hiclipart.com/preview/878/103/676/zee-cinema-television-channel-zee-tv-zee-entertainment-enterprises-cinema-logo.jpg" group-title="Movies" tvg-country="IN" tvg-server="Server 1",Z Cinema [IN]
+http://103.99.249.139/zeecinema/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-server="Server 1",ZB Cartoon
 https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1 tvg-logo="https://p7.hiclipart.com/preview/225/230/365/zee-bangla-television-channel-zee-tv-zee-entertainment-enterprises-others-thumbnail.jpg" group-title="Bangla" tvg-server="Server 1",Zee Bangla HD
@@ -641,6 +645,10 @@ http://103.182.170.32:8888/play/a048
 http://161.248.38.40:8000/play/a0ax/index.m3u8
 #DISABLED:#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025L26R.png" group-title="Music" tvg-server="Server 2",Zing
 #DISABLED:http://203.18.159.115/ZING/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025L26R.png" group-title="Music" tvg-server="Server 3",Zing
+https://edge2.roarzone.info:8447/roarzone/edge3/zing/index.m3u8?token=546b631734cf330e811311396305a4e7c4a604e9-20ce04843b59e530104035f9fc32b5aa-1773652279-1773648679
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025L26R.png" group-title="Music" tvg-server="Server 4",Zing
+https://bldcmprod-cdn.toffeelive.com/cdn/live/zing_sd/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-server="Server 1",Zoo Moo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png" group-title="Music" tvg-server="Server 1",Zoom
