@@ -471,6 +471,8 @@ http://103.161.153.165:8000/play/a053/index.m3u8
 https://stream.shariarsuvo.com/hls6/rajdhaniweb.m3u8
 #EXTINF:-1 tvg-id="RetroCrush.us@SD" tvg-logo="https://i.imgur.com/M40b4YI.png" group-title="Kids" tvg-country="JP" tvg-server="Server 1",RetroCrush [JP]
 https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/profile/1/profileManifest.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/aB9kpZngTtp3usFm1i6X4E_9zBlCwq3b43LiVUEXfplqRK7Ye1y_CqSgkjWNXuhGPWqb=w240-h480-rw" group-title="Kids" tvg-country="IN" tvg-server="T Play",Rongeen TV [IN]
+https://cdn-4.pishow.tv/live/1029/1029_1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTzzQb-2GEhC4xPijUwu-I1ACTavtg9QNIjmaxs8SEb1v3b0aud6UVsbDSAZLTEM80KuI&usqp=CAU" group-title="Bangla" tvg-server="Server 1",Rtv HD
 http://103.229.254.25:7001/play/a068/index.m3u8
 #DISABLED:#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTzzQb-2GEhC4xPijUwu-I1ACTavtg9QNIjmaxs8SEb1v3b0aud6UVsbDSAZLTEM80KuI&usqp=CAU" group-title="Bangla" tvg-server="Server 2",Rtv HD
