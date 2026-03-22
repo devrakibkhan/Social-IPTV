@@ -171,8 +171,8 @@ https://0472.org/hls/cgtn.m3u8
 #DISABLED:https://cdn10jtedge.indihometv.com/atm/DASH/CGTN_DOCUMENTARY/manifest.mpd
 #DISABLED:#EXTINF:-1 tvg-id="CGTN.cn@SD" tvg-logo="https://m.media-amazon.com/images/I/31wgHL2U4fL.png" group-title="News" tvg-country="CN" tvg-server="Server 3",CGTN [CN]
 #DISABLED:https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
-#EXTINF:-1 tvg-id="CGTN.cn@SD" tvg-logo="https://m.media-amazon.com/images/I/31wgHL2U4fL.png" group-title="News" tvg-country="CN" tvg-server="Europe",CGTN [CN]
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/cgtneurope.m3u8
+#DISABLED:#EXTINF:-1 tvg-id="CGTN.cn@SD" tvg-logo="https://m.media-amazon.com/images/I/31wgHL2U4fL.png" group-title="News" tvg-country="CN" tvg-server="Europe",CGTN [CN]
+#DISABLED:https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/cgtneurope.m3u8
 #EXTINF:-1 tvg-id="Channel24.bd@SD" tvg-logo="https://media.licdn.com/dms/image/v2/D5603AQFz3t9wbZNupQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1703760547370?e=2147483647&v=beta&t=14SxDJ9CU2_GJXNSWlGlwxQAP3X5BKLFOEn0sq3lfC0" group-title="News" tvg-country="BD" tvg-server="owrcovcrpy",Channel 24 [BD]
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 #DISABLED:#EXTINF:-1 tvg-id="Channel24.bd@SD" tvg-logo="https://media.licdn.com/dms/image/v2/D5603AQFz3t9wbZNupQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1703760547370?e=2147483647&v=beta&t=14SxDJ9CU2_GJXNSWlGlwxQAP3X5BKLFOEn0sq3lfC0" group-title="News" tvg-country="BD" tvg-server="bdix",Channel 24 [BD]
@@ -215,14 +215,14 @@ http://103.229.254.25:7001/play/a077/index.m3u8
 #DISABLED:https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
 #DISABLED:#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lpRJsjJojdecpt_clU8FsJGakVCr-wXz1wBoUO7Ko8cw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports" tvg-server="Server 6",Current Live Sports
 #DISABLED:https://amitomar.hoichoi.pro/bdixbd.net/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lpRJsjJojdecpt_clU8FsJGakVCr-wXz1wBoUO7Ko8cw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports" tvg-server="Server 7",Current Live Sports
-http://198.195.239.50:8095/Tsports/index.m3u8
+#DISABLED:#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lpRJsjJojdecpt_clU8FsJGakVCr-wXz1wBoUO7Ko8cw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports" tvg-server="Server 7",Current Live Sports
+#DISABLED:http://198.195.239.50:8095/Tsports/index.m3u8
 #DISABLED:#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lpRJsjJojdecpt_clU8FsJGakVCr-wXz1wBoUO7Ko8cw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports" tvg-server="Server 8",Current Live Sports
 #DISABLED:http://198.195.239.50:8095/WiLLow/index.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lpRJsjJojdecpt_clU8FsJGakVCr-wXz1wBoUO7Ko8cw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports" tvg-server="Nagorik",Current Live Sports
-http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lpRJsjJojdecpt_clU8FsJGakVCr-wXz1wBoUO7Ko8cw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports" tvg-server="Football - FanCode",Current Live Sports
-https://bd-mc-flive.fancode.com/mumbai/131107_english_hls_5bd74dd81b45462_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1773680708~_GO=Generated~acl=/mumbai/131107_english_hls_5bd74dd81b45462_1ta-di_h264/*~Signature=AR77L-Y2iy473oik1reCbk0KgrKkvZ9AhCaBGCrw851DOIaC8hKUMBTuCUKn0ab7AnnC9ED8qA6WKbun32d1rBkF_moB
+#DISABLED:#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lpRJsjJojdecpt_clU8FsJGakVCr-wXz1wBoUO7Ko8cw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports" tvg-server="Nagorik",Current Live Sports
+#DISABLED:http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
+#DISABLED:#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lpRJsjJojdecpt_clU8FsJGakVCr-wXz1wBoUO7Ko8cw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports" tvg-server="Football - FanCode",Current Live Sports
+#DISABLED:https://bd-mc-flive.fancode.com/mumbai/131107_english_hls_5bd74dd81b45462_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1773680708~_GO=Generated~acl=/mumbai/131107_english_hls_5bd74dd81b45462_1ta-di_h264/*~Signature=AR77L-Y2iy473oik1reCbk0KgrKkvZ9AhCaBGCrw851DOIaC8hKUMBTuCUKn0ab7AnnC9ED8qA6WKbun32d1rBkF_moB
 #DISABLED:#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" group-title="Music" tvg-server="One",Dance TV Estonia
 #DISABLED:https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
 #DISABLED:#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" group-title="Music" tvg-server="Algorhythm",Dance TV Estonia
@@ -555,22 +555,24 @@ http://103.182.170.32:8888/play/a040
 #DISABLED:http://163.61.227.29:8000/play/a00f/index.m3u8
 #DISABLED:#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/25.png" group-title="Sports" tvg-server="Server 4",Star Sports 1
 #DISABLED:http://203.18.159.115/STARSPORTS1HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180611/pks/aa8l5aros.webp" group-title="Sports" tvg-server="Server 1",STAR SPORTS 2
-http://203.18.159.115/STARSPORTS2HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/27.png" group-title="Sports" tvg-server="Server 1",Star Sports Select 1 FHD
-http://203.18.159.115/STARSELECT1HD/tracks-v1a1/mono.m3u8
+#DISABLED:#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180611/pks/aa8l5aros.webp" group-title="Sports" tvg-server="Server 1",STAR SPORTS 2
+#DISABLED:http://203.18.159.115/STARSPORTS2HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180611/pks/aa8l5aros.webp" group-title="Sports" tvg-server="Server 2",STAR SPORTS 2
+http://116.90.120.151:8000/play/a0jb/index.m3u8
+#DISABLED:#EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/27.png" group-title="Sports" tvg-server="Server 1",Star Sports Select 1 FHD
+#DISABLED:http://203.18.159.115/STARSELECT1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Music" tvg-server="Server 1",SUN MUSIC
 https://hls.sunmusic.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RTyYx5Pg/T-SERIES.png" group-title="Music" tvg-server="Server 1",T SERIES
 http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 #DISABLED:#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/56LQJQbGxYzzM_xKyXQ3JgSn4af73igvALJsQbLllVodpyyG4S3ffr0s95Ue1y6OA942" group-title="Sports" tvg-server="HD",T Sports
 #DISABLED:http://103.161.153.165:8000/play/tspohd/index.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/56LQJQbGxYzzM_xKyXQ3JgSn4af73igvALJsQbLllVodpyyG4S3ffr0s95Ue1y6OA942" group-title="Sports" tvg-server="Server 1",T Sports
-http://198.195.239.50:8095/Tsports/index.m3u8
+#DISABLED:#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/56LQJQbGxYzzM_xKyXQ3JgSn4af73igvALJsQbLllVodpyyG4S3ffr0s95Ue1y6OA942" group-title="Sports" tvg-server="Server 1",T Sports
+#DISABLED:http://198.195.239.50:8095/Tsports/index.m3u8
 #DISABLED:#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/56LQJQbGxYzzM_xKyXQ3JgSn4af73igvALJsQbLllVodpyyG4S3ffr0s95Ue1y6OA942" group-title="Sports" tvg-server="Server 2",T Sports
 #DISABLED:http://203.18.159.115/TSPORTS/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/56LQJQbGxYzzM_xKyXQ3JgSn4af73igvALJsQbLllVodpyyG4S3ffr0s95Ue1y6OA942" group-title="Sports" tvg-server="Server 4",T Sports
-http://103.144.89.251:8082/T-SPORTS-HD/index.m3u8?token=b71e91fc4149b093a23f37fdd3e4151276caa4cb-c1b85148c9d509faf092085973830e41-1773606319-1773595519&remote=no_check_ip
+#DISABLED:#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/56LQJQbGxYzzM_xKyXQ3JgSn4af73igvALJsQbLllVodpyyG4S3ffr0s95Ue1y6OA942" group-title="Sports" tvg-server="Server 4",T Sports
+#DISABLED:http://103.144.89.251:8082/T-SPORTS-HD/index.m3u8?token=b71e91fc4149b093a23f37fdd3e4151276caa4cb-c1b85148c9d509faf092085973830e41-1773606319-1773595519&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/56LQJQbGxYzzM_xKyXQ3JgSn4af73igvALJsQbLllVodpyyG4S3ffr0s95Ue1y6OA942" group-title="Sports" tvg-server="RoarZone",T Sports
 http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvdHNwb3J0cw==&e=.m3u8
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/313-3132318_tlc-channel-hd-png-download.png" group-title="English" tvg-country="US" tvg-server="Server 1",TLC [US]
@@ -597,8 +599,8 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_channelId=99991621&ads.asnw=169843&ads.afid=158702674&ads.sfid=16926435&ads.csid=xumo_web_rottentomatoesrttv_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=f30209d3-a728-4898-80ca-87f6ad05b1f5&ads._fw_vcid2=512116:f30209d3-a728-4898-80ca-87f6ad05b1f5&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=2659&ads.xumo_contentName=RottenTomatoesRTTV&ads.xumo_providerId=2659&ads.xumo_providerName=RottenTomatoesRTTV&ads.channelId=99991621&ads._fw_ifa_type=
 #EXTINF:-1 tvg-id="V2BEATTV.uk@SD" tvg-logo="https://i.imgur.com/PXGqyLn.png" group-title="Music" tvg-country="UK" tvg-server="Server 1",V2BEAT [UK]
 https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.willow.tv/apps/wlw-nw-lgo.png" group-title="Sports" tvg-server="Server 1",Willow TV
-https://mysouq1.com/live/76631957/10205687/675819.ts
+#DISABLED:#EXTINF:-1 tvg-logo="https://img.willow.tv/apps/wlw-nw-lgo.png" group-title="Sports" tvg-server="Server 1",Willow TV
+#DISABLED:https://mysouq1.com/live/76631957/10205687/675819.ts
 #DISABLED:#EXTINF:-1 tvg-logo="https://img.willow.tv/apps/wlw-nw-lgo.png" group-title="Sports" tvg-server="Server 2",Willow TV
 #DISABLED:https://dbrb49pjoymg4.cloudfront.net/10001/99951406/hls/playlist.m3u8?ads.xumo_channelId=99951406&ads._fw_ifa_type=&ads._fw_did=f86ebb16-6bc9-43c7-a4cd-36ec27a70f2e&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=TimesInternetWillowPlus&ads.csid=xumo_web_TimesInternetWillowPlus_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=Sport,Sports,SA,SC,SE,SN&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=Sport,Sports,SA,SC,SE,SN&ads._fw_content_rating=&ads.xumo_contentId=4219&ads.xumo_contentName=TimesInternetWillowPlus&ads.xumo_providerId=4219&ads.xumo_providerName=TimesInternetWillowPlus&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951406&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/8uD2Vq_A-isGSlUgfIIRBZUD47fpZPfOb1QwQEwOWJgkxymEbSClBiCnt6lGNAEkgh0=w600-h300-pc0xffffff-pd" group-title="News" tvg-country="IN" tvg-server="Server 1",Wion News [IN]
