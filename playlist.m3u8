@@ -107,8 +107,10 @@ http://103.229.254.25:7001/play/a06c/index.m3u8
 #DISABLED:https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
 #DISABLED:#EXTINF:-1 tvg-id="BBCThreeCBBC.uk@HD" tvg-logo="https://i.imgur.com/CGXC5fp.png" group-title="Adult" tvg-country="UK" tvg-server="four",BBC CBBC [UK]
 #DISABLED:https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
-#EXTINF:-1 tvg-id="BBCEarth.uk@US" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3200001RI_20250107T024804SQUARE.png" group-title="Science" tvg-country="UK" tvg-server="Server 1",BBC EARTH FHD [UK]
-http://203.18.159.115/BBCEARTHHD/tracks-v1a1/mono.m3u8
+#DISABLED:#EXTINF:-1 tvg-id="BBCEarth.uk@US" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3200001RI_20250107T024804SQUARE.png" group-title="Science" tvg-country="UK" tvg-server="Server 1",BBC EARTH [UK]
+#DISABLED:http://203.18.159.115/BBCEARTHHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BBCEarth.uk@US" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3200001RI_20250107T024804SQUARE.png" group-title="Science" tvg-country="UK" tvg-server="Server 2",BBC EARTH [UK]
+https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk@Europe" tvg-logo="https://images.icon-icons.com/70/PNG/512/bbc_news_14062.png" group-title="News" tvg-country="UK" tvg-server="Server 1",BBC NEWS [UK]
 https://a1xs.vip/1000015
 #DISABLED:#EXTINF:-1 tvg-id="BBCNews.uk@Europe" tvg-logo="https://images.icon-icons.com/70/PNG/512/bbc_news_14062.png" group-title="News" tvg-country="UK" tvg-server="Server 2",BBC NEWS [UK]
