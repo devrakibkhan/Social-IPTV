@@ -253,8 +253,10 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711.m3u8
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:-1 tvg-id="DeluxeRap.de@SD" tvg-logo="https://i.imgur.com/s3h67hx.png" group-title="Music" tvg-country="DE" tvg-server="Server 1",Deluxe Rap [DE]
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:-1 tvg-id="Desh.bd@SD" tvg-logo="https://tvassets.roarzone.info/images/9.png" group-title="Bangla" tvg-country="BD" tvg-server="Server 1",Desh [BD]
-http://103.161.153.165:8000/play/a02n/index.m3u8
+#DISABLED:#EXTINF:-1 tvg-id="Desh.bd@SD" tvg-logo="https://tvassets.roarzone.info/images/9.png" group-title="Bangla" tvg-country="BD" tvg-server="Server 1",Desh [BD]
+#DISABLED:http://103.161.153.165:8000/play/a02n/index.m3u8
+#EXTINF:-1 tvg-id="Desh.bd@SD" tvg-logo="https://tvassets.roarzone.info/images/9.png" group-title="Bangla" tvg-country="BD" tvg-server="Server 2",Desh [BD]
+https://tvsen6.aynascope.net/deshtv/tracks-v1a1/mono.ts.m3u8?e=1774201937&token=17c312183b82c8f85d0158a61a039e76&u=78be6644-0a65-48ec-81a4-089ac65a2619
 #EXTINF:-1 tvg-id="Discovery.uk@SD" tvg-logo="https://i.pinimg.com/736x/a1/99/74/a19974ce222a14ccfa0f26b47013c5e0.jpg" group-title="Science" tvg-server="Server 1",Discovery FHD
 http://203.18.159.115/DISCOVERYHD/tracks-v1a1/mono.m3u8
 #DISABLED:#EXTINF:-1 tvg-id="Discovery.uk@SD" tvg-logo="https://i.pinimg.com/736x/a1/99/74/a19974ce222a14ccfa0f26b47013c5e0.jpg" group-title="Science" tvg-server="Server 2",Discovery FHD
