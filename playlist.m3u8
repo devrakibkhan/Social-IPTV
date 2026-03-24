@@ -557,8 +557,20 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 http://103.144.89.251:8082/SONIC/index.m3u8?token=7795dd1ef4f60bd80dc9295d852e7d77b32c2695-c6eee902b945055a933ed28b9500b778-1774395074-1774384274&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/33.png" group-title="Kids" tvg-country="IN" tvg-server="HD",SONY AATH [IN]
 http://103.161.153.165:8000/play/sonyatth/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2YNY8jdf/Untitled-459-x-459-px.png" group-title="Science" tvg-server="Server 1",SONY BBC EARTH FHD
-http://203.18.159.115/SONYBBCEARTHHD/tracks-v1a1/mono.m3u8
+#DISABLED:#EXTINF:-1 tvg-logo="https://i.ibb.co/2YNY8jdf/Untitled-459-x-459-px.png" group-title="Science" tvg-server="Server 1",SONY BBC EARTH FHD
+#DISABLED:http://203.18.159.115/SONYBBCEARTHHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2YNY8jdf/Untitled-459-x-459-px.png" group-title="Science" tvg-server="Server 2",SONY BBC EARTH FHD
+http://103.144.89.251:8082/SONY.BBC.EARTH.HD/index.m3u8?token=94489dc497c3f8a3ffc5ce72a94f027980a50a3e-ff108c89f1ad62f1d749574b5f2c6cf0-1774395074-1774384274&remote=no_check_ip
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2YNY8jdf/Untitled-459-x-459-px.png" group-title="Science" tvg-server="Server 3",SONY BBC EARTH FHD
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png?width=400" group-title="Hindi / Urdu" tvg-country="IN" tvg-server="Server 1",Sony ENT [IN]
+http://103.229.254.25:7001/play/a09u/index.m3u8
+#DISABLED:#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png?width=400" group-title="Hindi / Urdu" tvg-country="IN" tvg-server="hd",Sony ENT [IN]
+#DISABLED:http://103.144.89.251:8082/SONY.ENT.HD/index.m3u8?token=26c8a9bc8b09f64c0ad693d6e5ec2e97e666593f-547b77a93bbfe3a11b96d54b08e313c8-1774395075-1774384275&remote=no_check_ip
+#DISABLED:#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png?width=400" group-title="Hindi / Urdu" tvg-country="IN" tvg-server="HD",Sony ENT FHD [IN]
+#DISABLED:http://103.161.153.165:8000/play/a01i/index.m3u8
+#DISABLED:#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png?width=400" group-title="Hindi / Urdu" tvg-country="IN" tvg-server="Server 1",Sony ENT FHD [IN]
+#DISABLED:http://203.18.159.115/SONYENTHD/tracks-v1a1/mono.m3u8
 #DISABLED:#EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/sonymax.png" group-title="Movies" tvg-country="IN" tvg-server="Server 1",Sony MAX [IN]
 #DISABLED:https://raw.githubusercontent.com/arijitreza/web/9f84a3561c6dd32152ac88a7bb4476dc1d06e79d/playlist.m3u
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/sonymax.png" group-title="Movies" tvg-country="IN" tvg-server="SD",Sony MAX [IN]
@@ -571,12 +583,6 @@ http://103.99.249.139/sonymax/index.m3u8
 https://edge2.roarzone.info:8447/roarzone/edge3/sony-pix-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/36.png" group-title="Hindi / Urdu" tvg-country="IN" tvg-server="HD",SONY SAB [IN]
 http://103.161.153.165:8000/play/a057/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png" group-title="Movies" tvg-server="Server 1",Sony SET
-http://103.229.254.25:7001/play/a09u/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png" group-title="Hindi / Urdu" tvg-server="HD",Sony SET FHD
-http://103.161.153.165:8000/play/a01i/index.m3u8
-#DISABLED:#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png" group-title="Hindi / Urdu" tvg-server="Server 1",Sony SET FHD
-#DISABLED:http://203.18.159.115/SONYENTHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/7d0d368840908947f0e3bb344c29c53f.png" group-title="Sports" tvg-country="IN" tvg-server="Server 1",Sony Sports Ten 5 [IN]
 http://103.161.153.165:8000/play/snt5/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/sonyyay.png" group-title="Kids" tvg-country="IN" tvg-server="roarzone",Sony YAY [IN]
