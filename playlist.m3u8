@@ -411,7 +411,7 @@ http://103.144.89.251:8082/MN.PLUS.HD/index.m3u8?token=a067dd033b98b8911b63cfb02
 http://103.144.89.251:8082/MNX.HD/index.m3u8?token=84cac5adbe216179195dc3c84b4af610dd888e9c-98984f19d0227ac087e96f197c52e382-1774395069-1774384269&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Movie%20Bangla.png" group-title="Movies" tvg-server="Server 1",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/63c6e6919e9ed0aa7a6fc1a3cffd5243.png" group-title="Movies" tvg-server="Server 1",MOVIES NOW HD
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/63c6e6919e9ed0aa7a6fc1a3cffd5243.png" group-title="Movies" tvg-server="HD",Movies NOW
 http://103.144.89.251:8082/MOVIES.NOW.HD/index.m3u8?token=6ef9a8917dd62ed47ccd6239aa30111cbe58cac7-5585bb685f6b41b88c26fa8de5970e32-1774395069-1774384269&remote=no_check_ip
 #EXTINF:-1 tvg-id="99951251" tvg-logo="https://image.xumo.com/v1/channels/channel/99951251/168x168.png?type=color_onBlack" group-title="Movies" tvg-server="Server 1",MovieSphere by Lionsgate
 https://dbrb49pjoymg4.cloudfront.net/10001/99951251/hls/playlist.m3u8?ads.xumo_channelId=99951251&ads._fw_ifa_type=&ads._fw_did=5ab38459-4847-4cca-bcc0-a9bf4dbba5d2&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=LionsgateMovieSphere&ads.csid=xumo_web_LionsgateMovieSphere_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=Movie,Movies,FF,Entertainment,GV,Drama,GD&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=Movie,Movies,FF,Entertainment,GV,Drama,GD&ads._fw_content_rating=&ads.xumo_contentId=3955&ads.xumo_contentName=LionsgateMovieSphere&ads.xumo_providerId=3955&ads.xumo_providerName=LionsgateMovieSphere&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951251&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
@@ -439,12 +439,16 @@ https://d21vn5eki5qsdi.cloudfront.net/playlist.m3u8
 http://203.18.159.115/NATGEOHD/tracks-v1a1/mono.m3u8
 #DISABLED:#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/national-geographic-logo-png-transparent.png" group-title="Science" tvg-server="Server 2",NAT GEO FHD
 #DISABLED:http://103.161.153.165:8000/play/a04j/index.m3u8
+#DISABLED:#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/national-geographic-logo-png-transparent.png" group-title="Science" tvg-server="Server 3",NAT GEO FHD
+#DISABLED:http://103.144.89.251:8082/NATGEO.HD/index.m3u8?token=98032cb665938431ea3055a59247b423377c2f8f-8a9be5d0b48355d24de71c7bf4e08940-1774395070-1774384270&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="Science" tvg-server="Server 1",NAT GEO WILD FHD
 http://203.18.159.115/NATGEOWILDHD/tracks-v1a1/mono.m3u8
 #DISABLED:#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="Science" tvg-server="Server 2",NAT GEO WILD FHD
 #DISABLED:https://d1tm3cz23db55z.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WildTV/476.m3u8
 #DISABLED:#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="Science" tvg-server="Server 3",NAT GEO WILD FHD
 #DISABLED:http://103.161.153.165:8000/play/a03j/index.m3u8
+#DISABLED:#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="Science" tvg-server="Server 4",NAT GEO WILD FHD
+#DISABLED:http://103.144.89.251:8082/NATGEO.WILD.HD/index.m3u8?token=4e5dbda64fd5d7039cc76a469cea231a8eb9cfc8-562380355b052dad653a79dac5adde1c-1774395070-1774384270&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://asianews.network/wp-content/uploads/bfi_thumb/NDTV-logo-7695noll0a3o77rdn1v1rwygourz0x52k2w4poe7o00.jpg" group-title="News" tvg-country="IN" tvg-server="Server 1",NDTV [IN]
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #DISABLED:#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/36/1/news24-channel-logo-png_seeklogo-362149.png" group-title="News" tvg-country="BD" tvg-server="Server 1",News 24 HD [BD]
@@ -467,12 +471,16 @@ http://103.229.254.25:7001/play/a05m/index.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/NHK_WORLD_JAPAN/manifest.mpd
 #DISABLED:#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2022/09/14105807/NHK-World-TV.jpg" group-title="News" tvg-country="JP" tvg-server="Server 2",NHK World [JP]
 #DISABLED:https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg" group-title="Kids" tvg-server="Server 1",NICK
-http://103.229.254.25:7001/play/a07b/index.m3u8
+#DISABLED:#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg" group-title="Kids" tvg-server="Server 1",NICK
+#DISABLED:http://103.229.254.25:7001/play/a07b/index.m3u8
 #DISABLED:#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg" group-title="Kids" tvg-server="Server 2",NICK
 #DISABLED:http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 #DISABLED:#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg" group-title="Kids" tvg-server="Server 3",NICK
 #DISABLED:http://172.19.178.180/servers-stailer/143srv.php?stream=nick_jr&format=m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg" group-title="Kids" tvg-server="Server 4",NICK
+http://103.144.89.251:8082/NICK/index.m3u8?token=b2c2325bb14aba07b902d82960f45dd46859e48a-80b7400825ddce1a05f65623bc6b97b1-1774395071-1774384271&remote=no_check_ip
+#EXTINF:-1 tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2018/02/5a8df502cffcf-384x384.png" group-title="Kids" tvg-country="IN" tvg-server="Server 1",NICK JR [IN]
+http://103.144.89.251:8082/NICK.JR/index.m3u8?token=f27fa7e7e2a1d5e7bd8c07594949410772effbc2-ddc04a6c91c387891e1feff0aa468ac7-1774395071-1774384271&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k2OVT9KlclMpcDC7BtSActMWKbSRrJ6mF6yKk0dcDDAw=s900-c-k-c0x00ffffff-no-rj" group-title="Music" tvg-country="CA" tvg-server="Server 1",NRB [CA]
 https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg" group-title="Bangla" tvg-server="Server 1",NTV
@@ -489,12 +497,16 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
 #DISABLED:https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 #DISABLED:#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/pocket-films.png" group-title="Movies" tvg-server="Server 1",Pocket Films
 #DISABLED:https://vglivessai.akamaized.net/ptnr-yupptv/title-Pocket_Films/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/playlist.m3u8?hdnts=st%3D1770940794~exp%3D1770962394~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-Pocket_Films%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fb8ada260-bb81-472b-b7c1-3a79213a84b8%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.182.225.137_yuppfast_2_channel_318_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.182.225.137_yuppfast_2_channel_318_-1~hmac%3D064b18ffa809e92dcac0bfe33a503fc5732006d2ad5f04b1dde5c1325758d8fd
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/1d47df5bb049d4e70d8d7301ef9666cb.png" group-title="Kids" tvg-country="IN" tvg-server="Server 1",POGO [IN]
+http://103.144.89.251:8082/POGO/index.m3u8?token=987eb7d19c48dd8e56a577a42b58eba027e0d245-31b0df356ade898ce9ec7e2711e3744b-1774395072-1774384272&remote=no_check_ip
 #EXTINF:-1 group-title="Other Language" tvg-country="QA" tvg-server="Server 1",Qatar TV [QA]
 http://103.161.153.165:8000/play/a053/index.m3u8
 #EXTINF:-1 tvg-logo="https://rajdhanitv.online/assets/images/logo/1757970614logo%20footer.png" group-title="Bangla" tvg-server="Server 1",RAJDHANI TV HD
 https://stream.shariarsuvo.com/hls6/rajdhaniweb.m3u8
 #EXTINF:-1 tvg-id="RetroCrush.us@SD" tvg-logo="https://i.imgur.com/M40b4YI.png" group-title="Kids" tvg-country="JP" tvg-server="Server 1",RetroCrush [JP]
 https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/profile/1/profileManifest.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ94ND1K8voujEnsZL6sR_mQA_Ze-IW1Q4KSQ&s" tvg-server="Server 1",Romedy NOW
+http://103.144.89.251:8082/ROMEDY.NOW/index.m3u8?token=d93e490a4325b3891a93a43b239832618d07e746-9a049f6134cc8f4c0854b03833db83b6-1774395073-1774384273&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/aB9kpZngTtp3usFm1i6X4E_9zBlCwq3b43LiVUEXfplqRK7Ye1y_CqSgkjWNXuhGPWqb=w240-h480-rw" group-title="Kids" tvg-country="IN" tvg-server="T Play",Rongeen TV [IN]
 https://cdn-4.pishow.tv/live/1029/1029_1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTzzQb-2GEhC4xPijUwu-I1ACTavtg9QNIjmaxs8SEb1v3b0aud6UVsbDSAZLTEM80KuI&usqp=CAU" group-title="Bangla" tvg-server="Server 1",Rtv HD
@@ -541,6 +553,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #DISABLED:https://tvsen6.aynascope.net/somoytv/index.m3u8?e=1772575113&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=dc4274cd35caa500ae1fc918027f4915
 #DISABLED:#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="News" tvg-country="BD" tvg-server="HD",SOMOY TV [BD]
 #DISABLED:http://103.161.153.165:8000/play/a02c/index.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/sonic_Hindi.png?width=400" group-title="Kids" tvg-country="IN" tvg-server="Server 1",Sonic [IN]
+http://103.144.89.251:8082/SONIC/index.m3u8?token=7795dd1ef4f60bd80dc9295d852e7d77b32c2695-c6eee902b945055a933ed28b9500b778-1774395074-1774384274&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/33.png" group-title="Kids" tvg-country="IN" tvg-server="HD",SONY AATH [IN]
 http://103.161.153.165:8000/play/sonyatth/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2YNY8jdf/Untitled-459-x-459-px.png" group-title="Science" tvg-server="Server 1",SONY BBC EARTH FHD
