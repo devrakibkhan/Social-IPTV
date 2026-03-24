@@ -405,6 +405,8 @@ http://103.229.254.25:7001/play/a05p/index.m3u8
 http://103.229.254.25:7001/play/a0et/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_-TnRKrBcAn3Wg_TNuIbRILQQk5_jlS577w&s" group-title="Bangla" tvg-country="BD" tvg-server="Server 1",ME tv [BD]
 https://iptvbd.live/metv1080/1080.m3u8
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/5c307f28050285.55acb932126c9.png" group-title="Movies" tvg-country="IN" tvg-server="Server 1",MN + [IN]
+http://103.144.89.251:8082/MN.PLUS.HD/index.m3u8?token=a067dd033b98b8911b63cfb0236d34602757860c-c456e43bb3391502435512b22b39569c-1774395068-1774384268&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Movie%20Bangla.png" group-title="Movies" tvg-server="Server 1",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-id="99951251" tvg-logo="https://image.xumo.com/v1/channels/channel/99951251/168x168.png?type=color_onBlack" group-title="Movies" tvg-server="Server 1",MovieSphere by Lionsgate
