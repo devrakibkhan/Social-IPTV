@@ -87,16 +87,20 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 #DISABLED:https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AsianTV.bd@SD" tvg-logo="https://www.pngfind.com/pngs/m/162-1620250_asian-tv-bd-logo-hd-png-download.png" group-title="Bangla" tvg-country="BD" tvg-server="Server 1",Asian TV [BD]
 http://103.229.254.25:7001/play/a063/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/53/2/atn-bangla-logo-png_seeklogo-537053.png" group-title="Bangla" tvg-country="BD" tvg-server="Server 1",ATN Bangla [BD]
-https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+#DISABLED:#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/53/2/atn-bangla-logo-png_seeklogo-537053.png" group-title="Bangla" tvg-country="BD" tvg-server="Server 1",ATN Bangla [BD]
+#DISABLED:https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/53/2/atn-bangla-logo-png_seeklogo-537053.png" group-title="Bangla" tvg-country="BD" tvg-server="Server 2",ATN Bangla [BD]
+http://103.144.89.251:8082/ATN.BANGLA.HD/index.m3u8?token=1060a6c872e7cb9a348702bb32501954c3c9e858-f72788dd895362f38b2cc4586bc5f8b7-1774401753-1774390953&remote=no_check_ip
 #DISABLED:#EXTINF:-1 tvg-id="ATNMusic.bd@SD" tvg-logo="https://atnmusictv.com/images/logo.png" group-title="Music" tvg-country="BD" tvg-server="Server 1",ATN Music [BD]
 #DISABLED:https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ATN_News_logo.svg/960px-ATN_News_logo.svg.png" group-title="News" tvg-country="BD" tvg-server="Server 1",ATN NEWS [BD]
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
-#DISABLED:#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/AXN_HD_Logo_2015.svg" group-title="Movies" tvg-country="US" tvg-server="Server 1",AXN [US]
+#DISABLED:#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ATN_News_logo.svg/960px-ATN_News_logo.svg.png" group-title="News" tvg-country="BD" tvg-server="Server 2",ATN NEWS [BD]
+#DISABLED:http://103.144.89.251:8082/ATN.NEWS.HD/index.m3u8?token=bd296f28b54d9d31ccf2fb513624e18c50e3874d-bd445c66099764f30121bc9d4e8abb10-1774401753-1774390953&remote=no_check_ip
+#DISABLED:#EXTINF:-1 tvg-logo="https://ewsat.com/img/AXN.png" group-title="Movies" tvg-country="US" tvg-server="Server 1",AXN [US]
 #DISABLED:http://203.18.159.115/AXNHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/AXN_HD_Logo_2015.svg" group-title="Movies" tvg-country="US" tvg-server="hd",AXN [US]
-http://103.144.89.251:8082/AXN.HD/index.m3u8?token=2177b9dd40539d0dba21970c758cc4fea3259d27-117dd4ee27b306213c212bd494a813b9-1774228498-1774217698&remote=no_check_ip
+#DISABLED:#EXTINF:-1 tvg-logo="https://ewsat.com/img/AXN.png" group-title="Movies" tvg-country="US" tvg-server="hd",AXN [US]
+#DISABLED:http://103.144.89.251:8082/AXN.HD/index.m3u8?token=2177b9dd40539d0dba21970c758cc4fea3259d27-117dd4ee27b306213c212bd494a813b9-1774228498-1774217698&remote=no_check_ip
 #EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="https://apiexcellent.com/storage/images/medias/television/product/b4u-movies-television10050.webp" group-title="Movies" tvg-country="IN" tvg-server="Server 1",B4U Movies [IN]
 http://103.175.73.12:8080/live/43/43_0.m3u8
 #EXTINF:-1 tvg-id="B4UMusic.in@India" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Music.png" group-title="Music" tvg-country="IN" tvg-server="Server 1",B4U Music [IN]
@@ -125,10 +129,10 @@ http://103.229.254.25:7001/play/a06c/index.m3u8
 #DISABLED:https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
 #DISABLED:#EXTINF:-1 tvg-id="BBCEarth.uk@US" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3200001RI_20250107T024804SQUARE.png" group-title="Science" tvg-country="UK" tvg-server="Server 1",BBC EARTH [UK]
 #DISABLED:http://203.18.159.115/BBCEARTHHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="BBCEarth.uk@US" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3200001RI_20250107T024804SQUARE.png" group-title="Science" tvg-country="UK" tvg-server="Server 2",BBC EARTH [UK]
-https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
-#DISABLED:#EXTINF:-1 tvg-id="BBCEarth.uk@US" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3200001RI_20250107T024804SQUARE.png" group-title="Science" tvg-country="UK" tvg-server="Server 3",BBC EARTH [UK]
-#DISABLED:http://103.144.89.251:8082/BBC.Earth.HD/index.m3u8?token=17614e64f4bcc452d1798696a033ac9d660da75b-52c21f32db727a579b683de95fe2bf42-1774395059-1774384259&remote=no_check_ip
+#DISABLED:#EXTINF:-1 tvg-id="BBCEarth.uk@US" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3200001RI_20250107T024804SQUARE.png" group-title="Science" tvg-country="UK" tvg-server="Server 2",BBC EARTH [UK]
+#DISABLED:https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCEarth.uk@US" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3200001RI_20250107T024804SQUARE.png" group-title="Science" tvg-country="UK" tvg-server="Server 3",BBC EARTH [UK]
+http://103.144.89.251:8082/BBC.Earth.HD/index.m3u8?token=17614e64f4bcc452d1798696a033ac9d660da75b-52c21f32db727a579b683de95fe2bf42-1774395059-1774384259&remote=no_check_ip
 #EXTINF:-1 tvg-id="BBCNews.uk@Europe" tvg-logo="https://images.icon-icons.com/70/PNG/512/bbc_news_14062.png" group-title="News" tvg-country="UK" tvg-server="Server 1",BBC NEWS [UK]
 https://a1xs.vip/1000015
 #DISABLED:#EXTINF:-1 tvg-id="BBCNews.uk@Europe" tvg-logo="https://images.icon-icons.com/70/PNG/512/bbc_news_14062.png" group-title="News" tvg-country="UK" tvg-server="Server 2",BBC NEWS [UK]
@@ -509,8 +513,6 @@ http://203.18.159.115/NATGEOWILDHD/tracks-v1a1/mono.m3u8
 #DISABLED:http://103.144.89.251:8082/NATGEO.WILD.HD/index.m3u8?token=4e5dbda64fd5d7039cc76a469cea231a8eb9cfc8-562380355b052dad653a79dac5adde1c-1774395070-1774384270&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://asianews.network/wp-content/uploads/bfi_thumb/NDTV-logo-7695noll0a3o77rdn1v1rwygourz0x52k2w4poe7o00.jpg" group-title="News" tvg-country="IN" tvg-server="Server 1",NDTV [IN]
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:-1 tvg-server="Server 1",New Channel
-
 #DISABLED:#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/36/1/news24-channel-logo-png_seeklogo-362149.png" group-title="News" tvg-country="BD" tvg-server="Server 1",News 24 HD [BD]
 #DISABLED:https://tvsen6.aynascope.net/news24/index.m3u8?e=1772575118&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=1da496adf7131fa4cdb3d020f8e6b21f
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/36/1/news24-channel-logo-png_seeklogo-362149.png" group-title="News" tvg-country="BD" tvg-server="bdix",News 24 HD [BD]
@@ -629,8 +631,6 @@ http://103.161.153.165:8000/play/sonyatth/index.m3u8
 #DISABLED:http://203.18.159.115/SONYBBCEARTHHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2YNY8jdf/Untitled-459-x-459-px.png" group-title="Science" tvg-server="Server 2",SONY BBC EARTH FHD
 http://103.144.89.251:8082/SONY.BBC.EARTH.HD/index.m3u8?token=94489dc497c3f8a3ffc5ce72a94f027980a50a3e-ff108c89f1ad62f1d749574b5f2c6cf0-1774395074-1774384274&remote=no_check_ip
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2YNY8jdf/Untitled-459-x-459-px.png" group-title="Science" tvg-server="Server 3",SONY BBC EARTH FHD
-
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png?width=400" group-title="Hindi / Urdu" tvg-country="IN" tvg-server="Server 1",Sony ENT [IN]
 http://103.229.254.25:7001/play/a09u/index.m3u8
 #DISABLED:#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png?width=400" group-title="Hindi / Urdu" tvg-country="IN" tvg-server="hd",Sony ENT [IN]
