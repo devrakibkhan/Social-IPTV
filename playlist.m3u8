@@ -7,8 +7,10 @@
 http://116.90.120.151:8000/play/a0il/index.m3u8
 #DISABLED:CH:-1 tvg-id="Andflix.in@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYfsvcs4wBhma2qeLs75QQw-1OTMrRPJm4xg&s" group-title="Movies" tvg-country="IN" tvg-server="Server 4",& Flix [IN]
 #DISABLED:LINK:http://103.144.89.251:8082/AND.FLIX.HD/index.m3u8?token=c3d8b6312d4b04e0461ed822d9bbee179fe37e23-2fb427d97de7c549d670f68f08d53716-1774395055-1774384255&remote=no_check_ip
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYK4V.png?lock=720x540" group-title="Movies" tvg-country="IN" tvg-server="Server 1",& Picture [IN]
-http://103.144.89.251:8082/ANT.PICTURS.HD/index.m3u8?token=3a1b245059d2542cdaa8d5c7469ec9860d91e33a-f1714672864e64284fa1114a4f757c17-1774395056-1774384256&remote=no_check_ip
+#DISABLED:CH:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYK4V.png?lock=720x540" group-title="Movies" tvg-country="IN" tvg-server="Server 1",& Picture [IN]
+#DISABLED:LINK:http://103.144.89.251:8082/ANT.PICTURS.HD/index.m3u8?token=3a1b245059d2542cdaa8d5c7469ec9860d91e33a-f1714672864e64284fa1114a4f757c17-1774395056-1774384256&remote=no_check_ip
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYK4V.png?lock=720x540" group-title="Movies" tvg-country="IN" tvg-server="Server 2",& Picture [IN]
+http://103.229.254.25:7001/play/a033/index.m3u8
 #EXTINF:-1 tvg-id="AndpriveHD.in@SD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_720%2Ch_405%2Cc_scale%2Cf_webp%2Cq_auto:eco/resources/0-9-9z5543514/list/1920x1080listd4a78816ce2d4ea7afc7efe5e639e9cd.jpg" group-title="Movies" tvg-country="IN" tvg-server="Server 1",& prive HD [IN]
 http://103.229.254.25:7001/play/a03f/index.m3u8
 #DISABLED:CH:-1 tvg-id="AndpriveHD.in@SD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_720%2Ch_405%2Cc_scale%2Cf_webp%2Cq_auto:eco/resources/0-9-9z5543514/list/1920x1080listd4a78816ce2d4ea7afc7efe5e639e9cd.jpg" group-title="Movies" tvg-country="IN" tvg-server="Server 2",& prive HD [IN]
@@ -29,10 +31,14 @@ http://103.144.89.251:8082/XPLOR.HD/index.m3u8?token=fccfae0d722908549ff823b6ddb
 https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
 #EXTINF:-1 tvg-id="9XJalwa.in@SD" tvg-logo="https://e7.pngegg.com/pngimages/849/297/png-clipart-9x-jalwa-television-channel-9x-media-streaming-media-others-miscellaneous-television.png" group-title="Music" tvg-country="IN" tvg-server="Server 1",9X Jalwa [IN]
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8
-#EXTINF:-1 tvg-id="9XM.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="Music" tvg-country="IN" tvg-server="Server 3",9XM [IN]
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/c8939874-787e-41ae-8d35-f5ea6e15720d/0.m3u8
-#DISABLED:CH:-1 tvg-id="9XM.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="Music" tvg-country="IN" tvg-server="Server 1",9XM [IN]
-#DISABLED:LINK:http://103.229.254.25:7001/play/a07o/index.m3u8
+#DISABLED:CH:-1 tvg-id="9XJalwa.in@SD" tvg-logo="https://e7.pngegg.com/pngimages/849/297/png-clipart-9x-jalwa-television-channel-9x-media-streaming-media-others-miscellaneous-television.png" group-title="Music" tvg-country="IN" tvg-server="Server 2",9X Jalwa [IN]
+#DISABLED:LINK:https://tvsen6.aynascope.net/9xjalwa/index.m3u8?e=1774462536&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=04e6799c0f8d783a0d114b5727984b09
+#DISABLED:CH:-1 tvg-id="9XJalwa.in@SD" tvg-logo="https://e7.pngegg.com/pngimages/849/297/png-clipart-9x-jalwa-television-channel-9x-media-streaming-media-others-miscellaneous-television.png" group-title="Music" tvg-country="IN" tvg-server="Server 3",9X Jalwa [IN]
+#DISABLED:LINK:http://sm-monirul.top/AyNa/play.php?id=da617cc0-9209-434c-9156-0f9387182a3f&e=.m3u8
+#DISABLED:CH:-1 tvg-id="9XM.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="Music" tvg-country="IN" tvg-server="Server 3",9XM [IN]
+#DISABLED:LINK:https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/c8939874-787e-41ae-8d35-f5ea6e15720d/0.m3u8
+#EXTINF:-1 tvg-id="9XM.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="Music" tvg-country="IN" tvg-server="Server 1",9XM [IN]
+http://103.229.254.25:7001/play/a07o/index.m3u8
 #DISABLED:CH:-1 tvg-id="9XM.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="Music" tvg-country="IN" tvg-server="Server 2",9XM [IN]
 #DISABLED:LINK:http://103.175.73.12:8080/live/155/155_0.m3u8
 #EXTINF:-1 tvg-logo="https://www.dishurdu.com/images/A-Sports-HD-Logo.png" group-title="Sports" tvg-country="PK" tvg-server="Server 1",A Sports [PK]
@@ -51,6 +57,10 @@ https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a44
 https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master_4000.m3u8
 #EXTINF:-1 group-title="Movies" tvg-server="Server 1",Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#DISABLED:CH:-1 group-title="Movies" tvg-server="Server 2",Action Hollywood Movies
+#DISABLED:LINK:https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#DISABLED:CH:-1 group-title="Movies" tvg-server="Server 3",Action Hollywood Movies
+#DISABLED:LINK:http://sm-monirul.top/AyNa/play.php?id=f1acb290-c4c1-4010-8226-3f88b203c79c&e=.m3u8
 #EXTINF:-1 tvg-id="Alarabiya.ae@SD" tvg-logo="https://shahid.mbc.net/mediaObject/7cfc0baf-1201-477f-b722-d3099fafe17f?height=230&width=512&croppingPoint=&version=1&type=png" group-title="News" tvg-country="SA" tvg-server="Server 1",Al Arabiya English [SA]
 https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 #DISABLED:CH:-1 tvg-id="AlJazeera.qa@English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX2eGB47dEs7OMC3x82T0vcStU2NtSJ-EG7g&s" group-title="News" tvg-country="QA" tvg-server="thehlive",Al Jazeera News [QA]
