@@ -19,6 +19,8 @@ http://103.229.254.25:7001/play/a03f/index.m3u8
 #DISABLED:LINK:http://103.144.89.251:8082/AND.PRIVE.HD/index.m3u8?token=21357905e5b99cb250699b803434e1c8978583ec-e7893aad6d34880b6aa794d0ce5497b6-1774395056-1774384256&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies" tvg-country="IN" tvg-server="Server 1",& Xplor [IN]
 http://103.144.89.251:8082/XPLOR.HD/index.m3u8?token=fccfae0d722908549ff823b6ddb187014d185f24-b08c8bd3ddf4334541a0d68917bdd91f-1774395057-1774384257&remote=no_check_ip
+#DISABLED:CH:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies" tvg-country="IN" tvg-server="Server 2",& Xplor [IN]
+#DISABLED:LINK:http://66.102.120.18:8000/play/a012/index.m3u8
 #DISABLED:CH:-1 tvg-id="30AMusic.us@SD" tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="Music" tvg-country="US" tvg-server="Server 1",30A Music [US]
 #DISABLED:LINK:https://30a-tv.com/music.m3u8
 #DISABLED:CH:-1 tvg-logo="https://iili.io/d9mgekX.png" group-title="Movies" tvg-server="Server 1",4 Film
