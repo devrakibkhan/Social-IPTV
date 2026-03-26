@@ -669,6 +669,8 @@ https://edge2.roarzone.info:8447/roarzone/edge3/sony-pix-hd/tracks-v1a1/mono.m3u
 #DISABLED:LINK:http://103.144.89.251:8082/SONY.PIX.HD/index.m3u8?token=71722da8fa8b6a130e1183b9d62ed223047dbd65-2ec7d055553f5d1469c314697fdb931e-1774395076-1774384276&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/36.png" group-title="Hindi / Urdu" tvg-country="IN" tvg-server="HD",SONY SAB [IN]
 http://103.161.153.165:8000/play/a057/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W96KVqu.png" group-title="Sports" tvg-country="IN" tvg-server="Server 1",Sony Sports 2 [IN]
+http://198.195.239.50:8095/SonyTenSports2/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_3.png?width=400" group-title="Sports" tvg-country="IN" tvg-server="Server 1",Sony Sports 3 [IN]
 http://103.144.89.251:8082/SONY.SPORTS.3/index.m3u8?token=a0dae37d71591dd58ad49bccd623a5ced09ad059-7ee8d51070c503ce71d3218d165d6f2a-1774395077-1774384277&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_4_Tamil.png?width=400" group-title="Sports" tvg-country="IN" tvg-server="Server 1",Sony Sports 4 [IN]
