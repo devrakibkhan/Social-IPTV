@@ -745,14 +745,14 @@ https://hls.sunmusic.live/hls/stream.m3u8
 http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 #DISABLED:CH:-1 tvg-logo="https://play-lh.googleusercontent.com/56LQJQbGxYzzM_xKyXQ3JgSn4af73igvALJsQbLllVodpyyG4S3ffr0s95Ue1y6OA942" group-title="Sports" tvg-server="HD",T Sports
 #DISABLED:LINK:http://103.161.153.165:8000/play/tspohd/index.m3u8
-#DISABLED:CH:-1 tvg-logo="https://play-lh.googleusercontent.com/56LQJQbGxYzzM_xKyXQ3JgSn4af73igvALJsQbLllVodpyyG4S3ffr0s95Ue1y6OA942" group-title="Sports" tvg-server="Server 1",T Sports
-#DISABLED:LINK:http://198.195.239.50:8095/Tsports/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/56LQJQbGxYzzM_xKyXQ3JgSn4af73igvALJsQbLllVodpyyG4S3ffr0s95Ue1y6OA942" group-title="Sports" tvg-server="Server 1",T Sports
+http://198.195.239.50:8095/Tsports/index.m3u8
 #DISABLED:CH:-1 tvg-logo="https://play-lh.googleusercontent.com/56LQJQbGxYzzM_xKyXQ3JgSn4af73igvALJsQbLllVodpyyG4S3ffr0s95Ue1y6OA942" group-title="Sports" tvg-server="Server 2",T Sports
 #DISABLED:LINK:http://203.18.159.115/TSPORTS/tracks-v1a1/mono.m3u8
 #DISABLED:CH:-1 tvg-logo="https://play-lh.googleusercontent.com/56LQJQbGxYzzM_xKyXQ3JgSn4af73igvALJsQbLllVodpyyG4S3ffr0s95Ue1y6OA942" group-title="Sports" tvg-server="Server 4",T Sports
 #DISABLED:LINK:http://103.144.89.251:8082/T-SPORTS-HD/index.m3u8?token=b71e91fc4149b093a23f37fdd3e4151276caa4cb-c1b85148c9d509faf092085973830e41-1773606319-1773595519&remote=no_check_ip
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/56LQJQbGxYzzM_xKyXQ3JgSn4af73igvALJsQbLllVodpyyG4S3ffr0s95Ue1y6OA942" group-title="Sports" tvg-server="RoarZone",T Sports
-http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvdHNwb3J0cw==&e=.m3u8
+#DISABLED:CH:-1 tvg-logo="https://play-lh.googleusercontent.com/56LQJQbGxYzzM_xKyXQ3JgSn4af73igvALJsQbLllVodpyyG4S3ffr0s95Ue1y6OA942" group-title="Sports" tvg-server="RoarZone",T Sports
+#DISABLED:LINK:http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvdHNwb3J0cw==&e=.m3u8
 #DISABLED:CH:-1 tvg-logo="https://play-lh.googleusercontent.com/56LQJQbGxYzzM_xKyXQ3JgSn4af73igvALJsQbLllVodpyyG4S3ffr0s95Ue1y6OA942" group-title="Sports" tvg-server="Server 6",T Sports
 #DISABLED:LINK:http://103.144.89.251:8082/T-SPORTS-HD/index.m3u8?token=3c8bc3b8c4707d178d7de2e477c3a207bc589fd4-e8c46b30d63c9fdca8cc7ff0c0eeb6da-1774395086-1774384286&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/56LQJQbGxYzzM_xKyXQ3JgSn4af73igvALJsQbLllVodpyyG4S3ffr0s95Ue1y6OA942" group-title="Sports" tvg-server="Server 7",T Sports
