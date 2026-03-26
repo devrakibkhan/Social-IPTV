@@ -193,6 +193,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8
 #DISABLED:LINK:https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/a707f2dc-9704-413a-a67c-17c64a77c350/index.m3u8
 #DISABLED:CH:-1 tvg-id="BTVNational.bd@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bangladesh_Television_logo.svg/330px-Bangladesh_Television_logo.svg.png" group-title="Bangla" tvg-server="National 2",BTV HD
 #DISABLED:LINK:https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/355ba051-9a60-48aa-adcf-5a6c64da8c5c/355ba051-9a60-48aa-adcf-5a6c64da8c5c_3_playlist.m3u8
+#DISABLED:CH:-1 tvg-id="BTVNational.bd@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bangladesh_Television_logo.svg/330px-Bangladesh_Television_logo.svg.png" group-title="Bangla" tvg-server="Govt Link",BTV HD
+#DISABLED:LINK:https://streams.btvlive.gov.bd/live/355ba051-9a60-48aa-adcf-5a6c64da8c5c/chunk-stream-228491.ts
 #DISABLED:CH:-1 tvg-logo="https://tvassets.roarzone.info/images/cartoon-network.webp" group-title="Kids" tvg-server="Server 1",Cartoon Network
 #DISABLED:LINK:http://103.229.254.25:7001/play/a0cn/index.m3u8
 #DISABLED:CH:-1 tvg-logo="https://tvassets.roarzone.info/images/cartoon-network.webp" group-title="Kids" tvg-server="Server 2",Cartoon Network
