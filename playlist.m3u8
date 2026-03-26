@@ -7,6 +7,8 @@
 http://116.90.120.151:8000/play/a0il/index.m3u8
 #DISABLED:CH:-1 tvg-id="Andflix.in@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYfsvcs4wBhma2qeLs75QQw-1OTMrRPJm4xg&s" group-title="Movies" tvg-country="IN" tvg-server="Server 4",& Flix [IN]
 #DISABLED:LINK:http://103.144.89.251:8082/AND.FLIX.HD/index.m3u8?token=c3d8b6312d4b04e0461ed822d9bbee179fe37e23-2fb427d97de7c549d670f68f08d53716-1774395055-1774384255&remote=no_check_ip
+#DISABLED:CH:-1 tvg-id="Andflix.in@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYfsvcs4wBhma2qeLs75QQw-1OTMrRPJm4xg&s" group-title="Movies" tvg-country="IN" tvg-server="hd",& Flix [IN]
+#DISABLED:LINK:http://103.229.254.25:7001/play/a02x/index.m3u8
 #DISABLED:CH:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYK4V.png?lock=720x540" group-title="Movies" tvg-country="IN" tvg-server="Server 1",& Picture [IN]
 #DISABLED:LINK:http://103.144.89.251:8082/ANT.PICTURS.HD/index.m3u8?token=3a1b245059d2542cdaa8d5c7469ec9860d91e33a-f1714672864e64284fa1114a4f757c17-1774395056-1774384256&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYK4V.png?lock=720x540" group-title="Movies" tvg-country="IN" tvg-server="Server 2",& Picture [IN]
@@ -211,6 +213,8 @@ http://203.18.159.115/CARTOONNETWORK/tracks-v1a1/mono.m3u8
 #DISABLED:LINK:https://sm-monirul.top/Toffee/live.php?id=206c4fa8e760&e=.m3u8
 #DISABLED:CH:-1 tvg-logo="https://tvassets.roarzone.info/images/cartoon-network-hd.webp" group-title="Kids" tvg-server="Server 4",Cartoon Network HD+
 #DISABLED:LINK:http://103.144.89.251:8082/CARTON.NETWORK.HD/index.m3u8?token=71f18d37f7ce02986a1d24793a34e2435247203c-474da70543de99f58880da41cba6418f-1774395060-1774384260&remote=no_check_ip
+#DISABLED:CH:-1 tvg-logo="https://tvassets.roarzone.info/images/cartoon-network-hd.webp" group-title="Kids" tvg-server="Server 5",Cartoon Network HD+
+#DISABLED:LINK:http://198.195.239.50:8095/CartoonNetwork/index.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn@SD" tvg-logo="https://m.media-amazon.com/images/I/31wgHL2U4fL.png" group-title="News" tvg-country="CN" tvg-server="Server 1",CGTN [CN]
 https://0472.org/hls/cgtn.m3u8
 #DISABLED:CH:-1 tvg-id="CGTN.cn@SD" tvg-logo="https://m.media-amazon.com/images/I/31wgHL2U4fL.png" group-title="News" tvg-country="CN" tvg-server="Server 2",CGTN [CN]
@@ -675,9 +679,9 @@ http://198.195.239.50:8095/SonyTenSports2/index.m3u8
 http://103.144.89.251:8082/SONY.SPORTS.3/index.m3u8?token=a0dae37d71591dd58ad49bccd623a5ced09ad059-7ee8d51070c503ce71d3218d165d6f2a-1774395077-1774384277&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_4_Tamil.png?width=400" group-title="Sports" tvg-country="IN" tvg-server="Server 1",Sony Sports 4 [IN]
 http://103.144.89.251:8082/SONY.SPORTS.4/index.m3u8?token=5b52ef2b4ab063aacc5cefb673052ec42d3835f6-139a00bc658b55b2841f08a8ef4c64de-1774395077-1774384277&remote=no_check_ip
-#DISABLED:CH:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/7d0d368840908947f0e3bb344c29c53f.png" group-title="Sports" tvg-country="IN" tvg-server="Server 1",Sony Sports 5 [IN]
+#DISABLED:CH:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png" group-title="Sports" tvg-country="IN" tvg-server="Server 1",Sony Sports 5 [IN]
 #DISABLED:LINK:http://103.161.153.165:8000/play/snt5/index.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/7d0d368840908947f0e3bb344c29c53f.png" group-title="Sports" tvg-country="IN" tvg-server="Server 2",Sony Sports 5 [IN]
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png" group-title="Sports" tvg-country="IN" tvg-server="Server 2",Sony Sports 5 [IN]
 http://103.144.89.251:8082/SONY-SPORTS.5HD/index.m3u8?token=d8ebf86d88e4f4cca49d81f49caa47a3336f237c-94cb28d0ee9bc7598ef6df78bba15031-1774395078-1774384278&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/sonyyay.png" group-title="Kids" tvg-country="IN" tvg-server="roarzone",Sony YAY [IN]
 https://edge2.roarzone.info:8447/roarzone/edge3/sony-yay/tracks-v1a1/mono.m3u8?token=1cef9a15f04b9a041b73ac76235792d3dea1aee3-da6a02fd63f3611a7f0de10a64bbfc7d-1774032145-1774028545
