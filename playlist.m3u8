@@ -9,16 +9,24 @@
 #DISABLED:LINK:http://103.144.89.251:8082/AND.FLIX.HD/index.m3u8?token=c3d8b6312d4b04e0461ed822d9bbee179fe37e23-2fb427d97de7c549d670f68f08d53716-1774395055-1774384255&remote=no_check_ip
 #EXTINF:-1 tvg-id="Andflix.in@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYfsvcs4wBhma2qeLs75QQw-1OTMrRPJm4xg&s" group-title="Movies" tvg-country="IN" tvg-server="hd",& Flix [IN]
 http://103.229.254.25:7001/play/a02x/index.m3u8
+#DISABLED:CH:-1 tvg-id="Andflix.in@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYfsvcs4wBhma2qeLs75QQw-1OTMrRPJm4xg&s" group-title="Movies" tvg-country="IN" tvg-server="Server 6",& Flix [IN]
+#DISABLED:LINK:http://103.182.170.32:8888/play/a02a
+#DISABLED:CH:-1 tvg-id="Andflix.in@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYfsvcs4wBhma2qeLs75QQw-1OTMrRPJm4xg&s" group-title="Movies" tvg-country="IN" tvg-server="UHD",& Flix [IN]
+#DISABLED:LINK:http://110.39.27.47:8001/play/a01u/index.m3u8
 #DISABLED:CH:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYK4V.png?lock=720x540" group-title="Movies" tvg-country="IN" tvg-server="Server 1",& Picture [IN]
 #DISABLED:LINK:http://103.144.89.251:8082/ANT.PICTURS.HD/index.m3u8?token=3a1b245059d2542cdaa8d5c7469ec9860d91e33a-f1714672864e64284fa1114a4f757c17-1774395056-1774384256&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYK4V.png?lock=720x540" group-title="Movies" tvg-country="IN" tvg-server="Server 2",& Picture [IN]
 http://103.229.254.25:7001/play/a033/index.m3u8
+#DISABLED:CH:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYK4V.png?lock=720x540" group-title="Movies" tvg-country="IN" tvg-server="hd",& Picture [IN]
+#DISABLED:LINK:http://110.39.27.47:8001/play/a01d/index.m3u8
 #EXTINF:-1 tvg-id="AndpriveHD.in@SD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_720%2Ch_405%2Cc_scale%2Cf_webp%2Cq_auto:eco/resources/0-9-9z5543514/list/1920x1080listd4a78816ce2d4ea7afc7efe5e639e9cd.jpg" group-title="Movies" tvg-country="IN" tvg-server="Server 1",& prive HD [IN]
 http://103.229.254.25:7001/play/a03f/index.m3u8
 #DISABLED:CH:-1 tvg-id="AndpriveHD.in@SD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_720%2Ch_405%2Cc_scale%2Cf_webp%2Cq_auto:eco/resources/0-9-9z5543514/list/1920x1080listd4a78816ce2d4ea7afc7efe5e639e9cd.jpg" group-title="Movies" tvg-country="IN" tvg-server="Server 2",& prive HD [IN]
 #DISABLED:LINK:http://103.161.153.165:8000/play/a017/index.m3u8
 #DISABLED:CH:-1 tvg-id="AndpriveHD.in@SD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_720%2Ch_405%2Cc_scale%2Cf_webp%2Cq_auto:eco/resources/0-9-9z5543514/list/1920x1080listd4a78816ce2d4ea7afc7efe5e639e9cd.jpg" group-title="Movies" tvg-country="IN" tvg-server="Server 3",& prive HD [IN]
 #DISABLED:LINK:http://103.144.89.251:8082/AND.PRIVE.HD/index.m3u8?token=21357905e5b99cb250699b803434e1c8978583ec-e7893aad6d34880b6aa794d0ce5497b6-1774395056-1774384256&remote=no_check_ip
+#DISABLED:CH:-1 tvg-id="AndpriveHD.in@SD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_720%2Ch_405%2Cc_scale%2Cf_webp%2Cq_auto:eco/resources/0-9-9z5543514/list/1920x1080listd4a78816ce2d4ea7afc7efe5e639e9cd.jpg" group-title="Movies" tvg-country="IN" tvg-server="Server 4",& prive HD [IN]
+#DISABLED:LINK:http://110.39.27.47:8001/play/a016/index.m3u8
 #DISABLED:CH:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies" tvg-country="IN" tvg-server="Server 1",& Xplor [IN]
 #DISABLED:LINK:http://103.144.89.251:8082/XPLOR.HD/index.m3u8?token=fccfae0d722908549ff823b6ddb187014d185f24-b08c8bd3ddf4334541a0d68917bdd91f-1774395057-1774384257&remote=no_check_ip
 #DISABLED:CH:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies" tvg-country="IN" tvg-server="Server 2",& Xplor [IN]
