@@ -693,8 +693,8 @@ http://103.144.89.251:8082/SONY.SPORTS.4/index.m3u8?token=5b52ef2b4ab063aacc5cef
 #DISABLED:LINK:http://103.161.153.165:8000/play/snt5/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png" group-title="Sports" tvg-country="IN" tvg-server="Server 2",Sony Sports 5 [IN]
 http://103.144.89.251:8082/SONY-SPORTS.5HD/index.m3u8?token=d8ebf86d88e4f4cca49d81f49caa47a3336f237c-94cb28d0ee9bc7598ef6df78bba15031-1774395078-1774384278&remote=no_check_ip
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/sonyyay.png" group-title="Kids" tvg-country="IN" tvg-server="roarzone",Sony YAY [IN]
-https://edge2.roarzone.info:8447/roarzone/edge3/sony-yay/tracks-v1a1/mono.m3u8?token=1cef9a15f04b9a041b73ac76235792d3dea1aee3-da6a02fd63f3611a7f0de10a64bbfc7d-1774032145-1774028545
+#DISABLED:CH:-1 tvg-logo="https://tvassets.roarzone.info/images/sonyyay.png" group-title="Kids" tvg-country="IN" tvg-server="roarzone",Sony YAY [IN]
+#DISABLED:LINK:https://edge2.roarzone.info:8447/roarzone/edge3/sony-yay/tracks-v1a1/mono.m3u8?token=1cef9a15f04b9a041b73ac76235792d3dea1aee3-da6a02fd63f3611a7f0de10a64bbfc7d-1774032145-1774028545
 #DISABLED:CH:-1 tvg-logo="https://tvassets.roarzone.info/images/sonyyay.png" group-title="Kids" tvg-country="IN" tvg-server="Server 2",Sony YAY [IN]
 #DISABLED:LINK:http://103.144.89.251:8082/SONY.YAY/index.m3u8?token=5493c5b94d48aa9e0eb40520069268697cb8840d-5975698d08147fbe301557e4816b1669-1774395078-1774384278&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZpPg2Gdg/SRK-TV.png" group-title="Bangla" tvg-server="Server 1",SRK TV
@@ -829,8 +829,10 @@ http://103.182.170.32:8888/play/a048
 #DISABLED:LINK:http://103.144.89.251:8082/ZEE.BANGLA.HD/index.m3u8?token=582c04f160d354e4e626d40f1aca24605e1ee6ac-bfbe04b56bbe45a447dcccae11b39af2-1774395054-1774384254&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://p7.hiclipart.com/preview/225/230/365/zee-bangla-television-channel-zee-tv-zee-entertainment-enterprises-others-thumbnail.jpg" group-title="Movies" tvg-country="IN" tvg-server="hd",Zee Bangla Cinema [IN]
 http://103.144.89.251:8082/ZEE.BANGLA.CINEMA/index.m3u8?token=062d929d54a54c25e430928bac82e4005f9ae2fc-d7fae2563dd1f524912c3fda413084ee-1774395053-1774384253&remote=no_check_ip
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022ZMMH.png?lock=720x540" group-title="Movies" tvg-country="IN" tvg-server="Server 1",Zee Cafe [IN]
-http://103.144.89.251:8082/ZEE.CAFE.HD/index.m3u8?token=e8b1077a9717d62e05427b9ebfe0dd94966b13b0-96261090f2bb84b2e128c7ec5749e212-1774395088-1774384288&remote=no_check_ip
+#DISABLED:CH:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022ZMMH.png?lock=720x540" group-title="Movies" tvg-country="IN" tvg-server="Server 1",Zee Cafe [IN]
+#DISABLED:LINK:http://103.144.89.251:8082/ZEE.CAFE.HD/index.m3u8?token=e8b1077a9717d62e05427b9ebfe0dd94966b13b0-96261090f2bb84b2e128c7ec5749e212-1774395088-1774384288&remote=no_check_ip
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022ZMMH.png?lock=720x540" group-title="Movies" tvg-country="IN" tvg-server="Server 2",Zee Cafe [IN]
+http://103.229.254.25:7001/play/a0cx/index.m3u8
 #DISABLED:CH:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025L26R.png" group-title="Music" tvg-country="IN" tvg-server="Server 1",Zing [IN]
 #DISABLED:LINK:http://161.248.38.40:8000/play/a0ax/index.m3u8
 #DISABLED:CH:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025L26R.png" group-title="Music" tvg-country="IN" tvg-server="Server 2",Zing [IN]
