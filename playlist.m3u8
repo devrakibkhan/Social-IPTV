@@ -561,6 +561,8 @@ http://103.229.254.25:7001/play/a02s/index.m3u8
 #DISABLED:LINK:https://cachehsi2b.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc0MjcxOTg4Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9tdHZmcmFuY2UvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiZTE3N2MyMjFjZTE5N2RiZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTkiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjMiLCJzb3VyY2VzIjpbNDhdfQ==.rxINW93KGu3A4FxDIfkMkhUX1oWqBq-NB4w2KcFNdR-S6YB6J8r1lKkxnc4IjXHrVsMt7TTrMRC0_rvaQtrFkg==/live/eds/mtvfrance/browser-HLS8/mtvfrance-avc1_4500000=10001.m3u8
 #DISABLED:CH:-1 tvg-id="MTV.in@SD" tvg-logo="https://www.nicepng.com/png/detail/87-877053_mtv-music-hd-mtv-live-hd-logo.png" group-title="Music" tvg-country="IN" tvg-server="HD",MTV [IN]
 #DISABLED:LINK:http://110.39.27.47:8001/play/a01p/index.m3u8
+#DISABLED:CH:-1 tvg-id="MTV.in@SD" tvg-logo="https://www.nicepng.com/png/detail/87-877053_mtv-music-hd-mtv-live-hd-logo.png" group-title="Music" tvg-country="IN" tvg-server="Server 6",MTV [IN]
+#DISABLED:LINK:http://103.229.254.25:7001/play/a02s/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/12/musicbangla.jpg" group-title="Music" tvg-server="Server 1",Music Bangla
 http://vmi3039524.contaboserver.net:5050/music/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/VWjHNn5Y/MYTV-HD.png" group-title="Bangla" tvg-server="Server 1",MY TV HD
