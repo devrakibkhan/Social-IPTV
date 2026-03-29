@@ -463,6 +463,8 @@ http://103.229.254.25:7001/play/a07k/index.m3u8
 #DISABLED:LINK:http://103.144.89.251:8082/HBO.HD/index.m3u8?token=72161d5b77c49bed466f3ddece47c14e8d8ea360-7a0ffb3b419f6295aca6f8cbfaf91611-1774395064-1774384264&remote=no_check_ip
 #DISABLED:CH:-1 tvg-logo="https://yt3.googleusercontent.com/alnu5dZzNrFZadSCV0f4z2i9yP8U9tn_0rDbqL9lho-sMPZCZ0pcylWM_6-xWeLcKNytzW4l_Q=s900-c-k-c0x00ffffff-no-rj" group-title="Movies" tvg-server="Server 1",Hindi Dubbed  Movies
 #DISABLED:LINK:https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
+#EXTINF:-1 tvg-logo="https://rdigitek.com/home/wp-content/uploads/2022/08/local-channel-18-150x100.png" group-title="Music" tvg-country="IN" tvg-server="Server 1",Hindi Hits [IN]
+http://146.59.253.52:8080/hindihitshd/index.m3u8
 #DISABLED:CH:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/500px-History_Logo.svg.png" group-title="Science" tvg-country="IN" tvg-server="Server 1",History TV [IN]
 #DISABLED:LINK:http://103.144.89.251:8082/HISTORY.TV.18.HD/index.m3u8?token=b824f71938beada64f00a72de88d4e79c9d7ff78-29887b4c37f508787215cdd5b912fb68-1774395065-1774384265&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/500px-History_Logo.svg.png" group-title="Science" tvg-country="IN" tvg-server="Server 2",History TV [IN]
