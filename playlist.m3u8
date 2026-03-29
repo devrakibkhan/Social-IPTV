@@ -371,6 +371,8 @@ http://103.229.254.25:7001/play/a03g/index.m3u8
 #DISABLED:LINK:http://181.78.4.250:8098/play/a06p/index.m3u8
 #DISABLED:CH:-1 tvg-id="Discovery.uk@SD" tvg-logo="https://i.pinimg.com/736x/a1/99/74/a19974ce222a14ccfa0f26b47013c5e0.jpg" group-title="Science" tvg-server="USA",Discovery
 #DISABLED:LINK:http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
+#EXTINF:-1 tvg-id="Discovery.uk@SD" tvg-logo="https://i.pinimg.com/736x/a1/99/74/a19974ce222a14ccfa0f26b47013c5e0.jpg" group-title="Science" tvg-server="Bangla",Discovery
+http://202.70.146.135:8000/play/a05z/index.m3u8
 #DISABLED:CH:-1 tvg-logo="https://e7.pngegg.com/pngimages/232/671/png-clipart-discovery-kids-logo-discovery-inc-television-channel-science-television-child.png" group-title="Kids" tvg-server="Server 2",Discovery Kids
 #DISABLED:LINK:http://103.161.153.165:8000/play/a014/index.m3u8
 #DISABLED:CH:-1 tvg-id="DisneyChannel.in@HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQie7nqE9m9UDqtGe7BhlEspH1Wqa51-BoZFA&s" group-title="Kids" tvg-country="IN" tvg-server="Server 2",Disney Channel [IN]
