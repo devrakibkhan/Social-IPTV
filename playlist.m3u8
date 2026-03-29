@@ -75,8 +75,6 @@ http://103.229.254.25:7001/play/a087/index.m3u8
 #DISABLED:LINK:https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 #EXTINF:-1 tvg-id="ABCNews.au@Sydney" tvg-logo="https://s3.aynaott.com/storage/065af1ce1aa68d9d96c27050a8125413" group-title="News" tvg-country="AU" tvg-server="Server 4",ABC News [AU]
 https://tvsen6.aynascope.net/AbcNews/tracks-v1a1/mono.ts.m3u8?e=1774638039&token=48f339c1e5958095214dc44dccf59ca9&u=78be6644-0a65-48ec-81a4-089ac65a2619
-#EXTINF:-1 tvg-id="ABCNews.au@Sydney" tvg-logo="https://s3.aynaott.com/storage/065af1ce1aa68d9d96c27050a8125413" group-title="News" tvg-country="AU" tvg-server="Server 5",ABC News [AU]
-
 #DISABLED:CH:-1 tvg-id="ABCNewsLive.us@SD" tvg-logo="https://play-lh.googleusercontent.com/K8w8Wg_TLVd8JM6VyhEFYSQtOMvPIbW-gGcZ2h2MploGS_yiA5-HNGlqNwSulHjfeEhWiTJj0d5okT2-kvl1LyY" group-title="News" tvg-country="US" tvg-server="Server 1",ABC News Live [US]
 #DISABLED:LINK:https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master_4000.m3u8
 #EXTINF:-1 group-title="Movies" tvg-server="Server 1",Action Hollywood Movies
@@ -315,6 +313,8 @@ http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
 #DISABLED:LINK:http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
 #DISABLED:CH:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lpRJsjJojdecpt_clU8FsJGakVCr-wXz1wBoUO7Ko8cw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports" tvg-server="Football - FanCode",Current Live Sports
 #DISABLED:LINK:https://bd-mc-flive.fancode.com/mumbai/131107_english_hls_5bd74dd81b45462_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1773680708~_GO=Generated~acl=/mumbai/131107_english_hls_5bd74dd81b45462_1ta-di_h264/*~Signature=AR77L-Y2iy473oik1reCbk0KgrKkvZ9AhCaBGCrw851DOIaC8hKUMBTuCUKn0ab7AnnC9ED8qA6WKbun32d1rBkF_moB
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lpRJsjJojdecpt_clU8FsJGakVCr-wXz1wBoUO7Ko8cw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports" tvg-server="PSL",Current Live Sports
+https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index_2.m3u8
 #DISABLED:CH:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" group-title="Music" tvg-server="One",Dance TV Estonia
 #DISABLED:LINK:https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
 #DISABLED:CH:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" group-title="Music" tvg-server="Algorhythm",Dance TV Estonia
