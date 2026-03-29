@@ -125,7 +125,9 @@ http://103.229.254.25:7001/play/a063/index.m3u8
 #DISABLED:LINK:http://103.144.89.251:8082/ATN.BANGLA.HD/index.m3u8?token=1060a6c872e7cb9a348702bb32501954c3c9e858-f72788dd895362f38b2cc4586bc5f8b7-1774401753-1774390953&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/53/2/atn-bangla-logo-png_seeklogo-537053.png" group-title="Bangla" tvg-country="BD" tvg-server="Server 3",ATN Bangla [BD]
 http://103.229.254.25:7001/play/a06b/index.m3u8
-#DISABLED:CH:-1 tvg-id="ATNMusic.bd@SD" tvg-logo="https://atnmusictv.com/images/logo.png" group-title="Music" tvg-country="BD" tvg-server="Server 1",ATN Music [BD]
+#EXTINF:-1 tvg-id="ATNMusic.bd@SD" tvg-logo="https://atnmusictv.com/images/logo.png" group-title="Music" tvg-country="BD" tvg-server="Server 1",ATN Music [BD]
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
+#DISABLED:CH:-1 tvg-id="ATNMusic.bd@SD" tvg-logo="https://atnmusictv.com/images/logo.png" group-title="Music" tvg-country="BD" tvg-server="Server 2",ATN Music [BD]
 #DISABLED:LINK:https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ATN_News_logo.svg/960px-ATN_News_logo.svg.png" group-title="News" tvg-country="BD" tvg-server="Server 1",ATN NEWS [BD]
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
