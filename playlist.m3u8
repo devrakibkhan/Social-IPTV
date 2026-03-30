@@ -71,10 +71,10 @@ http://103.229.254.25:7001/play/a087/index.m3u8
 #DISABLED:LINK:http://103.168.18.83:80/zan/app/ts_live_1964.m3u8
 #DISABLED:CH:-1 tvg-id="ABCNews.au@Sydney" tvg-logo="https://s3.aynaott.com/storage/065af1ce1aa68d9d96c27050a8125413" group-title="News" tvg-country="AU" tvg-server="AynaOTT",ABC News [AU]
 #DISABLED:LINK:https://tvsen6.aynascope.net/AbcNews/index.m3u8?e=1772575110&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=935a9c8ac020e76049fb06dd6e007560
-#DISABLED:CH:-1 tvg-id="ABCNews.au@Sydney" tvg-logo="https://s3.aynaott.com/storage/065af1ce1aa68d9d96c27050a8125413" group-title="News" tvg-country="AU" tvg-server="Server 3",ABC News [AU]
-#DISABLED:LINK:https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
-#EXTINF:-1 tvg-id="ABCNews.au@Sydney" tvg-logo="https://s3.aynaott.com/storage/065af1ce1aa68d9d96c27050a8125413" group-title="News" tvg-country="AU" tvg-server="Server 4",ABC News [AU]
-https://tvsen6.aynascope.net/AbcNews/tracks-v1a1/mono.ts.m3u8?e=1774638039&token=48f339c1e5958095214dc44dccf59ca9&u=78be6644-0a65-48ec-81a4-089ac65a2619
+#EXTINF:-1 tvg-id="ABCNews.au@Sydney" tvg-logo="https://s3.aynaott.com/storage/065af1ce1aa68d9d96c27050a8125413" group-title="News" tvg-country="AU" tvg-server="Server 3",ABC News [AU]
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+#DISABLED:CH:-1 tvg-id="ABCNews.au@Sydney" tvg-logo="https://s3.aynaott.com/storage/065af1ce1aa68d9d96c27050a8125413" group-title="News" tvg-country="AU" tvg-server="Server 4",ABC News [AU]
+#DISABLED:LINK:https://tvsen6.aynascope.net/AbcNews/tracks-v1a1/mono.ts.m3u8?e=1774638039&token=48f339c1e5958095214dc44dccf59ca9&u=78be6644-0a65-48ec-81a4-089ac65a2619
 #DISABLED:CH:-1 tvg-id="ABCNewsLive.us@SD" tvg-logo="https://play-lh.googleusercontent.com/K8w8Wg_TLVd8JM6VyhEFYSQtOMvPIbW-gGcZ2h2MploGS_yiA5-HNGlqNwSulHjfeEhWiTJj0d5okT2-kvl1LyY" group-title="News" tvg-country="US" tvg-server="Server 1",ABC News Live [US]
 #DISABLED:LINK:https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master_4000.m3u8
 #EXTINF:-1 group-title="Movies" tvg-server="Server 1",Action Hollywood Movies
