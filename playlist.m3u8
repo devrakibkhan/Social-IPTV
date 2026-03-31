@@ -601,14 +601,14 @@ http://103.182.170.32:8888/play/a01r
 #DISABLED:LINK:http://110.39.27.47:8001/play/a010/index.m3u8
 #EXTINF:-1 tvg-logo="https://asianews.network/wp-content/uploads/bfi_thumb/NDTV-logo-7695noll0a3o77rdn1v1rwygourz0x52k2w4poe7o00.jpg" group-title="News" tvg-country="IN" tvg-server="Server 1",NDTV [IN]
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#DISABLED:CH:-1 tvg-logo="https://images.seeklogo.com/logo-png/36/1/news24-channel-logo-png_seeklogo-362149.png" group-title="News" tvg-country="BD" tvg-server="Server 1",News 24 HD [BD]
+#DISABLED:CH:-1 tvg-logo="https://images.seeklogo.com/logo-png/36/1/news24-channel-logo-png_seeklogo-362149.png" group-title="News" tvg-country="BD" tvg-server="Server 1",News 24 [BD]
 #DISABLED:LINK:https://tvsen6.aynascope.net/news24/index.m3u8?e=1772575118&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=1da496adf7131fa4cdb3d020f8e6b21f
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/36/1/news24-channel-logo-png_seeklogo-362149.png" group-title="News" tvg-country="BD" tvg-server="bdix",News 24 HD [BD]
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/36/1/news24-channel-logo-png_seeklogo-362149.png" group-title="News" tvg-country="BD" tvg-server="bdix",News 24 [BD]
 http://103.229.254.25:7001/play/a06i/index.m3u8
-#DISABLED:CH:-1 tvg-logo="https://images.seeklogo.com/logo-png/36/1/news24-channel-logo-png_seeklogo-362149.png" group-title="News" tvg-country="BD" tvg-server="Server 3",News 24 HD [BD]
+#DISABLED:CH:-1 tvg-logo="https://images.seeklogo.com/logo-png/36/1/news24-channel-logo-png_seeklogo-362149.png" group-title="News" tvg-country="BD" tvg-server="Server 3",News 24 [BD]
 #DISABLED:LINK:http://103.161.153.165:8000/play/a02w/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/36/1/news24-channel-logo-png_seeklogo-362149.png" group-title="News" tvg-country="BD" tvg-server="AYNAA",News 24 HD [BD]
-https://tvsen6.aynascope.net/news24/tracks-v1a1/mono.ts.m3u8?e=1774034939&token=86fb45fbda8bb3341212bbc178fbf36c&u=8272bade-b8e1-44a0-98aa-04573b82f8d8
+#DISABLED:CH:-1 tvg-logo="https://images.seeklogo.com/logo-png/36/1/news24-channel-logo-png_seeklogo-362149.png" group-title="News" tvg-country="BD" tvg-server="AYNAA",News 24 [BD]
+#DISABLED:LINK:https://tvsen6.aynascope.net/news24/tracks-v1a1/mono.ts.m3u8?e=1774034939&token=86fb45fbda8bb3341212bbc178fbf36c&u=8272bade-b8e1-44a0-98aa-04573b82f8d8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/1001f1d96d63da3ced733a843613b6e0" group-title="News" tvg-country="IN" tvg-server="Server 1",News Nation [IN]
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUc3QILp2MdiknzQaZVy3ydCDIBgDSsoacvQ&s" group-title="News" tvg-country="US" tvg-server="Server 1",Newsmax 2 [US]
