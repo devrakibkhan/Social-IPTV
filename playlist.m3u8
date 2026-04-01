@@ -545,9 +545,11 @@ http://103.229.254.25:7001/play/a0et/index.m3u8
 https://iptvbd.live/metv1080/1080.m3u8
 #DISABLED:CH:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/5c307f28050285.55acb932126c9.png" group-title="Movies" tvg-country="IN" tvg-server="Server 1",MN + [IN]
 #DISABLED:LINK:http://103.144.89.251:8082/MN.PLUS.HD/index.m3u8?token=a067dd033b98b8911b63cfb0236d34602757860c-c456e43bb3391502435512b22b39569c-1774395068-1774384268&remote=no_check_ip
-#EXTINF:-1 tvg-logo="https://iili.io/j5HfxS.png" group-title="Movies" tvg-country="IN" tvg-server="Server 1",MNX [IN]
-http://103.144.89.251:8082/MNX.HD/index.m3u8?token=84cac5adbe216179195dc3c84b4af610dd888e9c-98984f19d0227ac087e96f197c52e382-1774395069-1774384269&remote=no_check_ip
-#EXTINF:-1 tvg-logo="https://iili.io/j5HfxS.png" group-title="Movies" tvg-country="IN" tvg-server="Server 2",MNX [IN]
+#DISABLED:CH:-1 tvg-logo="https://iili.io/j5HfxS.png" group-title="Movies" tvg-country="IN" tvg-server="Server 1",MNX [IN]
+#DISABLED:LINK:http://103.144.89.251:8082/MNX.HD/index.m3u8?token=84cac5adbe216179195dc3c84b4af610dd888e9c-98984f19d0227ac087e96f197c52e382-1774395069-1774384269&remote=no_check_ip
+#DISABLED:CH:-1 tvg-logo="https://iili.io/j5HfxS.png" group-title="Movies" tvg-country="IN" tvg-server="Server 2",MNX [IN]
+#DISABLED:LINK:http://110.39.27.47:8001/play/a037/index.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/j5HfxS.png" group-title="Movies" tvg-country="IN" tvg-server="Server 3",MNX [IN]
 http://110.39.27.47:8001/play/a037/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Movie%20Bangla.png" group-title="Movies" tvg-server="Server 1",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
@@ -571,8 +573,10 @@ http://103.229.254.25:7001/play/a02s/index.m3u8
 #DISABLED:LINK:http://103.229.254.25:7001/play/a02s/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/12/musicbangla.jpg" group-title="Music" tvg-server="Server 1",Music Bangla
 http://vmi3039524.contaboserver.net:5050/music/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VWjHNn5Y/MYTV-HD.png" group-title="Bangla" tvg-server="Server 1",MY TV HD
-http://116.204.149.16/mytv/index.m3u8
+#DISABLED:CH:-1 tvg-logo="https://i.ibb.co.com/VWjHNn5Y/MYTV-HD.png" group-title="Bangla" tvg-country="BD" tvg-server="Server 1",MY TV [BD]
+#DISABLED:LINK:http://116.204.149.16/mytv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VWjHNn5Y/MYTV-HD.png" group-title="Bangla" tvg-country="BD" tvg-server="Server 2",MY TV [BD]
+http://103.161.153.165:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nagorik%20TV.png" group-title="Bangla" tvg-server="Server 1",Nagorik TV
 http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
 #DISABLED:CH:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nagorik%20TV.png" group-title="Bangla" tvg-server="Server 2",Nagorik TV
@@ -645,14 +649,16 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #DISABLED:LINK:http://103.161.153.165:8000/play/a02l/index.m3u8
 #DISABLED:CH:-1 group-title="Other Language" tvg-country="OM" tvg-server="Server 1",Oman TV [OM]
 #DISABLED:LINK:http://103.161.153.165:8000/play/a04r/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="Islamic" tvg-server="Server 1",Peace TV Bangla
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
+#DISABLED:CH:-1 tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="Islamic" tvg-server="Server 1",Peace TV Bangla
+#DISABLED:LINK:https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
 #DISABLED:CH:-1 tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="Islamic" tvg-server="Server 2",Peace TV Bangla
 #DISABLED:LINK:http://172.19.178.180/servers-stailer/146srv.php?stream=peace_tv_bangla&format=m3u8
 #DISABLED:CH:-1 tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="Islamic" tvg-server="Server 3",Peace TV Bangla
 #DISABLED:LINK:https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 #DISABLED:CH:-1 tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="Islamic" tvg-server="Server 4",Peace TV Bangla
 #DISABLED:LINK:http://103.144.89.251:8082/PEACE.TV.BANGLA.HD/index.m3u8?token=38dfa4d0f8e7d862d799171c94fb6a101407932c-38fcdd43fdbaadd1b503aa32535f97b6-1774395072-1774384272&remote=no_check_ip
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="Islamic" tvg-server="Server 5",Peace TV Bangla
+http://103.144.89.251:8082/PEACE.TV.BANGLA.HD/index.m3u8?token=65d98a4ad858a918be4b9439001ba1d38715020a-cbd9adb4d585f44e2d0c91e498370e6a-1775066899-1775056099&remote=no_check_ip
 #DISABLED:CH:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/pocket-films.png" group-title="Movies" tvg-server="Server 1",Pocket Films
 #DISABLED:LINK:https://vglivessai.akamaized.net/ptnr-yupptv/title-Pocket_Films/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/playlist.m3u8?hdnts=st%3D1770940794~exp%3D1770962394~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-Pocket_Films%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fb8ada260-bb81-472b-b7c1-3a79213a84b8%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.182.225.137_yuppfast_2_channel_318_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.182.225.137_yuppfast_2_channel_318_-1~hmac%3D064b18ffa809e92dcac0bfe33a503fc5732006d2ad5f04b1dde5c1325758d8fd
 #DISABLED:CH:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/1d47df5bb049d4e70d8d7301ef9666cb.png" group-title="Kids" tvg-country="IN" tvg-server="Server 1",POGO [IN]
@@ -707,8 +713,8 @@ https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 https://viamotionhsi.netplus.ch/live/eds/skynews/browser-dash/skynews.mpd
 #DISABLED:CH:-1 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2018/01/sky-news-new-logo.jpg" group-title="News" tvg-country="US" tvg-server="Server 2",Sky News [US]
 #DISABLED:LINK:https://linear417-gb-hls3-prd-ak.cdn.skycdp.com/100e/Content/HLS_004_1080_30/Live/channel(skynews)/index_1080.m3u8
-#DISABLED:CH:-1 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2018/01/sky-news-new-logo.jpg" group-title="News" tvg-country="US" tvg-server="Server 3",Sky News [US]
-#DISABLED:LINK:https://tvsen5.aynascope.net/skynews/index.m3u8?e=1772575131&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=69dde787e4bacb2f96c93fd24dd092b1
+#EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2018/01/sky-news-new-logo.jpg" group-title="News" tvg-country="US" tvg-server="Server 3",Sky News [US]
+https://tvsen5.aynascope.net/skynews/index.m3u8?e=1775063252&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b5eeb7deef445c3b323b94d54a8ccdd3
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="News" tvg-country="BD" tvg-server="Server 1",SOMOY TV [BD]
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #DISABLED:CH:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="News" tvg-country="BD" tvg-server="Server 2",SOMOY TV [BD]
@@ -749,12 +755,12 @@ http://103.229.254.25:7001/play/a09u/index.m3u8
 http://103.229.254.25:7001/play/a0co/index.m3u8
 #DISABLED:CH:-1 tvg-logo="https://tvassets.roarzone.info/images/sonymax.png" group-title="Movies" tvg-country="IN" tvg-server="hd",Sony MAX [IN]
 #DISABLED:LINK:http://103.182.170.32:8888/play/a04f
-#DISABLED:CH:-1 tvg-logo="https://tvassets.roarzone.info/images/41.png" group-title="Movies" tvg-server="Server 1",Sony PIX HD
-#DISABLED:LINK:http://103.229.254.25:7001/play/a0ed/index.m3u8
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/41.png" group-title="Movies" tvg-server="Server 1",Sony PIX HD
+http://103.229.254.25:7001/play/a0ed/index.m3u8
 #DISABLED:CH:-1 tvg-logo="https://tvassets.roarzone.info/images/41.png" group-title="Movies" tvg-server="Server 2",Sony PIX HD
 #DISABLED:LINK:http://103.161.153.165:8000/play/a056/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/41.png" group-title="Movies" tvg-server="Server 3",Sony PIX HD
-https://edge2.roarzone.info:8447/roarzone/edge3/sony-pix-hd/tracks-v1a1/mono.m3u8
+#DISABLED:CH:-1 tvg-logo="https://tvassets.roarzone.info/images/41.png" group-title="Movies" tvg-server="Server 3",Sony PIX HD
+#DISABLED:LINK:https://edge2.roarzone.info:8447/roarzone/edge3/sony-pix-hd/tracks-v1a1/mono.m3u8
 #DISABLED:CH:-1 tvg-logo="https://tvassets.roarzone.info/images/41.png" group-title="Movies" tvg-server="Server 4",Sony PIX HD
 #DISABLED:LINK:http://103.144.89.251:8082/SONY.PIX.HD/index.m3u8?token=71722da8fa8b6a130e1183b9d62ed223047dbd65-2ec7d055553f5d1469c314697fdb931e-1774395076-1774384276&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/36.png" group-title="Hindi / Urdu" tvg-country="IN" tvg-server="HD",SONY SAB [IN]
