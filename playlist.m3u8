@@ -379,8 +379,10 @@ http://202.70.146.135:8000/play/a05z/index.m3u8
 #DISABLED:LINK:http://103.161.153.165:8000/play/a014/index.m3u8
 #DISABLED:CH:-1 tvg-id="DisneyChannel.in@HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQie7nqE9m9UDqtGe7BhlEspH1Wqa51-BoZFA&s" group-title="Kids" tvg-country="IN" tvg-server="Server 2",Disney Channel [IN]
 #DISABLED:LINK:http://103.161.153.165:8000/play/a012/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.in@HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQie7nqE9m9UDqtGe7BhlEspH1Wqa51-BoZFA&s" group-title="Kids" tvg-country="IN" tvg-server="Server 2",Disney Channel [IN]
-http://103.182.170.32:8888/play/a04g
+#DISABLED:CH:-1 tvg-id="DisneyChannel.in@HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQie7nqE9m9UDqtGe7BhlEspH1Wqa51-BoZFA&s" group-title="Kids" tvg-country="IN" tvg-server="Server 2",Disney Channel [IN]
+#DISABLED:LINK:http://103.182.170.32:8888/play/a04g
+#EXTINF:-1 tvg-id="DisneyChannel.in@HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQie7nqE9m9UDqtGe7BhlEspH1Wqa51-BoZFA&s" group-title="Kids" tvg-country="IN" tvg-server="International",Disney Channel [IN]
+http://103.182.170.32:8888/play/a01y
 #DISABLED:CH:-1 tvg-id="DisneyJunior.in@SD" tvg-logo="https://www.vhv.rs/dpng/d/539-5392287_logo-disney-junior-png-transparent-png.png" group-title="Kids" tvg-server="Server 2",Disney Junior
 #DISABLED:LINK:http://172.19.178.180/servers-stailer/143srv.php?stream=disney_hindi&format=m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.in@SD" tvg-logo="https://www.vhv.rs/dpng/d/539-5392287_logo-disney-junior-png-transparent-png.png" group-title="Kids" tvg-server="usa",Disney Junior
@@ -435,8 +437,10 @@ https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8
 #DISABLED:LINK:https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQVh3stxPGIrATpGj0f4tINeBOL9LTNz3MFzLtkOw33MCOr6hVjF2RiQ&s=10" group-title="Movies" tvg-country="BD" tvg-server="Aynaa",G Series [BD]
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="GaziTV.bd@SD" tvg-logo="https://gazitv.com/wp-content/uploads/2019/06/GTV-LOGO-HD240x108.png" group-title="Bangla" tvg-server="Server 1",Gazi TV
-http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
+#DISABLED:CH:-1 tvg-id="GaziTV.bd@SD" tvg-logo="https://gazitv.com/wp-content/uploads/2019/06/GTV-LOGO-HD240x108.png" group-title="Bangla" tvg-server="Server 1",Gazi TV
+#DISABLED:LINK:http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
+#EXTINF:-1 tvg-id="GaziTV.bd@SD" tvg-logo="https://gazitv.com/wp-content/uploads/2019/06/GTV-LOGO-HD240x108.png" group-title="Bangla" tvg-server="Server 2",Gazi TV
+http://103.229.254.25:7001/play/a06t/index.m3u8
 #DISABLED:CH:-1 tvg-id="GBNews.uk@SD" tvg-logo="https://play-lh.googleusercontent.com/5pUcU1hV801eiqcR7Yx7AGKDO8NBXNAxaObL2YW5U_JPrfhj5MPk2Aty-BNsthVEuC4" group-title="News" tvg-country="DE" tvg-server="1080p",GB News [DE]
 #DISABLED:LINK:https://amg01076-lightningintern-gbnewsau-samsungau-et7fz.amagi.tv/playlist/amg01076-lightningintern-gbnewsau-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="HarPalGeo.pk@SD" tvg-logo="https://crystalpng.com/wp-content/uploads/2025/04/geo-logo.png" group-title="Hindi / Urdu" tvg-country="PK" tvg-server="Server 1",GEO Entertainment [PK]
