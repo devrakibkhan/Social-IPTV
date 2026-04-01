@@ -413,11 +413,11 @@ http://103.229.254.25:7001/play/a09k/index.m3u8
 http://103.229.254.25:7001/play/a05x/index.m3u8
 #DISABLED:CH:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ENTERR10_BANGLA/images/LOGO_HD/image.png" group-title="Hindi / Urdu" tvg-country="IN" tvg-server="Server 1",Enterrr 10 [IN]
 #DISABLED:LINK:http://103.144.89.251:8082/ENTER10.BANGLA/index.m3u8?token=d20e3d8a29c8d47895c33b87c29a4bddc312ef14-a5e51f1a9152775ccc710075d7b6c25c-1774395048-1774384248&remote=no_check_ip
-#DISABLED:CH:-1 tvg-id="EntertainmentTonight.us@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTGQ6jFNL8LY14PLHCWNNYZaNNRk057JY50Q&s" group-title="English" tvg-country="US" tvg-server="Google M3U",Entertainment Tonight [US]
+#DISABLED:CH:-1 tvg-id="EntertainmentTonight.us@SD" tvg-logo="https://i.postimg.cc/C56VmTwQ/image.png" group-title="English" tvg-country="US" tvg-server="Google M3U",Entertainment Tonight [US]
 #DISABLED:LINK:https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
-#DISABLED:CH:-1 tvg-logo="https://i.imgur.com/s4jDnJh.png" group-title="Sports" tvg-country="IN" tvg-server="Server 1",Euro Sports [IN]
+#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/JnrV84n9/image.png" group-title="Sports" tvg-country="IN" tvg-server="Server 1",Euro Sports [IN]
 #DISABLED:LINK:http://103.144.89.251:8082/EUROSPORTS.HD/index.m3u8?token=4b0b27d90b080d76c80854d7c75b79464f3b0203-3a7bb38a584c68aed59888d0d12f0ab7-1774395062-1774384262&remote=no_check_ip
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s4jDnJh.png" group-title="Sports" tvg-country="IN" tvg-server="Server 2",Euro Sports [IN]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnrV84n9/image.png" group-title="Sports" tvg-country="IN" tvg-server="Server 2",Euro Sports [IN]
 http://103.229.254.25:7001/play/a03b/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Euro_News.png" group-title="News" tvg-country="BE" tvg-server="720p",Euronews English [BE]
 https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
