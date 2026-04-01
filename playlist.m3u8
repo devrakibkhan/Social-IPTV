@@ -19,13 +19,13 @@ http://103.229.254.25:7001/play/a02x/index.m3u8
 http://103.229.254.25:7001/play/a033/index.m3u8
 #DISABLED:CH:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYK4V.png?lock=720x540" group-title="Movies" tvg-country="IN" tvg-server="hd",& Picture [IN]
 #DISABLED:LINK:http://110.39.27.47:8001/play/a01d/index.m3u8
-#EXTINF:-1 tvg-id="AndpriveHD.in@SD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_720%2Ch_405%2Cc_scale%2Cf_webp%2Cq_auto:eco/resources/0-9-9z5543514/list/1920x1080listd4a78816ce2d4ea7afc7efe5e639e9cd.jpg" group-title="Movies" tvg-country="IN" tvg-server="Server 1",& prive HD [IN]
+#EXTINF:-1 tvg-id="AndpriveHD.in@SD" tvg-logo="https://i.postimg.cc/6QD2bgpj/image.png" group-title="Movies" tvg-country="IN" tvg-server="Server 1",& prive [IN]
 http://103.229.254.25:7001/play/a03f/index.m3u8
-#DISABLED:CH:-1 tvg-id="AndpriveHD.in@SD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_720%2Ch_405%2Cc_scale%2Cf_webp%2Cq_auto:eco/resources/0-9-9z5543514/list/1920x1080listd4a78816ce2d4ea7afc7efe5e639e9cd.jpg" group-title="Movies" tvg-country="IN" tvg-server="Server 2",& prive HD [IN]
+#DISABLED:CH:-1 tvg-id="AndpriveHD.in@SD" tvg-logo="https://i.postimg.cc/6QD2bgpj/image.png" group-title="Movies" tvg-country="IN" tvg-server="Server 2",& prive [IN]
 #DISABLED:LINK:http://103.161.153.165:8000/play/a017/index.m3u8
-#DISABLED:CH:-1 tvg-id="AndpriveHD.in@SD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_720%2Ch_405%2Cc_scale%2Cf_webp%2Cq_auto:eco/resources/0-9-9z5543514/list/1920x1080listd4a78816ce2d4ea7afc7efe5e639e9cd.jpg" group-title="Movies" tvg-country="IN" tvg-server="Server 3",& prive HD [IN]
+#DISABLED:CH:-1 tvg-id="AndpriveHD.in@SD" tvg-logo="https://i.postimg.cc/6QD2bgpj/image.png" group-title="Movies" tvg-country="IN" tvg-server="Server 3",& prive [IN]
 #DISABLED:LINK:http://103.144.89.251:8082/AND.PRIVE.HD/index.m3u8?token=21357905e5b99cb250699b803434e1c8978583ec-e7893aad6d34880b6aa794d0ce5497b6-1774395056-1774384256&remote=no_check_ip
-#DISABLED:CH:-1 tvg-id="AndpriveHD.in@SD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_720%2Ch_405%2Cc_scale%2Cf_webp%2Cq_auto:eco/resources/0-9-9z5543514/list/1920x1080listd4a78816ce2d4ea7afc7efe5e639e9cd.jpg" group-title="Movies" tvg-country="IN" tvg-server="Server 4",& prive HD [IN]
+#DISABLED:CH:-1 tvg-id="AndpriveHD.in@SD" tvg-logo="https://i.postimg.cc/6QD2bgpj/image.png" group-title="Movies" tvg-country="IN" tvg-server="Server 4",& prive [IN]
 #DISABLED:LINK:http://110.39.27.47:8001/play/a016/index.m3u8
 #DISABLED:CH:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies" tvg-country="IN" tvg-server="Server 1",& Xplor [IN]
 #DISABLED:LINK:http://103.144.89.251:8082/XPLOR.HD/index.m3u8?token=fccfae0d722908549ff823b6ddb187014d185f24-b08c8bd3ddf4334541a0d68917bdd91f-1774395057-1774384257&remote=no_check_ip
@@ -77,11 +77,11 @@ https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a44
 #DISABLED:LINK:https://tvsen6.aynascope.net/AbcNews/tracks-v1a1/mono.ts.m3u8?e=1774638039&token=48f339c1e5958095214dc44dccf59ca9&u=78be6644-0a65-48ec-81a4-089ac65a2619
 #DISABLED:CH:-1 tvg-id="ABCNewsLive.us@SD" tvg-logo="https://play-lh.googleusercontent.com/K8w8Wg_TLVd8JM6VyhEFYSQtOMvPIbW-gGcZ2h2MploGS_yiA5-HNGlqNwSulHjfeEhWiTJj0d5okT2-kvl1LyY" group-title="News" tvg-country="US" tvg-server="Server 1",ABC News Live [US]
 #DISABLED:LINK:https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master_4000.m3u8
-#EXTINF:-1 group-title="Movies" tvg-server="Server 1",Action Hollywood Movies
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkVr45By/image.png" group-title="Movies" tvg-server="Server 1",Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#DISABLED:CH:-1 group-title="Movies" tvg-server="Server 2",Action Hollywood Movies
+#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/mkVr45By/image.png" group-title="Movies" tvg-server="Server 2",Action Hollywood Movies
 #DISABLED:LINK:https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#DISABLED:CH:-1 group-title="Movies" tvg-server="Server 3",Action Hollywood Movies
+#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/mkVr45By/image.png" group-title="Movies" tvg-server="Server 3",Action Hollywood Movies
 #DISABLED:LINK:http://sm-monirul.top/AyNa/play.php?id=f1acb290-c4c1-4010-8226-3f88b203c79c&e=.m3u8
 #DISABLED:CH:-1 tvg-id="Alarabiya.ae@SD" tvg-logo="https://shahid.mbc.net/mediaObject/7cfc0baf-1201-477f-b722-d3099fafe17f?height=230&width=512&croppingPoint=&version=1&type=png" group-title="News" tvg-country="SA" tvg-server="Server 1",Al Arabiya English [SA]
 #DISABLED:LINK:https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
@@ -125,9 +125,9 @@ http://103.229.254.25:7001/play/a063/index.m3u8
 #DISABLED:LINK:http://103.144.89.251:8082/ATN.BANGLA.HD/index.m3u8?token=1060a6c872e7cb9a348702bb32501954c3c9e858-f72788dd895362f38b2cc4586bc5f8b7-1774401753-1774390953&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/53/2/atn-bangla-logo-png_seeklogo-537053.png" group-title="Bangla" tvg-country="BD" tvg-server="Server 3",ATN Bangla [BD]
 http://103.229.254.25:7001/play/a06b/index.m3u8
-#EXTINF:-1 tvg-id="ATNMusic.bd@SD" tvg-logo="https://atnmusictv.com/images/logo.png" group-title="Music" tvg-country="BD" tvg-server="Server 1",ATN Music [BD]
+#EXTINF:-1 tvg-id="ATNMusic.bd@SD" tvg-logo="https://i.postimg.cc/7Z5Lv9cn/image.png" group-title="Music" tvg-country="BD" tvg-server="Server 1",ATN Music [BD]
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
-#DISABLED:CH:-1 tvg-id="ATNMusic.bd@SD" tvg-logo="https://atnmusictv.com/images/logo.png" group-title="Music" tvg-country="BD" tvg-server="Server 2",ATN Music [BD]
+#DISABLED:CH:-1 tvg-id="ATNMusic.bd@SD" tvg-logo="https://i.postimg.cc/7Z5Lv9cn/image.png" group-title="Music" tvg-country="BD" tvg-server="Server 2",ATN Music [BD]
 #DISABLED:LINK:https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ATN_News_logo.svg/960px-ATN_News_logo.svg.png" group-title="News" tvg-country="BD" tvg-server="Server 1",ATN NEWS [BD]
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
@@ -353,11 +353,11 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711.m3u8
 #DISABLED:LINK:https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #DISABLED:CH:-1 tvg-id="DeluxeRap.de@SD" tvg-logo="https://i.imgur.com/s3h67hx.png" group-title="Music" tvg-country="DE" tvg-server="Server 1",Deluxe Rap [DE]
 #DISABLED:LINK:https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#DISABLED:CH:-1 tvg-id="Desh.bd@SD" tvg-logo="https://tvassets.roarzone.info/images/9.png" group-title="Bangla" tvg-country="BD" tvg-server="Server 1",Desh [BD]
+#DISABLED:CH:-1 tvg-id="Desh.bd@SD" tvg-logo="https://i.postimg.cc/fRzbHZ7g/image.png" group-title="Bangla" tvg-country="BD" tvg-server="Server 1",Desh [BD]
 #DISABLED:LINK:http://103.161.153.165:8000/play/a02n/index.m3u8
-#DISABLED:CH:-1 tvg-id="Desh.bd@SD" tvg-logo="https://tvassets.roarzone.info/images/9.png" group-title="Bangla" tvg-country="BD" tvg-server="Server 2",Desh [BD]
+#DISABLED:CH:-1 tvg-id="Desh.bd@SD" tvg-logo="https://i.postimg.cc/fRzbHZ7g/image.png" group-title="Bangla" tvg-country="BD" tvg-server="Server 2",Desh [BD]
 #DISABLED:LINK:https://tvsen6.aynascope.net/deshtv/tracks-v1a1/mono.ts.m3u8?e=1774201937&token=17c312183b82c8f85d0158a61a039e76&u=78be6644-0a65-48ec-81a4-089ac65a2619
-#EXTINF:-1 tvg-id="Desh.bd@SD" tvg-logo="https://tvassets.roarzone.info/images/9.png" group-title="Bangla" tvg-country="BD" tvg-server="Server 3",Desh [BD]
+#EXTINF:-1 tvg-id="Desh.bd@SD" tvg-logo="https://i.postimg.cc/fRzbHZ7g/image.png" group-title="Bangla" tvg-country="BD" tvg-server="Server 3",Desh [BD]
 http://103.229.254.25:7001/play/a05s/index.m3u8
 #DISABLED:CH:-1 tvg-id="Discovery.uk@SD" tvg-logo="https://i.pinimg.com/736x/a1/99/74/a19974ce222a14ccfa0f26b47013c5e0.jpg" group-title="Science" tvg-server="Server 1",Discovery
 #DISABLED:LINK:http://203.18.159.115/DISCOVERYHD/tracks-v1a1/mono.m3u8
@@ -393,11 +393,11 @@ http://103.229.254.25:7001/play/a05k/index.m3u8
 #DISABLED:LINK:http://103.161.153.165:8000/play/a038/index.m3u8
 #DISABLED:CH:-1 tvg-id="Duronto.bd@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Kids" tvg-server="Server 3",Duronto TV
 #DISABLED:LINK:http://103.144.89.251:8082/DURANTA.TV.HD/index.m3u8?token=594fd8c6f79e11c98bc77fec89fffac635642cd9-b42b8b61426af5cd137c3bbe9f45843e-1774395062-1774384262&remote=no_check_ip
-#EXTINF:-1 tvg-id="DW.de@English" tvg-logo="https://tvassets.roarzone.info/images/85.png" group-title="News" tvg-country="DE" tvg-server="Server 1",DW News [DE]
+#EXTINF:-1 tvg-id="DW.de@English" tvg-logo="https://i.postimg.cc/fy7wKgVS/image.png" group-title="News" tvg-country="DE" tvg-server="Server 1",DW News [DE]
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#DISABLED:CH:-1 tvg-id="DW.de@English" tvg-logo="https://tvassets.roarzone.info/images/85.png" group-title="News" tvg-country="DE" tvg-server="Server 2",DW News [DE]
+#DISABLED:CH:-1 tvg-id="DW.de@English" tvg-logo="https://i.postimg.cc/fy7wKgVS/image.png" group-title="News" tvg-country="DE" tvg-server="Server 2",DW News [DE]
 #DISABLED:LINK:https://cdn10jtedge.indihometv.com/atm/DASH/DWTV/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.redd.it/qtaia5jx4nhf1.png" group-title="Movies" tvg-country="US" tvg-server="Server 1",E! [US]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59p96DWh/image.png" group-title="Movies" tvg-country="US" tvg-server="Server 1",E! [US]
 http://23.237.104.106:8080/USA_E/index.m3u8
 #EXTINF:-1 tvg-id="Ekattor.bd@SD" tvg-logo="https://cdn.ekattorbd.com/contents/themes/public/style/images/logo.png" group-title="News" tvg-country="BD" tvg-server="Server 1",Ekattor HD [BD]
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=1692000.m3u8
@@ -451,7 +451,7 @@ https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e
 #DISABLED:LINK:http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxp1mLgFdzrXj-H1SqgcIpY/m3u8
 #DISABLED:CH:-1 tvg-logo="https://linkchur.top/amrbd/logos/ch_90.png" group-title="News" tvg-country="PK" tvg-server="Server 3",GEO NEWS [PK]
 #DISABLED:LINK:http://103.144.89.251:8082/GEO.NEWS.HD/index.m3u8?token=0a10ad6ed510532b770c86e3c1036dfb1570b703-476c9d3faeb470df82e689c5ab0026a4-1774395063-1774384263&remote=no_check_ip
-#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180714/ugo/kisspng-global-news-global-television-network-corus-entert-logo-pot-quebec-5b4a7b27122a34.4291103315316078470744.jpg" group-title="News" tvg-country="CA" tvg-server="Server 1",Global News [CA]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrthHyL6/image.png" group-title="News" tvg-country="CA" tvg-server="Server 1",Global News [CA]
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/6/6a/%E0%A6%97%E0%A7%8D%E0%A6%B2%E0%A7%8B%E0%A6%AC%E0%A6%BE%E0%A6%B2_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B_%E0%A7%A8.png" group-title="Bangla" tvg-country="BD" tvg-server="Server 1",GLOBAL TV [BD]
 http://103.229.254.25:7001/play/a05o/index.m3u8
@@ -687,9 +687,9 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #DISABLED:LINK:https://rt-glb.rttv.com/live/rtnews/playlist.m3u8?v=1
 #DISABLED:CH:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/926c45196425487.Y3JvcCwxMzgwLDEwODAsMjcwLDA.jpg" group-title="News" tvg-country="RU" tvg-server="Global Version",Russia Today [RU]
 #DISABLED:LINK:https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8?v=1
-#EXTINF:-1 group-title="Bangla" tvg-server="Server 1",SA TV HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRdBj0Xj/image.png" group-title="Bangla" tvg-server="Server 1",SA TV HD
 http://103.229.254.25:7001/play/a062/index.m3u8
-#DISABLED:CH:-1 group-title="Bangla" tvg-server="Server 2",SA TV HD
+#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/SRdBj0Xj/image.png" group-title="Bangla" tvg-server="Server 2",SA TV HD
 #DISABLED:LINK:http://103.161.153.165:8000/play/a023/index.m3u8
 #DISABLED:CH:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Sangeet%20Bangla.png" group-title="Music" tvg-server="Server 1",Sangeet Bangla
 #DISABLED:LINK:https://cdn-4.pishow.tv/live/1143/master.m3u8
@@ -727,11 +727,11 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #DISABLED:LINK:http://103.144.89.251:8082/SONIC/index.m3u8?token=7795dd1ef4f60bd80dc9295d852e7d77b32c2695-c6eee902b945055a933ed28b9500b778-1774395074-1774384274&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/sonic_Hindi.png?width=400" group-title="Kids" tvg-country="IN" tvg-server="Server 2",Sonic [IN]
 http://103.229.254.25:7001/play/a0dl/index.m3u8
-#DISABLED:CH:-1 tvg-logo="https://tvassets.roarzone.info/images/33.png" group-title="Kids" tvg-country="IN" tvg-server="HD",SONY AATH [IN]
+#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/d1mXSMjm/image.png" group-title="Kids" tvg-country="IN" tvg-server="HD",SONY AATH [IN]
 #DISABLED:LINK:http://103.161.153.165:8000/play/sonyatth/index.m3u8
-#DISABLED:CH:-1 tvg-logo="https://tvassets.roarzone.info/images/33.png" group-title="Kids" tvg-country="IN" tvg-server="Server 2",SONY AATH [IN]
+#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/d1mXSMjm/image.png" group-title="Kids" tvg-country="IN" tvg-server="Server 2",SONY AATH [IN]
 #DISABLED:LINK:http://103.144.89.251:8082/SONY.AAT/index.m3u8?token=3363162f8f620e77f5ca7bd8d7174d736f16b347-dc997f55750069de33d4e141b460659b-1774395052-1774384252&remote=no_check_ip
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/33.png" group-title="Kids" tvg-country="IN" tvg-server="Server 3",SONY AATH [IN]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d1mXSMjm/image.png" group-title="Kids" tvg-country="IN" tvg-server="Server 3",SONY AATH [IN]
 http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8
 #DISABLED:CH:-1 tvg-logo="https://i.ibb.co/2YNY8jdf/Untitled-459-x-459-px.png" group-title="Science" tvg-country="IN" tvg-server="Server 1",SONY BBC EARTH [IN]
 #DISABLED:LINK:http://203.18.159.115/SONYBBCEARTHHD/tracks-v1a1/mono.m3u8
@@ -745,25 +745,25 @@ http://103.229.254.25:7001/play/a09u/index.m3u8
 #DISABLED:LINK:http://103.161.153.165:8000/play/a01i/index.m3u8
 #DISABLED:CH:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png?width=400" group-title="Hindi / Urdu" tvg-country="IN" tvg-server="Server 1",Sony ENT FHD [IN]
 #DISABLED:LINK:http://203.18.159.115/SONYENTHD/tracks-v1a1/mono.m3u8
-#DISABLED:CH:-1 tvg-logo="https://tvassets.roarzone.info/images/sonymax.png" group-title="Movies" tvg-country="IN" tvg-server="Server 1",Sony MAX [IN]
+#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/Z5BQzvLc/image.png" group-title="Movies" tvg-country="IN" tvg-server="Server 1",Sony MAX [IN]
 #DISABLED:LINK:https://raw.githubusercontent.com/arijitreza/web/9f84a3561c6dd32152ac88a7bb4476dc1d06e79d/playlist.m3u
-#DISABLED:CH:-1 tvg-logo="https://tvassets.roarzone.info/images/sonymax.png" group-title="Movies" tvg-country="IN" tvg-server="SD",Sony MAX [IN]
+#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/Z5BQzvLc/image.png" group-title="Movies" tvg-country="IN" tvg-server="SD",Sony MAX [IN]
 #DISABLED:LINK:http://103.99.249.139/sonymax/index.m3u8
-#DISABLED:CH:-1 tvg-logo="https://tvassets.roarzone.info/images/sonymax.png" group-title="Movies" tvg-country="IN" tvg-server="HD",Sony MAX [IN]
+#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/Z5BQzvLc/image.png" group-title="Movies" tvg-country="IN" tvg-server="HD",Sony MAX [IN]
 #DISABLED:LINK:http://103.144.89.251:8082/SONY.MAX.HD/index.m3u8?token=7a2a59cb26c891fa23ec6d21d6ca7bc9b1c8e40a-02da6e580c121061a5df844aa12859cb-1774395075-1774384275&remote=no_check_ip
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/sonymax.png" group-title="Movies" tvg-country="IN" tvg-server="Server 4",Sony MAX [IN]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5BQzvLc/image.png" group-title="Movies" tvg-country="IN" tvg-server="Server 4",Sony MAX [IN]
 http://103.229.254.25:7001/play/a0co/index.m3u8
-#DISABLED:CH:-1 tvg-logo="https://tvassets.roarzone.info/images/sonymax.png" group-title="Movies" tvg-country="IN" tvg-server="hd",Sony MAX [IN]
+#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/Z5BQzvLc/image.png" group-title="Movies" tvg-country="IN" tvg-server="hd",Sony MAX [IN]
 #DISABLED:LINK:http://103.182.170.32:8888/play/a04f
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/41.png" group-title="Movies" tvg-server="Server 1",Sony PIX HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CMcrZsPR/image.png" group-title="Movies" tvg-server="Server 1",Sony PIX
 http://103.229.254.25:7001/play/a0ed/index.m3u8
-#DISABLED:CH:-1 tvg-logo="https://tvassets.roarzone.info/images/41.png" group-title="Movies" tvg-server="Server 2",Sony PIX HD
+#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/CMcrZsPR/image.png" group-title="Movies" tvg-server="Server 2",Sony PIX
 #DISABLED:LINK:http://103.161.153.165:8000/play/a056/index.m3u8
-#DISABLED:CH:-1 tvg-logo="https://tvassets.roarzone.info/images/41.png" group-title="Movies" tvg-server="Server 3",Sony PIX HD
+#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/CMcrZsPR/image.png" group-title="Movies" tvg-server="Server 3",Sony PIX
 #DISABLED:LINK:https://edge2.roarzone.info:8447/roarzone/edge3/sony-pix-hd/tracks-v1a1/mono.m3u8
-#DISABLED:CH:-1 tvg-logo="https://tvassets.roarzone.info/images/41.png" group-title="Movies" tvg-server="Server 4",Sony PIX HD
+#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/CMcrZsPR/image.png" group-title="Movies" tvg-server="Server 4",Sony PIX
 #DISABLED:LINK:http://103.144.89.251:8082/SONY.PIX.HD/index.m3u8?token=71722da8fa8b6a130e1183b9d62ed223047dbd65-2ec7d055553f5d1469c314697fdb931e-1774395076-1774384276&remote=no_check_ip
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/36.png" group-title="Hindi / Urdu" tvg-country="IN" tvg-server="HD",SONY SAB [IN]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CM2HTPrN/image.png" group-title="Hindi / Urdu" tvg-country="IN" tvg-server="HD",SONY SAB [IN]
 http://103.161.153.165:8000/play/a057/index.m3u8
 #DISABLED:CH:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports" tvg-country="IN" tvg-server="Server 1",Sony Sports 1 [IN]
 #DISABLED:LINK:http://103.182.170.32:8888/play/a04j
@@ -839,33 +839,33 @@ http://103.229.254.25:7001/play/a09p/index.m3u8
 #DISABLED:LINK:http://103.229.254.25:7001/play/a09z/index.m3u8
 #DISABLED:CH:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiXmyE6eROlxWjy8vlwIkmPqsYjf1e8MSgEg&s" group-title="Hindi / Urdu" tvg-server="Server 3",STAR Plus
 #DISABLED:LINK:http://103.144.89.251:8082/STAR.PLUS.HD/index.m3u8?token=50762bf384a77f8767b47075c3477681df98b5a4-2b94fbd50069f9d14e39b9637123f832-1774395083-1774384283&remote=no_check_ip
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/25.png" group-title="Sports" tvg-server="Server 1",Star Sports 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0Q4t72x/image.png" group-title="Sports" tvg-server="Server 1",Star Sports 1
 http://103.182.170.32:8888/play/a040
-#DISABLED:CH:-1 tvg-logo="http://tvassets.roarzone.info/images/25.png" group-title="Sports" tvg-server="Server 2",Star Sports 1
+#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/d0Q4t72x/image.png" group-title="Sports" tvg-server="Server 2",Star Sports 1
 #DISABLED:LINK:http://103.229.254.25:7001/play/a0a0/index.m3u8
-#DISABLED:CH:-1 tvg-logo="http://tvassets.roarzone.info/images/25.png" group-title="Sports" tvg-server="Server 3",Star Sports 1
+#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/d0Q4t72x/image.png" group-title="Sports" tvg-server="Server 3",Star Sports 1
 #DISABLED:LINK:http://163.61.227.29:8000/play/a00f/index.m3u8
-#DISABLED:CH:-1 tvg-logo="http://tvassets.roarzone.info/images/25.png" group-title="Sports" tvg-server="Server 4",Star Sports 1
+#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/d0Q4t72x/image.png" group-title="Sports" tvg-server="Server 4",Star Sports 1
 #DISABLED:LINK:http://203.18.159.115/STARSPORTS1HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/25.png" group-title="Sports" tvg-server="Server 5",Star Sports 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0Q4t72x/image.png" group-title="Sports" tvg-server="Server 5",Star Sports 1
 http://tvn1.chowdhury-shaheb.com/starsport1/index.m3u8
-#DISABLED:CH:-1 tvg-logo="http://tvassets.roarzone.info/images/25.png" group-title="Sports" tvg-server="HD",Star Sports 1
+#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/d0Q4t72x/image.png" group-title="Sports" tvg-server="HD",Star Sports 1
 #DISABLED:LINK:http://103.144.89.251:8082/SONY.SPORTS.1HD/index.m3u8?token=9cb8ead9516ecacdf8cd1c0eecd51704f48d648e-5ec5bfbe6bd9b1deebf6a798b1fc0d8f-1774395076-1774384276&remote=no_check_ip
-#DISABLED:CH:-1 tvg-logo="http://tvassets.roarzone.info/images/25.png" group-title="Sports" tvg-server="Server 7",Star Sports 1
+#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/d0Q4t72x/image.png" group-title="Sports" tvg-server="Server 7",Star Sports 1
 #DISABLED:LINK:http://110.39.27.47:8001/play/a006/index.m3u8
-#DISABLED:CH:-1 tvg-logo="http://tvassets.roarzone.info/images/25.png" group-title="Sports" tvg-server="Server 8",Star Sports 1
+#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/d0Q4t72x/image.png" group-title="Sports" tvg-server="Server 8",Star Sports 1
 #DISABLED:LINK:http://103.229.254.25:7001/play/a07f/index.m3u8
-#DISABLED:CH:-1 tvg-logo="https://icon2.cleanpng.com/20180611/pks/aa8l5aros.webp" group-title="Sports" tvg-server="Server 1",STAR SPORTS 2
+#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/02pfYGZc/image.png" group-title="Sports" tvg-server="Server 1",STAR SPORTS 2
 #DISABLED:LINK:http://203.18.159.115/STARSPORTS2HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180611/pks/aa8l5aros.webp" group-title="Sports" tvg-server="Server 2",STAR SPORTS 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/02pfYGZc/image.png" group-title="Sports" tvg-server="Server 2",STAR SPORTS 2
 http://116.90.120.151:8000/play/a0jb/index.m3u8
-#DISABLED:CH:-1 tvg-logo="https://icon2.cleanpng.com/20180611/pks/aa8l5aros.webp" group-title="Sports" tvg-server="Server 3",STAR SPORTS 2
+#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/02pfYGZc/image.png" group-title="Sports" tvg-server="Server 3",STAR SPORTS 2
 #DISABLED:LINK:http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8
-#DISABLED:CH:-1 tvg-logo="https://icon2.cleanpng.com/20180611/pks/aa8l5aros.webp" group-title="Sports" tvg-server="Server 4",STAR SPORTS 2
+#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/02pfYGZc/image.png" group-title="Sports" tvg-server="Server 4",STAR SPORTS 2
 #DISABLED:LINK:http://103.144.89.251:8082/SONY.SPORTS2.HD/index.m3u8?token=35a3ec676b7343adb772e36ef02180a778e52471-4bf316e827384b246aa1a37e9c26f546-1774395076-1774384276&remote=no_check_ip
-#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180611/pks/aa8l5aros.webp" group-title="Sports" tvg-server="Server 5",STAR SPORTS 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/02pfYGZc/image.png" group-title="Sports" tvg-server="Server 5",STAR SPORTS 2
 http://110.39.27.47:8001/play/a01m/index.m3u8
-#DISABLED:CH:-1 tvg-logo="https://tvassets.roarzone.info/images/27.png" group-title="Sports" tvg-server="Server 1",Star Sports Select 1 FHD
+#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/852RWsvc/image.png" group-title="Sports" tvg-server="Server 1",Star Sports Select 1 FHD
 #DISABLED:LINK:http://203.18.159.115/STARSELECT1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfp086MbQGjCnCdHrROV5DwVHIfdVkizUZng&s" group-title="Music" tvg-country="IR" tvg-server="Server 1",SUN MUSIC [IR]
 https://hls.sunmusic.live/hls/stream.m3u8
