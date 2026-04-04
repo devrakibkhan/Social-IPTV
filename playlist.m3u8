@@ -319,6 +319,8 @@ http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
 #DISABLED:LINK:https://bd-mc-flive.fancode.com/mumbai/131107_english_hls_5bd74dd81b45462_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1773680708~_GO=Generated~acl=/mumbai/131107_english_hls_5bd74dd81b45462_1ta-di_h264/*~Signature=AR77L-Y2iy473oik1reCbk0KgrKkvZ9AhCaBGCrw851DOIaC8hKUMBTuCUKn0ab7AnnC9ED8qA6WKbun32d1rBkF_moB
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lpRJsjJojdecpt_clU8FsJGakVCr-wXz1wBoUO7Ko8cw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports" tvg-server="PSL",Current Live Sports
 https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lpRJsjJojdecpt_clU8FsJGakVCr-wXz1wBoUO7Ko8cw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports" tvg-server="Football",Current Live Sports
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #DISABLED:CH:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" group-title="Music" tvg-server="One",Dance TV Estonia
 #DISABLED:LINK:https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
 #DISABLED:CH:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" group-title="Music" tvg-server="Algorhythm",Dance TV Estonia
@@ -765,26 +767,30 @@ http://103.229.254.25:7001/play/a0ed/index.m3u8
 #DISABLED:LINK:http://103.144.89.251:8082/SONY.PIX.HD/index.m3u8?token=71722da8fa8b6a130e1183b9d62ed223047dbd65-2ec7d055553f5d1469c314697fdb931e-1774395076-1774384276&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CM2HTPrN/image.png" group-title="Hindi / Urdu" tvg-country="IN" tvg-server="HD",SONY SAB [IN]
 http://103.161.153.165:8000/play/a057/index.m3u8
-#DISABLED:CH:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports" tvg-country="IN" tvg-server="Server 1",Sony Sports 1 [IN]
+#DISABLED:CH:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports" tvg-country="IN" tvg-server="Server 1",Sony Sports Ten 1 [IN]
 #DISABLED:LINK:http://103.182.170.32:8888/play/a04j
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W96KVqu.png" group-title="Sports" tvg-country="IN" tvg-server="Server 1",Sony Sports 2 [IN]
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports" tvg-country="IN" tvg-server="Server 2",Sony Sports Ten 1 [IN]
+http://103.229.254.25:7001/play/a0g8/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W96KVqu.png" group-title="Sports" tvg-country="IN" tvg-server="Server 1",Sony Sports Ten 2 [IN]
 http://198.195.239.50:8095/SonyTenSports2/index.m3u8
-#DISABLED:CH:-1 tvg-logo="https://i.imgur.com/W96KVqu.png" group-title="Sports" tvg-country="IN" tvg-server="Server 2",Sony Sports 2 [IN]
+#DISABLED:CH:-1 tvg-logo="https://i.imgur.com/W96KVqu.png" group-title="Sports" tvg-country="IN" tvg-server="Server 2",Sony Sports Ten 2 [IN]
 #DISABLED:LINK:http://110.39.27.47:8001/play/a01q/index.m3u8
-#DISABLED:CH:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_3.png?width=400" group-title="Sports" tvg-country="IN" tvg-server="Server 1",Sony Sports 3 [IN]
+#DISABLED:CH:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_3.png?width=400" group-title="Sports" tvg-country="IN" tvg-server="Server 1",Sony Sports Ten 3 [IN]
 #DISABLED:LINK:http://103.144.89.251:8082/SONY.SPORTS.3/index.m3u8?token=a0dae37d71591dd58ad49bccd623a5ced09ad059-7ee8d51070c503ce71d3218d165d6f2a-1774395077-1774384277&remote=no_check_ip
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_3.png?width=400" group-title="Sports" tvg-country="IN" tvg-server="Server 2",Sony Sports 3 [IN]
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_3.png?width=400" group-title="Sports" tvg-country="IN" tvg-server="Server 2",Sony Sports Ten 3 [IN]
 http://103.182.170.32:8888/play/a03p
-#DISABLED:CH:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_3.png?width=400" group-title="Sports" tvg-country="IN" tvg-server="Hindi",Sony Sports 3 [IN]
+#DISABLED:CH:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_3.png?width=400" group-title="Sports" tvg-country="IN" tvg-server="Hindi",Sony Sports Ten 3 [IN]
 #DISABLED:LINK:http://110.39.27.47:8001/play/a02z/index.m3u8
-#DISABLED:CH:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_4_Tamil.png?width=400" group-title="Sports" tvg-country="IN" tvg-server="Server 1",Sony Sports 4 [IN]
+#DISABLED:CH:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_4_Tamil.png?width=400" group-title="Sports" tvg-country="IN" tvg-server="Server 1",Sony Sports Ten 4 [IN]
 #DISABLED:LINK:http://103.144.89.251:8082/SONY.SPORTS.4/index.m3u8?token=5b52ef2b4ab063aacc5cefb673052ec42d3835f6-139a00bc658b55b2841f08a8ef4c64de-1774395077-1774384277&remote=no_check_ip
-#DISABLED:CH:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png" group-title="Sports" tvg-country="IN" tvg-server="Server 1",Sony Sports 5 [IN]
+#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/WzXRrjqp/image.png" group-title="Sports" tvg-country="IN" tvg-server="Server 1",Sony Sports Ten 5 [IN]
 #DISABLED:LINK:http://103.161.153.165:8000/play/snt5/index.m3u8
-#DISABLED:CH:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png" group-title="Sports" tvg-country="IN" tvg-server="Server 2",Sony Sports 5 [IN]
+#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/WzXRrjqp/image.png" group-title="Sports" tvg-country="IN" tvg-server="Server 2",Sony Sports Ten 5 [IN]
 #DISABLED:LINK:http://103.144.89.251:8082/SONY-SPORTS.5HD/index.m3u8?token=d8ebf86d88e4f4cca49d81f49caa47a3336f237c-94cb28d0ee9bc7598ef6df78bba15031-1774395078-1774384278&remote=no_check_ip
-#DISABLED:CH:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png" group-title="Sports" tvg-country="IN" tvg-server="Server 3",Sony Sports 5 [IN]
+#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/WzXRrjqp/image.png" group-title="Sports" tvg-country="IN" tvg-server="Server 3",Sony Sports Ten 5 [IN]
 #DISABLED:LINK:http://110.39.27.47:8001/play/a03t/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WzXRrjqp/image.png" group-title="Sports" tvg-country="IN" tvg-server="Server 4",Sony Sports Ten 5 [IN]
+http://103.229.254.25:7001/play/a0dw/index.m3u8
 #DISABLED:CH:-1 tvg-logo="https://tvassets.roarzone.info/images/sonyyay.png" group-title="Kids" tvg-country="IN" tvg-server="roarzone",Sony YAY [IN]
 #DISABLED:LINK:https://edge2.roarzone.info:8447/roarzone/edge3/sony-yay/tracks-v1a1/mono.m3u8?token=1cef9a15f04b9a041b73ac76235792d3dea1aee3-da6a02fd63f3611a7f0de10a64bbfc7d-1774032145-1774028545
 #DISABLED:CH:-1 tvg-logo="https://tvassets.roarzone.info/images/sonyyay.png" group-title="Kids" tvg-country="IN" tvg-server="Server 2",Sony YAY [IN]
@@ -839,33 +845,33 @@ http://103.229.254.25:7001/play/a09p/index.m3u8
 #DISABLED:LINK:http://103.229.254.25:7001/play/a09z/index.m3u8
 #DISABLED:CH:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiXmyE6eROlxWjy8vlwIkmPqsYjf1e8MSgEg&s" group-title="Hindi / Urdu" tvg-server="Server 3",STAR Plus
 #DISABLED:LINK:http://103.144.89.251:8082/STAR.PLUS.HD/index.m3u8?token=50762bf384a77f8767b47075c3477681df98b5a4-2b94fbd50069f9d14e39b9637123f832-1774395083-1774384283&remote=no_check_ip
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0Q4t72x/image.png" group-title="Sports" tvg-server="Server 1",Star Sports 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0Q4t72x/image.png" group-title="Sports" tvg-country="IN" tvg-server="Server 1",Star Sports 1 [IN]
 http://103.182.170.32:8888/play/a040
-#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/d0Q4t72x/image.png" group-title="Sports" tvg-server="Server 2",Star Sports 1
+#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/d0Q4t72x/image.png" group-title="Sports" tvg-country="IN" tvg-server="Server 2",Star Sports 1 [IN]
 #DISABLED:LINK:http://103.229.254.25:7001/play/a0a0/index.m3u8
-#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/d0Q4t72x/image.png" group-title="Sports" tvg-server="Server 3",Star Sports 1
+#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/d0Q4t72x/image.png" group-title="Sports" tvg-country="IN" tvg-server="Server 3",Star Sports 1 [IN]
 #DISABLED:LINK:http://163.61.227.29:8000/play/a00f/index.m3u8
-#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/d0Q4t72x/image.png" group-title="Sports" tvg-server="Server 4",Star Sports 1
+#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/d0Q4t72x/image.png" group-title="Sports" tvg-country="IN" tvg-server="Server 4",Star Sports 1 [IN]
 #DISABLED:LINK:http://203.18.159.115/STARSPORTS1HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0Q4t72x/image.png" group-title="Sports" tvg-server="Server 5",Star Sports 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0Q4t72x/image.png" group-title="Sports" tvg-country="IN" tvg-server="Server 5",Star Sports 1 [IN]
 http://tvn1.chowdhury-shaheb.com/starsport1/index.m3u8
-#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/d0Q4t72x/image.png" group-title="Sports" tvg-server="HD",Star Sports 1
+#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/d0Q4t72x/image.png" group-title="Sports" tvg-country="IN" tvg-server="HD",Star Sports 1 [IN]
 #DISABLED:LINK:http://103.144.89.251:8082/SONY.SPORTS.1HD/index.m3u8?token=9cb8ead9516ecacdf8cd1c0eecd51704f48d648e-5ec5bfbe6bd9b1deebf6a798b1fc0d8f-1774395076-1774384276&remote=no_check_ip
-#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/d0Q4t72x/image.png" group-title="Sports" tvg-server="Server 7",Star Sports 1
+#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/d0Q4t72x/image.png" group-title="Sports" tvg-country="IN" tvg-server="Server 7",Star Sports 1 [IN]
 #DISABLED:LINK:http://110.39.27.47:8001/play/a006/index.m3u8
-#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/d0Q4t72x/image.png" group-title="Sports" tvg-server="Server 8",Star Sports 1
+#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/d0Q4t72x/image.png" group-title="Sports" tvg-country="IN" tvg-server="Server 8",Star Sports 1 [IN]
 #DISABLED:LINK:http://103.229.254.25:7001/play/a07f/index.m3u8
-#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/02pfYGZc/image.png" group-title="Sports" tvg-server="Server 1",STAR SPORTS 2
+#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/02pfYGZc/image.png" group-title="Sports" tvg-country="IN" tvg-server="Server 1",Star Sports 2 [IN]
 #DISABLED:LINK:http://203.18.159.115/STARSPORTS2HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/02pfYGZc/image.png" group-title="Sports" tvg-server="Server 2",STAR SPORTS 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/02pfYGZc/image.png" group-title="Sports" tvg-country="IN" tvg-server="Server 2",Star Sports 2 [IN]
 http://116.90.120.151:8000/play/a0jb/index.m3u8
-#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/02pfYGZc/image.png" group-title="Sports" tvg-server="Server 3",STAR SPORTS 2
+#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/02pfYGZc/image.png" group-title="Sports" tvg-country="IN" tvg-server="Server 3",Star Sports 2 [IN]
 #DISABLED:LINK:http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8
-#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/02pfYGZc/image.png" group-title="Sports" tvg-server="Server 4",STAR SPORTS 2
+#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/02pfYGZc/image.png" group-title="Sports" tvg-country="IN" tvg-server="Server 4",Star Sports 2 [IN]
 #DISABLED:LINK:http://103.144.89.251:8082/SONY.SPORTS2.HD/index.m3u8?token=35a3ec676b7343adb772e36ef02180a778e52471-4bf316e827384b246aa1a37e9c26f546-1774395076-1774384276&remote=no_check_ip
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/02pfYGZc/image.png" group-title="Sports" tvg-server="Server 5",STAR SPORTS 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/02pfYGZc/image.png" group-title="Sports" tvg-country="IN" tvg-server="Server 5",Star Sports 2 [IN]
 http://110.39.27.47:8001/play/a01m/index.m3u8
-#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/852RWsvc/image.png" group-title="Sports" tvg-server="Server 1",Star Sports Select 1 FHD
+#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/852RWsvc/image.png" group-title="Sports" tvg-country="IN" tvg-server="Server 1",Star Sports Select 1 FHD [IN]
 #DISABLED:LINK:http://203.18.159.115/STARSELECT1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfp086MbQGjCnCdHrROV5DwVHIfdVkizUZng&s" group-title="Music" tvg-country="IR" tvg-server="Server 1",SUN MUSIC [IR]
 https://hls.sunmusic.live/hls/stream.m3u8
