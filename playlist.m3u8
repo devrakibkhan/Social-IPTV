@@ -739,13 +739,13 @@ http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8
 #DISABLED:LINK:http://203.18.159.115/SONYBBCEARTHHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2YNY8jdf/Untitled-459-x-459-px.png" group-title="Science" tvg-country="IN" tvg-server="Server 2",SONY BBC EARTH [IN]
 http://103.144.89.251:8082/SONY.BBC.EARTH.HD/index.m3u8?token=94489dc497c3f8a3ffc5ce72a94f027980a50a3e-ff108c89f1ad62f1d749574b5f2c6cf0-1774395074-1774384274&remote=no_check_ip
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png?width=400" group-title="Hindi / Urdu" tvg-country="IN" tvg-server="Server 1",Sony ENT [IN]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQwtHWQQ/image.png" group-title="Hindi / Urdu" tvg-country="IN" tvg-server="Server 1",Sony ENT [IN]
 http://103.229.254.25:7001/play/a09u/index.m3u8
-#DISABLED:CH:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png?width=400" group-title="Hindi / Urdu" tvg-country="IN" tvg-server="hd",Sony ENT [IN]
+#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/BQwtHWQQ/image.png" group-title="Hindi / Urdu" tvg-country="IN" tvg-server="hd",Sony ENT [IN]
 #DISABLED:LINK:http://103.144.89.251:8082/SONY.ENT.HD/index.m3u8?token=26c8a9bc8b09f64c0ad693d6e5ec2e97e666593f-547b77a93bbfe3a11b96d54b08e313c8-1774395075-1774384275&remote=no_check_ip
-#DISABLED:CH:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png?width=400" group-title="Hindi / Urdu" tvg-country="IN" tvg-server="HD",Sony ENT FHD [IN]
+#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/wMjTR2Cm/image.png" group-title="Hindi / Urdu" tvg-country="IN" tvg-server="HD",Sony ENT FHD [IN]
 #DISABLED:LINK:http://103.161.153.165:8000/play/a01i/index.m3u8
-#DISABLED:CH:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png?width=400" group-title="Hindi / Urdu" tvg-country="IN" tvg-server="Server 1",Sony ENT FHD [IN]
+#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/wMjTR2Cm/image.png" group-title="Hindi / Urdu" tvg-country="IN" tvg-server="Server 1",Sony ENT FHD [IN]
 #DISABLED:LINK:http://203.18.159.115/SONYENTHD/tracks-v1a1/mono.m3u8
 #DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/Z5BQzvLc/image.png" group-title="Movies" tvg-country="IN" tvg-server="Server 1",Sony MAX [IN]
 #DISABLED:LINK:https://raw.githubusercontent.com/arijitreza/web/9f84a3561c6dd32152ac88a7bb4476dc1d06e79d/playlist.m3u
