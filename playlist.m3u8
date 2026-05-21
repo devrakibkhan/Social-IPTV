@@ -100,13 +100,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 #DISABLED:CH:-1 tvg-id="AnandaTV.bd@SD" tvg-logo="https://i.postimg.cc/d32C9s8D/image.png" group-title="Bangla" tvg-country="BD" tvg-server="Server 1",Ananda TV [BD]
 #DISABLED:LINK:http://103.229.254.25:7001/play/a05v/index.m3u8
 #EXTINF:-1 tvg-id="EPlanetTV.ir@SD" tvg-logo="https://i.postimg.cc/MpPQ5rjM/image.png" group-title="Science" tvg-country="US" tvg-server="Server 1",Animal Planet HD [US]
-http://103.229.254.25:7001/play/a0dr/index.m3u8
-#DISABLED:CH:-1 tvg-id="EPlanetTV.ir@SD" tvg-logo="https://i.postimg.cc/MpPQ5rjM/image.png" group-title="Science" tvg-country="US" tvg-server="Server 2",Animal Planet HD [US]
-#DISABLED:LINK:http://203.18.159.115/ANIMALPLANETHD/tracks-v1a1/mono.m3u8
-#DISABLED:CH:-1 tvg-id="EPlanetTV.ir@SD" tvg-logo="https://i.postimg.cc/MpPQ5rjM/image.png" group-title="Science" tvg-country="US" tvg-server="Server 3",Animal Planet HD [US]
-#DISABLED:LINK:http://103.161.153.165:8000/play/a056/index.m3u8
-#DISABLED:CH:-1 tvg-id="EPlanetTV.ir@SD" tvg-logo="https://i.postimg.cc/MpPQ5rjM/image.png" group-title="Science" tvg-country="US" tvg-server="Server 4",Animal Planet HD [US]
-#DISABLED:LINK:http://103.144.89.251:8082/ANIMAL.PLANET.HD/index.m3u8?token=db64be73ec82e34a70096594a84b7cb3cbaa3c45-70cf4a116df4f7bd7faeb30c9bc3d8bc-1774395057-1774384257&remote=no_check_ip
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 #DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/hGN7Wzsf/image.png" group-title="Kids" tvg-server="Server 1",Animes HD. TV
 #DISABLED:LINK:https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
 #DISABLED:CH:-1 group-title="Music" tvg-server="Server 1",Arabica TV
@@ -309,10 +303,14 @@ http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
 #DISABLED:LINK:https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #DISABLED:CH:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lpRJsjJojdecpt_clU8FsJGakVCr-wXz1wBoUO7Ko8cw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports" tvg-server="D Sports",Current Live Sports
 #DISABLED:LINK:https://futbol9865.ultratv13.workers.dev/deportivo111/94.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lpRJsjJojdecpt_clU8FsJGakVCr-wXz1wBoUO7Ko8cw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports" tvg-server="D Sports",Current Live Sports
-http://74.208.30.121/a176/mono.m3u8
 #DISABLED:CH:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lpRJsjJojdecpt_clU8FsJGakVCr-wXz1wBoUO7Ko8cw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports" tvg-server="D Sports 2",Current Live Sports
 #DISABLED:LINK:http://74.208.30.121/a177/mono.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lpRJsjJojdecpt_clU8FsJGakVCr-wXz1wBoUO7Ko8cw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports" tvg-server="D Sports",Current Live Sports
+http://74.208.30.121/a176/mono.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lpRJsjJojdecpt_clU8FsJGakVCr-wXz1wBoUO7Ko8cw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports" tvg-server="TUDN",Current Live Sports
+http://74.208.30.121/a192/mono.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lpRJsjJojdecpt_clU8FsJGakVCr-wXz1wBoUO7Ko8cw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports" tvg-server="D Sports +",Current Live Sports
+http://74.208.30.121/a178/mono.m3u8
 #DISABLED:CH:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" group-title="Music" tvg-server="One",Dance TV Estonia
 #DISABLED:LINK:https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
 #DISABLED:CH:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" group-title="Music" tvg-server="Algorhythm",Dance TV Estonia
