@@ -519,10 +519,12 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #DISABLED:LINK:https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://qurantv.in/wp-content/uploads/2023/11/logo-quran.png" group-title="Islamic" tvg-server="Quran With English",Live Quran TVs
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist/4.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Ls0I7UY9msY-B-HqpMc3fKnfDmMDPzM7J0dpPCCPX680Em_Ovo-bSjqZyc08F4ykNEs" group-title="Bangla" tvg-server="Server 1",Maasranga TV HD
-http://103.229.254.25:7001/play/a05q/index.m3u8
+#DISABLED:CH:-1 tvg-logo="https://play-lh.googleusercontent.com/Ls0I7UY9msY-B-HqpMc3fKnfDmMDPzM7J0dpPCCPX680Em_Ovo-bSjqZyc08F4ykNEs" group-title="Bangla" tvg-server="Server 1",Maasranga TV HD
+#DISABLED:LINK:http://103.229.254.25:7001/play/a05q/index.m3u8
 #DISABLED:CH:-1 tvg-logo="https://play-lh.googleusercontent.com/Ls0I7UY9msY-B-HqpMc3fKnfDmMDPzM7J0dpPCCPX680Em_Ovo-bSjqZyc08F4ykNEs" group-title="Bangla" tvg-server="Server 2",Maasranga TV HD
 #DISABLED:LINK:http://103.144.89.251:8082/MASRANGA.TV.HD/index.m3u8?token=9776dcfba17fcd54e4c07d6d84e135e64b3b6b87-3fb2f05d2b82c638110a1347525b1ac2-1774395050-1774384250&remote=no_check_ip
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Ls0I7UY9msY-B-HqpMc3fKnfDmMDPzM7J0dpPCCPX680Em_Ovo-bSjqZyc08F4ykNEs" group-title="Bangla" tvg-server="Server 3",Maasranga TV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_s1QIH4x4Ru0DufX_CNlWhPvPU3o91ZcA9w&s" group-title="Islamic" tvg-server="bdix",Madani TV
 http://103.229.254.25:7001/play/a05p/index.m3u8
 #DISABLED:CH:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_s1QIH4x4Ru0DufX_CNlWhPvPU3o91ZcA9w&s" group-title="Islamic" tvg-server="Server 2",Madani TV
