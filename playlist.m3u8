@@ -301,22 +301,8 @@ http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
 #DISABLED:LINK:https://owrcovcrpy.gpcdn.net/bpk-tv/1707/output/index.mpd
 #DISABLED:CH:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lpRJsjJojdecpt_clU8FsJGakVCr-wXz1wBoUO7Ko8cw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports" tvg-server="Server 2",Current Live Sports
 #DISABLED:LINK:http://10.111.200.30/live/feed1001/index.m3u8
-#DISABLED:CH:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lpRJsjJojdecpt_clU8FsJGakVCr-wXz1wBoUO7Ko8cw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports" tvg-server="Server 3",Current Live Sports
-#DISABLED:LINK:https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-#DISABLED:CH:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lpRJsjJojdecpt_clU8FsJGakVCr-wXz1wBoUO7Ko8cw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports" tvg-server="Server 4",Current Live Sports
-#DISABLED:LINK:https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-2/playlist.m3u8
-#DISABLED:CH:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lpRJsjJojdecpt_clU8FsJGakVCr-wXz1wBoUO7Ko8cw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports" tvg-server="Server 5",Current Live Sports
-#DISABLED:LINK:https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
-#DISABLED:CH:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lpRJsjJojdecpt_clU8FsJGakVCr-wXz1wBoUO7Ko8cw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports" tvg-server="Server 6",Current Live Sports
-#DISABLED:LINK:https://amitomar.hoichoi.pro/bdixbd.net/index.fmp4.m3u8
-#DISABLED:CH:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lpRJsjJojdecpt_clU8FsJGakVCr-wXz1wBoUO7Ko8cw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports" tvg-server="Server 7",Current Live Sports
-#DISABLED:LINK:http://198.195.239.50:8095/Tsports/index.m3u8
-#DISABLED:CH:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lpRJsjJojdecpt_clU8FsJGakVCr-wXz1wBoUO7Ko8cw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports" tvg-server="Server 8",Current Live Sports
-#DISABLED:LINK:http://198.195.239.50:8095/WiLLow/index.m3u8
 #DISABLED:CH:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lpRJsjJojdecpt_clU8FsJGakVCr-wXz1wBoUO7Ko8cw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports" tvg-server="Nagorik",Current Live Sports
 #DISABLED:LINK:http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
-#DISABLED:CH:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lpRJsjJojdecpt_clU8FsJGakVCr-wXz1wBoUO7Ko8cw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports" tvg-server="Football - FanCode",Current Live Sports
-#DISABLED:LINK:https://bd-mc-flive.fancode.com/mumbai/131107_english_hls_5bd74dd81b45462_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1773680708~_GO=Generated~acl=/mumbai/131107_english_hls_5bd74dd81b45462_1ta-di_h264/*~Signature=AR77L-Y2iy473oik1reCbk0KgrKkvZ9AhCaBGCrw851DOIaC8hKUMBTuCUKn0ab7AnnC9ED8qA6WKbun32d1rBkF_moB
 #DISABLED:CH:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lpRJsjJojdecpt_clU8FsJGakVCr-wXz1wBoUO7Ko8cw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports" tvg-server="PSL",Current Live Sports
 #DISABLED:LINK:https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index_2.m3u8
 #DISABLED:CH:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lpRJsjJojdecpt_clU8FsJGakVCr-wXz1wBoUO7Ko8cw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports" tvg-server="Football",Current Live Sports
@@ -325,6 +311,8 @@ http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
 #DISABLED:LINK:https://futbol9865.ultratv13.workers.dev/deportivo111/94.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lpRJsjJojdecpt_clU8FsJGakVCr-wXz1wBoUO7Ko8cw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports" tvg-server="D Sports",Current Live Sports
 http://74.208.30.121/a176/mono.m3u8
+#DISABLED:CH:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lpRJsjJojdecpt_clU8FsJGakVCr-wXz1wBoUO7Ko8cw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports" tvg-server="D Sports 2",Current Live Sports
+#DISABLED:LINK:http://74.208.30.121/a177/mono.m3u8
 #DISABLED:CH:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" group-title="Music" tvg-server="One",Dance TV Estonia
 #DISABLED:LINK:https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
 #DISABLED:CH:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" group-title="Music" tvg-server="Algorhythm",Dance TV Estonia
