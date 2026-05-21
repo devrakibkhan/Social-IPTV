@@ -117,8 +117,10 @@ https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-15
 #DISABLED:LINK:https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 #DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/bYxSWvtY/image.png" group-title="Bangla" tvg-country="BD" tvg-server="Server 2",ATN Bangla [BD]
 #DISABLED:LINK:http://103.144.89.251:8082/ATN.BANGLA.HD/index.m3u8?token=1060a6c872e7cb9a348702bb32501954c3c9e858-f72788dd895362f38b2cc4586bc5f8b7-1774401753-1774390953&remote=no_check_ip
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYxSWvtY/image.png" group-title="Bangla" tvg-country="BD" tvg-server="Server 3",ATN Bangla [BD]
-http://103.229.254.25:7001/play/a06b/index.m3u8
+#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/bYxSWvtY/image.png" group-title="Bangla" tvg-country="BD" tvg-server="Server 3",ATN Bangla [BD]
+#DISABLED:LINK:http://103.229.254.25:7001/play/a06b/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYxSWvtY/image.png" group-title="Bangla" tvg-country="BD" tvg-server="Server 4",ATN Bangla [BD]
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnbd-8-org.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ATNMusic.bd@SD" tvg-logo="https://i.postimg.cc/7Z5Lv9cn/image.png" group-title="Music" tvg-country="BD" tvg-server="Server 1",ATN Music [BD]
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
 #DISABLED:CH:-1 tvg-id="ATNMusic.bd@SD" tvg-logo="https://i.postimg.cc/7Z5Lv9cn/image.png" group-title="Music" tvg-country="BD" tvg-server="Server 2",ATN Music [BD]
@@ -845,6 +847,8 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #DISABLED:LINK:http://103.229.254.25:7001/play/a02v/index.m3u8
 #DISABLED:CH:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png" group-title="Movies" tvg-server="Server 3",STAR MOVIES Select
 #DISABLED:LINK:http://103.182.170.32:8888/play/a028
+#EXTINF:-1 group-title="News" tvg-country="BD" tvg-server="Server 1",Star News [BD]
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 #DISABLED:CH:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiXmyE6eROlxWjy8vlwIkmPqsYjf1e8MSgEg&s" group-title="Hindi / Urdu" tvg-server="Server 1",STAR Plus
 #DISABLED:LINK:http://103.229.254.25:7001/play/a09p/index.m3u8
 #DISABLED:CH:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiXmyE6eROlxWjy8vlwIkmPqsYjf1e8MSgEg&s" group-title="Hindi / Urdu" tvg-server="Server 2",STAR Plus
@@ -879,8 +883,6 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #DISABLED:LINK:http://110.39.27.47:8001/play/a01m/index.m3u8
 #DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/852RWsvc/image.png" group-title="Sports" tvg-country="IN" tvg-server="Server 1",Star Sports Select 1 FHD [IN]
 #DISABLED:LINK:http://203.18.159.115/STARSELECT1HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="News" tvg-country="BD" tvg-server="Server 1",StarNews [BD]
-https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfp086MbQGjCnCdHrROV5DwVHIfdVkizUZng&s" group-title="Music" tvg-country="IR" tvg-server="Server 1",SUN MUSIC [IR]
 https://hls.sunmusic.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RTyYx5Pg/T-SERIES.png" group-title="Music" tvg-server="Server 1",T SERIES
