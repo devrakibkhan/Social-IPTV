@@ -405,8 +405,10 @@ http://103.229.254.25:7001/play/a09k/index.m3u8
 #DISABLED:LINK:https://edge2.roarzone.info:8447/roarzone/edge3/ekhon-tv/tracks-v1a1/mono.m3u8?token=cef8917a4c5b27414757696939edd653be1d4256-98b584a6efbe3f401c7d5aab4db0987d-1774032380-1774028780
 #DISABLED:CH:-1 tvg-id="Ekhon.bd@SD" tvg-logo="https://i.postimg.cc/xCTHPD6t/image.png" group-title="Bangla" tvg-server="Server 3",EKHON TV
 #DISABLED:LINK:https://tvsen6.aynascope.net/ekhontv/tracks-v1a1/mono.ts.m3u8?e=1774201956&token=e04e3ce0ae4da08b1f49959169eb3ce8&u=78be6644-0a65-48ec-81a4-089ac65a2619
-#EXTINF:-1 tvg-id="Ekushey.bd@SD" tvg-logo="https://i.postimg.cc/C59qYZS2/image.png" group-title="Bangla" tvg-server="Server 1",Ekushey TV
-http://103.229.254.25:7001/play/a05x/index.m3u8
+#DISABLED:CH:-1 tvg-id="Ekushey.bd@SD" tvg-logo="https://i.postimg.cc/C59qYZS2/image.png" group-title="Bangla" tvg-server="Server 1",Ekushey TV
+#DISABLED:LINK:http://103.229.254.25:7001/play/a05x/index.m3u8
+#EXTINF:-1 tvg-id="Ekushey.bd@SD" tvg-logo="https://i.postimg.cc/C59qYZS2/image.png" group-title="Bangla" tvg-server="Server 2",Ekushey TV
+https://stalkerm3u8.razankhan.workers.dev/play?channel=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F339736_
 #DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/zGZgcRd3/image.png" group-title="Hindi / Urdu" tvg-country="IN" tvg-server="Server 1",Enterrr 10 [IN]
 #DISABLED:LINK:http://103.144.89.251:8082/ENTER10.BANGLA/index.m3u8?token=d20e3d8a29c8d47895c33b87c29a4bddc312ef14-a5e51f1a9152775ccc710075d7b6c25c-1774395048-1774384248&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zGZgcRd3/image.png" group-title="Hindi / Urdu" tvg-country="IN" tvg-server="Server 2",Enterrr 10 [IN]
@@ -439,8 +441,8 @@ https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #DISABLED:CH:-1 tvg-id="GaziTV.bd@SD" tvg-logo="https://i.postimg.cc/xTHR8Qhg/image.png" group-title="Bangla" tvg-server="Server 1",Gazi TV
 #DISABLED:LINK:http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
-#EXTINF:-1 tvg-id="GaziTV.bd@SD" tvg-logo="https://i.postimg.cc/xTHR8Qhg/image.png" group-title="Bangla" tvg-server="Server 2",Gazi TV
-http://103.229.254.25:7001/play/a06t/index.m3u8
+#DISABLED:CH:-1 tvg-id="GaziTV.bd@SD" tvg-logo="https://i.postimg.cc/xTHR8Qhg/image.png" group-title="Bangla" tvg-server="Server 2",Gazi TV
+#DISABLED:LINK:http://103.229.254.25:7001/play/a06t/index.m3u8
 #DISABLED:CH:-1 tvg-id="GBNews.uk@SD" tvg-logo="https://i.postimg.cc/xdsGh1Jw/image.png" group-title="News" tvg-country="DE" tvg-server="1080p",GB News [DE]
 #DISABLED:LINK:https://amg01076-lightningintern-gbnewsau-samsungau-et7fz.amagi.tv/playlist/amg01076-lightningintern-gbnewsau-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="HarPalGeo.pk@SD" tvg-logo="https://i.postimg.cc/HxyJzYQh/image.png" group-title="Hindi / Urdu" tvg-country="PK" tvg-server="Server 1",GEO Entertainment [PK]
