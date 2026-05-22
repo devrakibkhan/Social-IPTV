@@ -69,8 +69,10 @@ http://103.175.73.12:8080/live/155/155_0.m3u8
 #DISABLED:LINK:https://stalkerm3u8.razankhan.workers.dev/play?channel=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F329001_
 #DISABLED:CH:-1 tvg-id="ABCNewsLive.us@SD" tvg-logo="https://i.postimg.cc/wMLXbcdT/image.png" group-title="News" tvg-country="US" tvg-server="Server 1",ABC News Live [US]
 #DISABLED:LINK:https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master_4000.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive.us@SD" tvg-logo="https://i.postimg.cc/wMLXbcdT/image.png" group-title="News" tvg-country="US" tvg-server="Server 2",ABC News Live [US]
-https://tvsen6.aynascope.net/AbcNews/index.m3u8?e=1775586877&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=df9f27a3ae2214400e6f2ade10d9ef38
+#DISABLED:CH:-1 tvg-id="ABCNewsLive.us@SD" tvg-logo="https://i.postimg.cc/wMLXbcdT/image.png" group-title="News" tvg-country="US" tvg-server="Server 2",ABC News Live [US]
+#DISABLED:LINK:https://tvsen6.aynascope.net/AbcNews/index.m3u8?e=1775586877&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=df9f27a3ae2214400e6f2ade10d9ef38
+#EXTINF:-1 tvg-id="ABCNewsLive.us@SD" tvg-logo="https://i.postimg.cc/wMLXbcdT/image.png" group-title="News" tvg-country="US" tvg-server="Server 3",ABC News Live [US]
+https://stalkerm3u8.razankhan.workers.dev/play?channel=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F328850_
 #DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/mkVr45By/image.png" group-title="Movies" tvg-server="Server 1",Action Hollywood Movies
 #DISABLED:LINK:https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/mkVr45By/image.png" group-title="Movies" tvg-server="Server 2",Action Hollywood Movies
