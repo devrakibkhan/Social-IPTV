@@ -67,12 +67,12 @@ http://103.175.73.12:8080/live/155/155_0.m3u8
 #DISABLED:LINK:http://m3u.tvcluboficial.com/Reach.Bot/p6C/14.m3u8
 #DISABLED:CH:-1 tvg-id="Atrescine.es@SD" tvg-logo="https://i.postimg.cc/wvP2rjyh/image.png" group-title="Movies" tvg-country="ES" tvg-server="Server 2",A3Cine (18) [ES]
 #DISABLED:LINK:http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8
-#EXTINF:-1 tvg-id="ABCNews.au@Sydney" tvg-logo="https://i.postimg.cc/0NyC2w7V/image.png" group-title="News" tvg-country="AU" tvg-server="Server 1",ABC News [AU]
-http://103.168.18.83:80/zan/app/ts_live_1964.m3u8
-#EXTINF:-1 tvg-id="ABCNews.au@Sydney" tvg-logo="https://i.postimg.cc/0NyC2w7V/image.png" group-title="News" tvg-country="AU" tvg-server="AynaOTT",ABC News [AU]
-https://tvsen6.aynascope.net/AbcNews/index.m3u8?e=1772575110&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=935a9c8ac020e76049fb06dd6e007560
-#EXTINF:-1 tvg-id="ABCNews.au@Sydney" tvg-logo="https://i.postimg.cc/0NyC2w7V/image.png" group-title="News" tvg-country="AU" tvg-server="Server 4",ABC News [AU]
-https://tvsen6.aynascope.net/AbcNews/tracks-v1a1/mono.ts.m3u8?e=1774638039&token=48f339c1e5958095214dc44dccf59ca9&u=78be6644-0a65-48ec-81a4-089ac65a2619
+#DISABLED:CH:-1 tvg-id="ABCNews.au@Sydney" tvg-logo="https://i.postimg.cc/0NyC2w7V/image.png" group-title="News" tvg-country="AU" tvg-server="Server 1",ABC News [AU]
+#DISABLED:LINK:http://103.168.18.83:80/zan/app/ts_live_1964.m3u8
+#DISABLED:CH:-1 tvg-id="ABCNews.au@Sydney" tvg-logo="https://i.postimg.cc/0NyC2w7V/image.png" group-title="News" tvg-country="AU" tvg-server="AynaOTT",ABC News [AU]
+#DISABLED:LINK:https://tvsen6.aynascope.net/AbcNews/index.m3u8?e=1772575110&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=935a9c8ac020e76049fb06dd6e007560
+#DISABLED:CH:-1 tvg-id="ABCNews.au@Sydney" tvg-logo="https://i.postimg.cc/0NyC2w7V/image.png" group-title="News" tvg-country="AU" tvg-server="Server 4",ABC News [AU]
+#DISABLED:LINK:https://tvsen6.aynascope.net/AbcNews/tracks-v1a1/mono.ts.m3u8?e=1774638039&token=48f339c1e5958095214dc44dccf59ca9&u=78be6644-0a65-48ec-81a4-089ac65a2619
 #DISABLED:CH:-1 tvg-id="ABCNewsLive.us@SD" tvg-logo="https://i.postimg.cc/wMLXbcdT/image.png" group-title="News" tvg-country="US" tvg-server="Server 1",ABC News Live [US]
 #DISABLED:LINK:https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master_4000.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive.us@SD" tvg-logo="https://i.postimg.cc/wMLXbcdT/image.png" group-title="News" tvg-country="US" tvg-server="Server 2",ABC News Live [US]
