@@ -281,10 +281,10 @@ https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-sam
 #DISABLED:LINK:http://103.229.254.25:7001/play/a077/index.m3u8
 #EXTINF:-1 tvg-id="ColorsBangla.in@SD" tvg-logo="https://i.postimg.cc/c1PgvnNy/image.png" group-title="Bangla" tvg-country="IN" tvg-server="Server 1",Colors Bangla [IN]
 http://103.229.254.25:7001/play/a0ds/index.m3u8
-#DISABLED:CH:-1 tvg-id="ColorsBangla.in@SD" tvg-logo="https://i.postimg.cc/c1PgvnNy/image.png" group-title="Bangla" tvg-country="IN" tvg-server="Server 2",Colors Bangla [IN]
-#DISABLED:LINK:http://103.161.153.165:8000/play/a036/index.m3u8
-#DISABLED:CH:-1 tvg-id="ColorsBangla.in@SD" tvg-logo="https://i.postimg.cc/c1PgvnNy/image.png" group-title="Bangla" tvg-country="IN" tvg-server="Server 3",Colors Bangla [IN]
-#DISABLED:LINK:http://103.144.89.251:8082/COLORS.BANGLA.HD/index.m3u8?token=94b93085051c3aeacf9780cc12963e397a1fa5aa-35bd22ff2fdcb6f7540cc5303b1c2670-1774395048-1774384248&remote=no_check_ip
+#EXTINF:-1 tvg-id="ColorsBangla.in@SD" tvg-logo="https://i.postimg.cc/c1PgvnNy/image.png" group-title="Bangla" tvg-country="IN" tvg-server="Server 2",Colors Bangla [IN]
+http://103.161.153.165:8000/play/a036/index.m3u8
+#EXTINF:-1 tvg-id="ColorsBangla.in@SD" tvg-logo="https://i.postimg.cc/c1PgvnNy/image.png" group-title="Bangla" tvg-country="IN" tvg-server="Server 3",Colors Bangla [IN]
+http://103.144.89.251:8082/COLORS.BANGLA.HD/index.m3u8?token=94b93085051c3aeacf9780cc12963e397a1fa5aa-35bd22ff2fdcb6f7540cc5303b1c2670-1774395048-1774384248&remote=no_check_ip
 #DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/9QYrggRs/image.png" group-title="Movies" tvg-country="IN" tvg-server="Server 1",Colors Bangla Cinema [IN]
 #DISABLED:LINK:http://103.144.89.251:8082/COLORS.BANGLA.CINEMA/index.m3u8?token=a3422f7864ac67a5345f19ace095a61481da7a48-97881342978c36e5fd6e3fa13dccb6a6-1774395047-1774384247&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QYrggRs/image.png" group-title="Movies" tvg-country="IN" tvg-server="Server 2",Colors Bangla Cinema [IN]
