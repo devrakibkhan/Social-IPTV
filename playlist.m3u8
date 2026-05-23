@@ -231,6 +231,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8
 #DISABLED:LINK:https://tvsen5.aynascope.net/cartoonnetwork/tracks-v1a1/mono.ts.m3u8?e=1774202147&token=4329a1405d255733587562591913e5de&u=78be6644-0a65-48ec-81a4-089ac65a2619
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5ysCrPRN/image.png" group-title="Kids" tvg-server="usa 2",Cartoon Network
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+#DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/5ysCrPRN/image.png" group-title="Kids" tvg-server="US",Cartoon Network
+#DISABLED:LINK:http://dns.p2.wtf:80/live/rogerio55x/24992611250/1260799.ts
 #DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/htk7NQpM/image.png" group-title="Kids" tvg-server="Server 1",Cartoon Network HD+
 #DISABLED:LINK:http://203.18.159.115/CARTOONNETWORK/tracks-v1a1/mono.m3u8
 #DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/htk7NQpM/image.png" group-title="Kids" tvg-server="RoarZone",Cartoon Network HD+
