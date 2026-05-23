@@ -207,6 +207,8 @@ https://live20.bozztv.com/giatvplayout7/giatv-209587/index.m3u8
 #DISABLED:LINK:http://103.229.254.25:7001/play/a067/index.m3u8
 #DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/25L7ZfXn/image.png" group-title="Movies" tvg-server="Server 1",Bollywood Action
 #DISABLED:LINK:http://103.229.254.25:7001/play/a0es/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ubZMeQv.jpg" group-title="Kids" tvg-server="Server 1",Boomerang
+http://dns.p2.wtf:80/live/rogerio55x/24992611250/1260794.ts
 #EXTINF:-1 tvg-id="BTVNational.bd@SD" tvg-logo="https://i.postimg.cc/Rhd7BCNv/image.png" group-title="Bangla" tvg-server="National",BTV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8
 #DISABLED:CH:-1 tvg-id="BTVNational.bd@SD" tvg-logo="https://i.postimg.cc/Rhd7BCNv/image.png" group-title="Bangla" tvg-server="Server 2",BTV HD
@@ -519,7 +521,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701.m3u8
 #DISABLED:LINK:http://103.144.89.251:8082/JAMUNA.TV/index.m3u8?token=07a8ef880a6984735c7c86cfc19b1fa0d7b5f1b6-965172e8fc66fce062173e8841fcad6d-1774395050-1774384250&remote=no_check_ip
 #DISABLED:CH:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2025/10/jiotv-logo.png" group-title="Kids" tvg-country="IN" tvg-server="Server 1",JioTV [IN]
 #DISABLED:LINK:https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ubZMeQv.jpg" group-title="Kids" tvg-server="Server 1",Jungle Book
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrCb9G7z/image.png" group-title="Kids" tvg-server="Server 1",Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 #DISABLED:CH:-1 group-title="Other Language" tvg-country="KW" tvg-server="hd",kuwait TV [KW]
 #DISABLED:LINK:http://103.161.153.165:8000/play/a04x/index.m3u8
