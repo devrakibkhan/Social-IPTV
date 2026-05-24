@@ -775,6 +775,8 @@ http://103.229.254.25:7001/play/a09u/index.m3u8
 #DISABLED:LINK:http://103.229.254.25:7001/play/a0co/index.m3u8
 #DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/Z5BQzvLc/image.png" group-title="Movies" tvg-country="IN" tvg-server="hd",Sony MAX [IN]
 #DISABLED:LINK:http://103.182.170.32:8888/play/a04f
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5BQzvLc/image.png" group-title="Movies" tvg-country="IN" tvg-server="Server 6",Sony MAX [IN]
+http://198.195.239.50:8095/SonyMAX/index.m3u8
 #DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/CMcrZsPR/image.png" group-title="Movies" tvg-server="Server 1",Sony PIX
 #DISABLED:LINK:http://103.229.254.25:7001/play/a0ed/index.m3u8
 #DISABLED:CH:-1 tvg-logo="https://i.postimg.cc/CMcrZsPR/image.png" group-title="Movies" tvg-server="Server 2",Sony PIX
