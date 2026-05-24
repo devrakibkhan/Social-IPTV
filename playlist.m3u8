@@ -299,7 +299,7 @@ http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
 #DISABLED:LINK:http://103.144.89.251:8082/COLORS.CINEPLEX.HD/index.m3u8?token=0dae5f6878b0450108fa6752104d83748f1c057e-834a4072715b26e9cc9d6a1433721ebb-1774395060-1774384260&remote=no_check_ip
 #DISABLED:CH:-1 tvg-id="ColorsCineplex.in@SD" tvg-logo="https://i.postimg.cc/WzZ4G5cw/image.png" group-title="Movies" tvg-country="IN" tvg-server="Server 3",Colors Cineplex [IN]
 #DISABLED:LINK:http://198.195.239.50:8095/ColorsCineplex/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/htCYTdD7/image.png" group-title="Lifestyle" tvg-country="US" tvg-server="Server 1",Cooking Channel  [US]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/htCYTdD7/image.png" group-title="Lifestyle" tvg-country="US" tvg-server="Server 1",Cooking Channel [US]
 http://dns.p2.wtf:80/live/rogerio55x/24992611250/1260812.ts
 #DISABLED:CH:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lpRJsjJojdecpt_clU8FsJGakVCr-wXz1wBoUO7Ko8cw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports" tvg-server="Server 1",Current Live Sports
 #DISABLED:LINK:https://owrcovcrpy.gpcdn.net/bpk-tv/1707/output/index.mpd
@@ -984,7 +984,7 @@ http://103.229.254.25:7001/play/a06s/index.m3u8
 #DISABLED:CH:-1 tvg-logo="https://p7.hiclipart.com/preview/225/230/365/zee-bangla-television-channel-zee-tv-zee-entertainment-enterprises-others-thumbnail.jpg" group-title="Bangla" tvg-server="Server 3",Zee Bangla
 #DISABLED:LINK:http://103.144.89.251:8082/ZEE.BANGLA.HD/index.m3u8?token=582c04f160d354e4e626d40f1aca24605e1ee6ac-bfbe04b56bbe45a447dcccae11b39af2-1774395054-1774384254&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://p7.hiclipart.com/preview/225/230/365/zee-bangla-television-channel-zee-tv-zee-entertainment-enterprises-others-thumbnail.jpg" group-title="Bangla" tvg-server="Server 3",Zee Bangla
-https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
+http://103.180.212.191:3500/live/625.m3u8
 #DISABLED:CH:-1 tvg-logo="https://p7.hiclipart.com/preview/225/230/365/zee-bangla-television-channel-zee-tv-zee-entertainment-enterprises-others-thumbnail.jpg" group-title="Movies" tvg-country="IN" tvg-server="hd",Zee Bangla Cinema [IN]
 #DISABLED:LINK:http://103.144.89.251:8082/ZEE.BANGLA.CINEMA/index.m3u8?token=062d929d54a54c25e430928bac82e4005f9ae2fc-d7fae2563dd1f524912c3fda413084ee-1774395053-1774384253&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://p7.hiclipart.com/preview/225/230/365/zee-bangla-television-channel-zee-tv-zee-entertainment-enterprises-others-thumbnail.jpg" group-title="Movies" tvg-country="IN" tvg-server="Server 2",Zee Bangla Cinema [IN]
