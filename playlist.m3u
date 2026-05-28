@@ -111,6 +111,8 @@ https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-15
 #X-HIDE-URL:base64:aHR0cDovLzEwMy4yMjkuMjU0LjI1OjcwMDEvcGxheS9hMDYzL2luZGV4Lm0zdTg=
 #EXTINF:-1 tvg-id="AsianTV.bd@SD" tvg-logo="https://i.postimg.cc/Y0HG05Jj/image.png" group-title="Bangla" tvg-country="BD" tvg-server="Server 2",Asian TV [BD]
 https://stalkerm3u8.razankhan.workers.dev/play?channel=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F339691_
+#EXTINF:-1 tvg-id="AsianTV.bd@SD" tvg-logo="https://i.postimg.cc/Y0HG05Jj/image.png" group-title="Bangla" tvg-country="BD" tvg-server="Server 3",Asian TV [BD]
+https://tvsen5.aynaott.com/atnbangla/tracks-v1a1/mono.ts.m3u8
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvYll4U1d2dFkvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iQmFuZ2xhIiB0dmctY291bnRyeT0iQkQiIHR2Zy1zZXJ2ZXI9IlNlcnZlciAxIixBVE4gQmFuZ2xhIFtCRF0=
 #X-HIDE-URL:base64:aHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyMi9vdXRwdXQvaW5kZXgubTN1OA==
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvYll4U1d2dFkvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iQmFuZ2xhIiB0dmctY291bnRyeT0iQkQiIHR2Zy1zZXJ2ZXI9IlNlcnZlciAyIixBVE4gQmFuZ2xhIFtCRF0=
