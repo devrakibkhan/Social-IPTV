@@ -235,6 +235,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvNXlzQ3JQUk4vaW1hZ2UucG5nIiBncm91cC10aXRsZT0iS2lkcyIgdHZnLXNlcnZlcj0iVVMiLENhcnRvb24gTmV0d29yaw==
 #X-HIDE-URL:base64:aHR0cDovL2Rucy5wMi53dGY6ODAvbGl2ZS9yb2dlcmlvNTV4LzI0OTkyNjExMjUwLzEyNjA3OTkudHM=
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5ysCrPRN/image.png" group-title="Kids" tvg-server="UK",Cartoon Network
+https://stalkerm3u8.razankhan.workers.dev/play?channel=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F215841_
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvaHRrN05RcE0vaW1hZ2UucG5nIiBncm91cC10aXRsZT0iS2lkcyIgdHZnLXNlcnZlcj0iU2VydmVyIDEiLENhcnRvb24gTmV0d29yayBIRCs=
 #X-HIDE-URL:base64:aHR0cDovLzIwMy4xOC4xNTkuMTE1L0NBUlRPT05ORVRXT1JLL3RyYWNrcy12MWExL21vbm8ubTN1OA==
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvaHRrN05RcE0vaW1hZ2UucG5nIiBncm91cC10aXRsZT0iS2lkcyIgdHZnLXNlcnZlcj0iUm9hclpvbmUiLENhcnRvb24gTmV0d29yayBIRCs=
@@ -663,6 +665,8 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/in
 #X-HIDE-URL:base64:aHR0cDovLzEwMy4xNDQuODkuMjUxOjgwODIvTklDSy5KUi9pbmRleC5tM3U4P3Rva2VuPWYyN2ZhN2U3ZTJhMWQ1ZTdiZDhjMDc1OTQ5NDk0MTA3NzJlZmZiYzItZGRjMDRhNmM5MWMzODc4OTFlMWZlZmYwYWE0NjhhYzctMTc3NDM5NTA3MS0xNzc0Mzg0MjcxJnJlbW90ZT1ub19jaGVja19pcA==
 #EXTINF:-1 tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2018/02/5a8df502cffcf-384x384.png" group-title="Kids" tvg-country="IN" tvg-server="Server 2",NICK JR [IN]
 http://103.229.254.25:7001/play/a0di/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ry1tzDBw/image.png" group-title="Kids" tvg-country="UK" tvg-server="UK",nickelodeon [UK]
+https://stalkerm3u8.razankhan.workers.dev/play?channel=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F215838_
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k2OVT9KlclMpcDC7BtSActMWKbSRrJ6mF6yKk0dcDDAw=s900-c-k-c0x00ffffff-no-rj" group-title="Music" tvg-country="CA" tvg-server="Server 1",NRB [CA]
 https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg" group-title="Bangla" tvg-server="Server 1",NTV
