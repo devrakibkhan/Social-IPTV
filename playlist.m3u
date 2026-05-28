@@ -179,6 +179,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 #X-HIDE-URL:base64:aHR0cDovLzEwMy4xNDQuODkuMjUxOjgwODIvQkJDLk5FV1MvaW5kZXgubTN1OD90b2tlbj1kMTgzYTNhZGQ1NDRhMDMxMDJjYWQwNDQxM2VkNjAzMDExMWM0YmI2LTFjODc3MjMxMWUxMzc5NTQ5NmJlYzI3YTc1M2EzYWVlLTE3NzQzOTUwNTktMTc3NDM4NDI1OSZyZW1vdGU9bm9fY2hlY2tfaXA=
 #EXTINF:-1 tvg-id="BBCNews.uk@Europe" tvg-logo="https://i.postimg.cc/FHj6J3dF/image.png" group-title="News" tvg-country="UK" tvg-server="Server 5",BBC NEWS [UK]
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298&ads.xumo_streamId=99951298&ads.channelId=99951298&ads.channelName=amcbbcnews_us&ads.csid=xumo_web_AMCBBCNews_ssai&ads._fw_coppa=0&ads.xumo_contentId=4023&ads.xumo_contentName=AMCBBCNews&ads.xumo_providerId=4023&ads.xumo_providerName=AMCBBCNews&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=:1565ffd1-fbc4-4bab-88a1-a944944402f9&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=News,N,DN,Local,LocalNews,News-Local&ads._fw_content_rating=&ads._fw_deviceType=3-Connected_TV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+#X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvUlY2SExnOGQvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iU3BvcnRzIiB0dmctc2VydmVyPSJTZXJ2ZXIgMSIsYmVJTiBTUE9SVFM=
+#X-HIDE-URL:base64:
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KYfs0bDw/image.png" group-title="Music" tvg-country="BD" tvg-server="Server 1",Bengal Beats [BD]
 https://live20.bozztv.com/giatvplayout7/giatv-209587/index.m3u8
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvQ0xEMG1aQnQvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iTW92aWVzIiB0dmctc2VydmVyPSJTZXJ2ZXIgMSIsQkVTVCBBQ1RJT04gVFY=
@@ -304,7 +306,7 @@ http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctaWQ9IkNvbG9yc0NpbmVwbGV4LmluQFNEIiB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvV3paNEc1Y3cvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iTW92aWVzIiB0dmctY291bnRyeT0iSU4iIHR2Zy1zZXJ2ZXI9IlNlcnZlciAzIixDb2xvcnMgQ2luZXBsZXggW0lOXQ==
 #X-HIDE-URL:base64:aHR0cDovLzE5OC4xOTUuMjM5LjUwOjgwOTUvQ29sb3JzQ2luZXBsZXgvaW5kZXgubTN1OA==
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/htCYTdD7/image.png" group-title="Lifestyle" tvg-country="US" tvg-server="Server 1",Cooking Channel [US]
-http://dns.p2.wtf:80/live/rogerio55x/24992611250/1260812.ts
+https://stalkerm3u8.razankhan.workers.dev/play?channel=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F328959_
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly95dDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3l0Yy9BSWRyb19scFJKc2pKb2pkZWNwdF9jbFU4RnNKR2FrVkNyLXdYejF3Qm9VTzdLbzhjdz1zOTAwLWMtay1jMHgwMGZmZmZmZi1uby1yaiIgZ3JvdXAtdGl0bGU9IlNwb3J0cyIgdHZnLXNlcnZlcj0iU2VydmVyIDEiLEN1cnJlbnQgTGl2ZSBTcG9ydHM=
 #X-HIDE-URL:base64:aHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwNy9vdXRwdXQvaW5kZXgubXBk
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly95dDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3l0Yy9BSWRyb19scFJKc2pKb2pkZWNwdF9jbFU4RnNKR2FrVkNyLXdYejF3Qm9VTzdLbzhjdz1zOTAwLWMtay1jMHgwMGZmZmZmZi1uby1yaiIgZ3JvdXAtdGl0bGU9IlNwb3J0cyIgdHZnLXNlcnZlcj0iU2VydmVyIDIiLEN1cnJlbnQgTGl2ZSBTcG9ydHM=
@@ -393,10 +395,16 @@ https://stalkerm3u8.razankhan.workers.dev/play?channel=ffmpeg%20http%3A%2F%2Floc
 #X-HIDE-URL:base64:aHR0cDovLzEwMy4xODIuMTcwLjMyOjg4ODgvcGxheS9hMDRn
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctaWQ9IkRpc25leUNoYW5uZWwuaW5ASEQiIHR2Zy1sb2dvPSJodHRwczovL2kucG9zdGltZy5jYy80ZHpNcGNGQi9pbWFnZS5wbmciIGdyb3VwLXRpdGxlPSJLaWRzIiB0dmctY291bnRyeT0iSU4iIHR2Zy1zZXJ2ZXI9IkludGVybmF0aW9uYWwiLERpc25leSBDaGFubmVsIFtJTl0=
 #X-HIDE-URL:base64:aHR0cDovLzEwMy4xODIuMTcwLjMyOjg4ODgvcGxheS9hMDF5
+#EXTINF:-1 tvg-id="DisneyChannel.in@HD" tvg-logo="https://i.postimg.cc/4dzMpcFB/image.png" group-title="Kids" tvg-country="IN" tvg-server="Server 4",Disney Channel [IN]
+https://stalkerm3u8.razankhan.workers.dev/play?channel=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F328928_
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctaWQ9IkRpc25leUp1bmlvci5pbkBTRCIgdHZnLWxvZ289Imh0dHBzOi8vaS5wb3N0aW1nLmNjL2s0RjEybUJOL2ltYWdlLnBuZyIgZ3JvdXAtdGl0bGU9IktpZHMiIHR2Zy1zZXJ2ZXI9IlNlcnZlciAyIixEaXNuZXkgSnVuaW9y
 #X-HIDE-URL:base64:aHR0cDovLzE3Mi4xOS4xNzguMTgwL3NlcnZlcnMtc3RhaWxlci8xNDNzcnYucGhwP3N0cmVhbT1kaXNuZXlfaGluZGkmZm9ybWF0PW0zdTg=
 #EXTINF:-1 tvg-id="DisneyJunior.in@SD" tvg-logo="https://i.postimg.cc/k4F12mBN/image.png" group-title="Kids" tvg-server="usa",Disney Junior
 http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
+#X-HIDE-META:base64:I0VYVElORjotMSB0dmctaWQ9IkRpc25leUp1bmlvci5pbkBTRCIgdHZnLWxvZ289Imh0dHBzOi8vaS5wb3N0aW1nLmNjL2s0RjEybUJOL2ltYWdlLnBuZyIgZ3JvdXAtdGl0bGU9IktpZHMiIHR2Zy1zZXJ2ZXI9IlVTQSIsRGlzbmV5IEp1bmlvcg==
+#X-HIDE-URL:base64:aHR0cHM6Ly9zdGFsa2VybTN1OC5yYXphbmtoYW4ud29ya2Vycy5kZXYvcGxheT9jaGFubmVsPWZmbXBlZyUyMGh0dHAlM0ElMkYlMkZsb2NhbGhvc3QlMkZjaCUyRjMyODkyN18=
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8R8k55d/image.png" group-title="Kids" tvg-server="Server 1",Disney XD
+https://stalkerm3u8.razankhan.workers.dev/play?channel=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F328926_
 #EXTINF:-1 tvg-id="Duronto.bd@SD" tvg-logo="https://i.postimg.cc/5Nt72D1T/image.png" group-title="Kids" tvg-server="Server 1",Duronto TV
 http://103.229.254.25:7001/play/a05k/index.m3u8
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctaWQ9IkR1cm9udG8uYmRAU0QiIHR2Zy1sb2dvPSJodHRwczovL2kucG9zdGltZy5jYy81TnQ3MkQxVC9pbWFnZS5wbmciIGdyb3VwLXRpdGxlPSJLaWRzIiB0dmctc2VydmVyPSJoZCIsRHVyb250byBUVg==
@@ -429,8 +437,10 @@ https://stalkerm3u8.razankhan.workers.dev/play?channel=ffmpeg%20http%3A%2F%2Floc
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctaWQ9IkVudGVydGFpbm1lbnRUb25pZ2h0LnVzQFNEIiB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvQzU2Vm1Ud1EvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iRW5nbGlzaCIgdHZnLWNvdW50cnk9IlVTIiB0dmctc2VydmVyPSJHb29nbGUgTTNVIixFbnRlcnRhaW5tZW50IFRvbmlnaHQgW1VTXQ==
 #X-HIDE-URL:base64:aHR0cHM6Ly9kYWkuZ29vZ2xlLmNvbS9saW5lYXIvaGxzL2V2ZW50L3hyVnJKWVRtVGZpdGZYQlFmZVpCeVEvbWFzdGVyLm0zdTg=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzZtLRRY/image.png" group-title="Sports" tvg-server="Server 1",ESPN Football
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzZtLRRY/image.png" group-title="Sports" tvg-server="Server 1",ESPN 
 http://dns.p2.wtf/rogerio55x/24992611250/296999
+#X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvbnpadExSUlkvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iU3BvcnRzIiB0dmctc2VydmVyPSJTZXJ2ZXIgMiIsRVNQTiA=
+#X-HIDE-URL:base64:aHR0cHM6Ly9zdGFsa2VybTN1OC5yYXphbmtoYW4ud29ya2Vycy5kZXYvcGxheT9jaGFubmVsPWZmbXBlZyUyMGh0dHAlM0ElMkYlMkZsb2NhbGhvc3QlMkZjaCUyRjMyODgxOV8=
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvcnNjQkh6MnMvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iU3BvcnRzIiB0dmctY291bnRyeT0iSU4iIHR2Zy1zZXJ2ZXI9IlNlcnZlciAxIixFdXJvIFNwb3J0cyBbSU5d
 #X-HIDE-URL:base64:aHR0cDovLzEwMy4xNDQuODkuMjUxOjgwODIvRVVST1NQT1JUUy5IRC9pbmRleC5tM3U4P3Rva2VuPTRiMGIyN2Q5MGIwODBkNzZjODA4NTRkN2M3NWI3OTQ2NGYzYjAyMDMtM2E3YmIzOGE1ODRjNjhhZWQ1OTg4OGQwZDEyZjBhYjctMTc3NDM5NTA2Mi0xNzc0Mzg0MjYyJnJlbW90ZT1ub19jaGVja19pcA==
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rscBHz2s/image.png" group-title="Sports" tvg-country="IN" tvg-server="Server 2",Euro Sports [IN]
@@ -593,6 +603,8 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 #X-HIDE-URL:base64:aHR0cDovLzExMC4zOS4yNy40Nzo4MDAxL3BsYXkvYTAxcC9pbmRleC5tM3U4
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctaWQ9Ik1UVi5pbkBTRCIgdHZnLWxvZ289Imh0dHBzOi8vd3d3Lm5pY2VwbmcuY29tL3BuZy9kZXRhaWwvODctODc3MDUzX210di1tdXNpYy1oZC1tdHYtbGl2ZS1oZC1sb2dvLnBuZyIgZ3JvdXAtdGl0bGU9Ik11c2ljIiB0dmctY291bnRyeT0iSU4iIHR2Zy1zZXJ2ZXI9IlNlcnZlciA2IixNVFYgW0lOXQ==
 #X-HIDE-URL:base64:aHR0cDovLzEwMy4yMjkuMjU0LjI1OjcwMDEvcGxheS9hMDJzL2luZGV4Lm0zdTg=
+#X-HIDE-META:base64:I0VYVElORjotMSB0dmctaWQ9Ik1UVi5pbkBTRCIgdHZnLWxvZ289Imh0dHBzOi8vd3d3Lm5pY2VwbmcuY29tL3BuZy9kZXRhaWwvODctODc3MDUzX210di1tdXNpYy1oZC1tdHYtbGl2ZS1oZC1sb2dvLnBuZyIgZ3JvdXAtdGl0bGU9Ik11c2ljIiB0dmctY291bnRyeT0iSU4iIHR2Zy1zZXJ2ZXI9IlVTQSIsTVRWIFtJTl0=
+#X-HIDE-URL:base64:aHR0cHM6Ly9zdGFsa2VybTN1OC5yYXphbmtoYW4ud29ya2Vycy5kZXYvcGxheT9jaGFubmVsPWZmbXBlZyUyMGh0dHAlM0ElMkYlMkZsb2NhbGhvc3QlMkZjaCUyRjMyODk3OV8=
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/12/musicbangla.jpg" group-title="Music" tvg-server="Server 1",Music Bangla
 http://vmi3039524.contaboserver.net:5050/music/index.m3u8
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLmliYi5jby5jb20vVldqSE5uNVkvTVlUVi1IRC5wbmciIGdyb3VwLXRpdGxlPSJCYW5nbGEiIHR2Zy1jb3VudHJ5PSJCRCIgdHZnLXNlcnZlcj0iU2VydmVyIDEiLE1ZIFRWIFtCRF0=
@@ -665,6 +677,8 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/in
 #X-HIDE-URL:base64:aHR0cDovLzEwMy4xNDQuODkuMjUxOjgwODIvTklDSy5KUi9pbmRleC5tM3U4P3Rva2VuPWYyN2ZhN2U3ZTJhMWQ1ZTdiZDhjMDc1OTQ5NDk0MTA3NzJlZmZiYzItZGRjMDRhNmM5MWMzODc4OTFlMWZlZmYwYWE0NjhhYzctMTc3NDM5NTA3MS0xNzc0Mzg0MjcxJnJlbW90ZT1ub19jaGVja19pcA==
 #EXTINF:-1 tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2018/02/5a8df502cffcf-384x384.png" group-title="Kids" tvg-country="IN" tvg-server="Server 2",NICK JR [IN]
 http://103.229.254.25:7001/play/a0di/index.m3u8
+#EXTINF:-1 tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2018/02/5a8df502cffcf-384x384.png" group-title="Kids" tvg-country="IN" tvg-server="UK",NICK JR [IN]
+https://stalkerm3u8.razankhan.workers.dev/play?channel=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F215834_
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ry1tzDBw/image.png" group-title="Kids" tvg-country="UK" tvg-server="UK",nickelodeon [UK]
 https://stalkerm3u8.razankhan.workers.dev/play?channel=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F215838_
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k2OVT9KlclMpcDC7BtSActMWKbSRrJ6mF6yKk0dcDDAw=s900-c-k-c0x00ffffff-no-rj" group-title="Music" tvg-country="CA" tvg-server="Server 1",NRB [CA]
