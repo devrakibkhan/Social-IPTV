@@ -317,6 +317,8 @@ https://stalkerm3u8.razankhan.workers.dev/play?channel=ffmpeg%20http%3A%2F%2Floc
 #X-HIDE-URL:base64:aHR0cDovLzc0LjIwOC4zMC4xMjEvYTE3OC9tb25vLm0zdTg=
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lpRJsjJojdecpt_clU8FsJGakVCr-wXz1wBoUO7Ko8cw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports" tvg-server="BEIN",Current Live Sports (11)
 http://pradahype.com:80/live/147523/147523/56353.ts
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lpRJsjJojdecpt_clU8FsJGakVCr-wXz1wBoUO7Ko8cw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",Current Live Sports (12) (IPL) [IN]
+http://198.195.239.50:8095/SonyTenSports5/tracks-v1a1/mono.m3u8
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly93d3cubHluZ3NhdC5jb20vbG9nby90di9kZC9kYW5jZS10di1ubC5wbmciIGdyb3VwLXRpdGxlPSJNdXNpYyIgdHZnLXNlcnZlcj0iT25lIixEYW5jZSBUViBFc3RvbmlhICgxKQ==
 #X-HIDE-URL:base64:aHR0cHM6Ly9tMWIyLndvcmxkY2FzdC50di9kYW5jZXRlbGV2aXNpb25vbmUvZGFuY2V0ZWxldmlzaW9ub25lLm0zdTg=
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly93d3cubHluZ3NhdC5jb20vbG9nby90di9kZC9kYW5jZS10di1ubC5wbmciIGdyb3VwLXRpdGxlPSJNdXNpYyIgdHZnLXNlcnZlcj0iQWxnb3JoeXRobSIsRGFuY2UgVFYgRXN0b25pYSAoMik=
