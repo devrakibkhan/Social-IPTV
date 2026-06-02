@@ -173,8 +173,10 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 #X-HIDE-URL:base64:aHR0cDovLzEwMy4xNDQuODkuMjUxOjgwODIvQkJDLk5FV1MvaW5kZXgubTN1OD90b2tlbj1kMTgzYTNhZGQ1NDRhMDMxMDJjYWQwNDQxM2VkNjAzMDExMWM0YmI2LTFjODc3MjMxMWUxMzc5NTQ5NmJlYzI3YTc1M2EzYWVlLTE3NzQzOTUwNTktMTc3NDM4NDI1OSZyZW1vdGU9bm9fY2hlY2tfaXA=
 #EXTINF:-1 tvg-id="BBCNews.uk@Europe" tvg-logo="https://i.postimg.cc/FHj6J3dF/image.png" group-title="News" tvg-server="Server 5" tvg-country="UK",BBC NEWS (5)
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298&ads.xumo_streamId=99951298&ads.channelId=99951298&ads.channelName=amcbbcnews_us&ads.csid=xumo_web_AMCBBCNews_ssai&ads._fw_coppa=0&ads.xumo_contentId=4023&ads.xumo_contentName=AMCBBCNews&ads.xumo_providerId=4023&ads.xumo_providerName=AMCBBCNews&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=:1565ffd1-fbc4-4bab-88a1-a944944402f9&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=News,N,DN,Local,LocalNews,News-Local&ads._fw_content_rating=&ads._fw_deviceType=3-Connected_TV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
-#X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvUlY2SExnOGQvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iU3BvcnRzIiB0dmctc2VydmVyPSJTZXJ2ZXIgMSIsYmVJTiBTcG9ydHMgKDEp
-#X-HIDE-URL:base64:aHR0cDovL21vai5mZW5pa3MudGVhbToyNTQ2MS9saXZlLzQxMWRhcmlvY2FjaWMvYTFVbmk5aEMwRC8wYmRiOTg2ZC03YzQxLTQ4NmItOWFjMy03YTRhODI0ODgxNWUudHM=
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RV6HLg8d/image.png" group-title="Sports" tvg-server="Server 1",beIN Sports (1)
+http://moj.feniks.team:25461/live/411dariocacic/a1Uni9hC0D/0bdb986d-7c41-486b-9ac3-7a4a8248815e.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RV6HLg8d/image.png" group-title="Sports",beIN Sports (2)
+http://lunar.pm:8080/2055735047/PtuUrexwIC/108598
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KYfs0bDw/image.png" group-title="Music" tvg-server="Server 1" tvg-country="BD",Bengali Beats (1)
 https://live20.bozztv.com/giatvplayout7/giatv-209587/index.m3u8
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvQ0xEMG1aQnQvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iTW92aWVzIiB0dmctc2VydmVyPSJTZXJ2ZXIgMSIsQkVTVCBBQ1RJT04gVFYgKDEp
