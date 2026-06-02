@@ -597,6 +597,8 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 #X-HIDE-URL:base64:aHR0cDovLzEwMy4yMjkuMjU0LjI1OjcwMDEvcGxheS9hMDJzL2luZGV4Lm0zdTg=
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctaWQ9Ik1UVi5pbkBTRCIgdHZnLWxvZ289Imh0dHBzOi8vd3d3Lm5pY2VwbmcuY29tL3BuZy9kZXRhaWwvODctODc3MDUzX210di1tdXNpYy1oZC1tdHYtbGl2ZS1oZC1sb2dvLnBuZyIgZ3JvdXAtdGl0bGU9Ik11c2ljIiB0dmctc2VydmVyPSJVU0EiIHR2Zy1jb3VudHJ5PSJJTiIsTVRWICg3KQ==
 #X-HIDE-URL:base64:aHR0cHM6Ly9zdGFsa2VybTN1OC5yYXphbmtoYW4ud29ya2Vycy5kZXYvcGxheT9jaGFubmVsPWZmbXBlZyUyMGh0dHAlM0ElMkYlMkZsb2NhbGhvc3QlMkZjaCUyRjMyODk3OV8=
+#EXTINF:-1 tvg-id="MTV.in@SD" tvg-logo="https://www.nicepng.com/png/detail/87-877053_mtv-music-hd-mtv-live-hd-logo.png" group-title="Music" tvg-country="IN",MTV (8) (Classic)
+http://lunar.pm:8080/2055735047/PtuUrexwIC/105737
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/12/musicbangla.jpg" group-title="Music" tvg-server="Server 1",Music Bangla (1)
 http://vmi3039524.contaboserver.net:5050/music/index.m3u8
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLmliYi5jby5jb20vVldqSE5uNVkvTVlUVi1IRC5wbmciIGdyb3VwLXRpdGxlPSJCYW5nbGEiIHR2Zy1zZXJ2ZXI9IlNlcnZlciAxIiB0dmctY291bnRyeT0iQkQiLE1ZIFRWICoqICgxKQ==
