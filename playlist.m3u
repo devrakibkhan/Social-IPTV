@@ -173,6 +173,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 #X-HIDE-URL:base64:aHR0cDovLzEwMy4xNDQuODkuMjUxOjgwODIvQkJDLk5FV1MvaW5kZXgubTN1OD90b2tlbj1kMTgzYTNhZGQ1NDRhMDMxMDJjYWQwNDQxM2VkNjAzMDExMWM0YmI2LTFjODc3MjMxMWUxMzc5NTQ5NmJlYzI3YTc1M2EzYWVlLTE3NzQzOTUwNTktMTc3NDM4NDI1OSZyZW1vdGU9bm9fY2hlY2tfaXA=
 #EXTINF:-1 tvg-id="BBCNews.uk@Europe" tvg-logo="https://i.postimg.cc/FHj6J3dF/image.png" group-title="News" tvg-server="Server 5" tvg-country="UK",BBC NEWS (5)
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298&ads.xumo_streamId=99951298&ads.channelId=99951298&ads.channelName=amcbbcnews_us&ads.csid=xumo_web_AMCBBCNews_ssai&ads._fw_coppa=0&ads.xumo_contentId=4023&ads.xumo_contentName=AMCBBCNews&ads.xumo_providerId=4023&ads.xumo_providerName=AMCBBCNews&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=:1565ffd1-fbc4-4bab-88a1-a944944402f9&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=News,N,DN,Local,LocalNews,News-Local&ads._fw_content_rating=&ads._fw_deviceType=3-Connected_TV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5z5HXgt/image.png" group-title="English",BBC ONE (1) [UK]
+http://lunar.pm:8080/2055735047/PtuUrexwIC/20869
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RV6HLg8d/image.png" group-title="Sports" tvg-server="Server 1",beIN Sports (1)
 http://moj.feniks.team:25461/live/411dariocacic/a1Uni9hC0D/0bdb986d-7c41-486b-9ac3-7a4a8248815e.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RV6HLg8d/image.png" group-title="Sports",beIN Sports (2)
@@ -433,8 +435,10 @@ https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
 #X-HIDE-URL:base64:aHR0cHM6Ly9kYXNoNC5hbnRpay5zay9saXZlL3Rlc3RfZXVyb25ld3MvcGxheWxpc3QubTN1OA==
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65HCPnGV/image.png" group-title="Lifestyle",FOOD FOOD (1)
 http://103.175.73.12:8080/live/143/143_0.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqhV5J77/image.png" group-title="Lifestyle",Food Network (1) [US]
-https://stalkerm3u8.razankhan.workers.dev/play?channel=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F328953_
+#X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvWnFoVjVKNzcvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iTGlmZXN0eWxlIixGb29kIE5ldHdvcmsgKDEpIFtVU10=
+#X-HIDE-URL:base64:aHR0cHM6Ly9zdGFsa2VybTN1OC5yYXphbmtoYW4ud29ya2Vycy5kZXYvcGxheT9jaGFubmVsPWZmbXBlZyUyMGh0dHAlM0ElMkYlMkZsb2NhbGhvc3QlMkZjaCUyRjMyODk1M18=
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqhV5J77/image.png" group-title="Lifestyle",Food Network (2)
+http://lunar.pm:8080/2055735047/PtuUrexwIC/20829
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctaWQ9IkZveE5ld3NDaGFubmVsLnVzQFNEIiB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvcHJmWXlXdGgvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iTmV3cyIgdHZnLXNlcnZlcj0iU2VydmVyIDEiIHR2Zy1jb3VudHJ5PSJVUyIsRm94IE5ld3MgKDEp
 #X-HIDE-URL:base64:aHR0cHM6Ly9mb3gtZm94bmV3c25vdy12aXppby5hbWFnaS50di9wbGF5bGlzdC5tM3U4
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctaWQ9IkZveE5ld3NDaGFubmVsLnVzQFNEIiB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvcHJmWXlXdGgvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iTmV3cyIgdHZnLXNlcnZlcj0iU2VydmVyIDIiIHR2Zy1jb3VudHJ5PSJVUyIsRm94IE5ld3MgKDIp
