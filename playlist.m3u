@@ -361,8 +361,10 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711.m3u8
 #X-HIDE-URL:base64:aHR0cHM6Ly90dnNlbjYuYXluYXNjb3BlLm5ldC9kZXNodHYvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4P2U9MTc3NDIwMTkzNyZ0b2tlbj0xN2MzMTIxODNiODJjOGY4NWQwMTU4YTYxYTAzOWU3NiZ1PTc4YmU2NjQ0LTBhNjUtNDhlYy04MWE0LTA4OWFjNjVhMjYxOQ==
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctaWQ9IkRlc2guYmRAU0QiIHR2Zy1sb2dvPSJodHRwczovL2kucG9zdGltZy5jYy9KenBSQmZCOC9pbWFnZS5wbmciIGdyb3VwLXRpdGxlPSJCYW5nbGEiIHR2Zy1zZXJ2ZXI9IlNlcnZlciAzIiB0dmctY291bnRyeT0iQkQiLERlc2ggKDMp
 #X-HIDE-URL:base64:aHR0cDovLzEwMy4yMjkuMjU0LjI1OjcwMDEvcGxheS9hMDVzL2luZGV4Lm0zdTg=
-#EXTINF:-1 tvg-id="Desh.bd@SD" tvg-logo="https://i.postimg.cc/JzpRBfB8/image.png" group-title="Bangla" tvg-server="Server 4" tvg-country="BD",Desh (4)
-https://stalkerm3u8.razankhan.workers.dev/play?channel=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F339738_
+#X-HIDE-META:base64:I0VYVElORjotMSB0dmctaWQ9IkRlc2guYmRAU0QiIHR2Zy1sb2dvPSJodHRwczovL2kucG9zdGltZy5jYy9KenBSQmZCOC9pbWFnZS5wbmciIGdyb3VwLXRpdGxlPSJCYW5nbGEiIHR2Zy1zZXJ2ZXI9IlNlcnZlciA0IiB0dmctY291bnRyeT0iQkQiLERlc2ggKDQp
+#X-HIDE-URL:base64:aHR0cHM6Ly9zdGFsa2VybTN1OC5yYXphbmtoYW4ud29ya2Vycy5kZXYvcGxheT9jaGFubmVsPWZmbXBlZyUyMGh0dHAlM0ElMkYlMkZsb2NhbGhvc3QlMkZjaCUyRjMzOTczOF8=
+#EXTINF:-1 tvg-id="Desh.bd@SD" tvg-logo="https://i.postimg.cc/JzpRBfB8/image.png" group-title="Bangla" tvg-country="BD",Desh (5)
+https://tvsen6.aynaott.com/deshtv/index.m3u8
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctaWQ9IkRpc2NvdmVyeS51a0BTRCIgdHZnLWxvZ289Imh0dHBzOi8vaS5wb3N0aW1nLmNjL3BMY3RkS2dEL2ltYWdlLnBuZyIgZ3JvdXAtdGl0bGU9IlNjaWVuY2UiIHR2Zy1zZXJ2ZXI9IlNlcnZlciAxIixEaXNjb3ZlcnkgKDEp
 #X-HIDE-URL:base64:aHR0cDovLzIwMy4xOC4xNTkuMTE1L0RJU0NPVkVSWUhEL3RyYWNrcy12MWExL21vbm8ubTN1OA==
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctaWQ9IkRpc2NvdmVyeS51a0BTRCIgdHZnLWxvZ289Imh0dHBzOi8vaS5wb3N0aW1nLmNjL3BMY3RkS2dEL2ltYWdlLnBuZyIgZ3JvdXAtdGl0bGU9IlNjaWVuY2UiIHR2Zy1zZXJ2ZXI9IlNlcnZlciAyIixEaXNjb3ZlcnkgKDIp
@@ -397,12 +399,14 @@ http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
 #X-HIDE-URL:base64:aHR0cHM6Ly9zdGFsa2VybTN1OC5yYXphbmtoYW4ud29ya2Vycy5kZXYvcGxheT9jaGFubmVsPWZmbXBlZyUyMGh0dHAlM0ElMkYlMkZsb2NhbGhvc3QlMkZjaCUyRjMyODkyN18=
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y8R8k55d/image.png" group-title="Kids" tvg-server="Server 1",Disney XD (1)
 https://stalkerm3u8.razankhan.workers.dev/play?channel=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F328926_
-#EXTINF:-1 tvg-id="Duronto.bd@SD" tvg-logo="https://i.postimg.cc/5Nt72D1T/image.png" group-title="Kids" tvg-server="Server 1",Duronto TV (1)
-http://103.229.254.25:7001/play/a05k/index.m3u8
+#X-HIDE-META:base64:I0VYVElORjotMSB0dmctaWQ9IkR1cm9udG8uYmRAU0QiIHR2Zy1sb2dvPSJodHRwczovL2kucG9zdGltZy5jYy81TnQ3MkQxVC9pbWFnZS5wbmciIGdyb3VwLXRpdGxlPSJLaWRzIiB0dmctc2VydmVyPSJTZXJ2ZXIgMSIsRHVyb250byBUViAoMSk=
+#X-HIDE-URL:base64:aHR0cDovLzEwMy4yMjkuMjU0LjI1OjcwMDEvcGxheS9hMDVrL2luZGV4Lm0zdTg=
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctaWQ9IkR1cm9udG8uYmRAU0QiIHR2Zy1sb2dvPSJodHRwczovL2kucG9zdGltZy5jYy81TnQ3MkQxVC9pbWFnZS5wbmciIGdyb3VwLXRpdGxlPSJLaWRzIiB0dmctc2VydmVyPSJoZCIsRHVyb250byBUViAoMik=
 #X-HIDE-URL:base64:aHR0cDovLzEwMy4xNjEuMTUzLjE2NTo4MDAwL3BsYXkvYTAzOC9pbmRleC5tM3U4
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctaWQ9IkR1cm9udG8uYmRAU0QiIHR2Zy1sb2dvPSJodHRwczovL2kucG9zdGltZy5jYy81TnQ3MkQxVC9pbWFnZS5wbmciIGdyb3VwLXRpdGxlPSJLaWRzIiB0dmctc2VydmVyPSJTZXJ2ZXIgMyIsRHVyb250byBUViAoMyk=
 #X-HIDE-URL:base64:aHR0cDovLzEwMy4xNDQuODkuMjUxOjgwODIvRFVSQU5UQS5UVi5IRC9pbmRleC5tM3U4P3Rva2VuPTU5NGZkOGM2Zjc5ZTExYzk4YmM3N2ZlYzg5ZmZmYWM2MzU2NDJjZDktYjQyYjhiNjE0MjZhZjVjZDEzN2MzYmJlOWY0NTg0M2UtMTc3NDM5NTA2Mi0xNzc0Mzg0MjYyJnJlbW90ZT1ub19jaGVja19pcA==
+#EXTINF:-1 tvg-id="Duronto.bd@SD" tvg-logo="https://i.postimg.cc/5Nt72D1T/image.png" group-title="Kids",Duronto TV (4)
+https://tvsen6.aynaott.com/durontotv-live/index.m3u8
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctaWQ9IkRXLmRlQEVuZ2xpc2giIHR2Zy1sb2dvPSJodHRwczovL2kucG9zdGltZy5jYy9rR2djRHRyUi9pbWFnZS5wbmciIGdyb3VwLXRpdGxlPSJOZXdzIiB0dmctc2VydmVyPSJTZXJ2ZXIgMSIgdHZnLWNvdW50cnk9IkRFIixEVyBOZXdzICgxKQ==
 #X-HIDE-URL:base64:aHR0cHM6Ly9kd2FtZHN0cmVhbTEwMi5ha2FtYWl6ZWQubmV0L2hscy9saXZlLzIwMTU1MjUvZHdzdHJlYW0xMDIvaW5kZXgubTN1OA==
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctaWQ9IkRXLmRlQEVuZ2xpc2giIHR2Zy1sb2dvPSJodHRwczovL2kucG9zdGltZy5jYy9rR2djRHRyUi9pbWFnZS5wbmciIGdyb3VwLXRpdGxlPSJOZXdzIiB0dmctc2VydmVyPSJTZXJ2ZXIgMiIgdHZnLWNvdW50cnk9IkRFIixEVyBOZXdzICgyKQ==
