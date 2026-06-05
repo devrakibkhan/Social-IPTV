@@ -665,6 +665,8 @@ http://lunar.pm:8080/2055735047/PtuUrexwIC/20903
 #X-HIDE-URL:base64:aHR0cHM6Ly9zdGFsa2VybTN1OC5yYXphbmtoYW4ud29ya2Vycy5kZXYvcGxheT9jaGFubmVsPWZmbXBlZyUyMGh0dHAlM0ElMkYlMkZsb2NhbGhvc3QlMkZjaCUyRjIxNTgzOF8=
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ry1tzDBw/image.png" group-title="Kids" tvg-country="UK",nickelodeon (2)
 https://tvsen7.aynaott.com/nicklodean/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ry1tzDBw/image.png" group-title="Kids" tvg-country="UK",nickelodeon (3) (JR)
+http://103.180.212.191:3500/live/548.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k2OVT9KlclMpcDC7BtSActMWKbSRrJ6mF6yKk0dcDDAw=s900-c-k-c0x00ffffff-no-rj" group-title="Music" tvg-server="Server 1" tvg-country="CA",NRB (1)
 https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg" group-title="Bangla" tvg-server="Server 1",NTV (1)
