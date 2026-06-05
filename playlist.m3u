@@ -113,8 +113,10 @@ https://tvsen6.aynaott.com/asiantv/index.m3u8
 #X-HIDE-URL:base64:aHR0cDovLzEwMy4xNDQuODkuMjUxOjgwODIvQVROLkJBTkdMQS5IRC9pbmRleC5tM3U4P3Rva2VuPTEwNjBhNmM4NzJlN2NiOWEzNDg3MDJiYjMyNTAxOTU0YzNjOWU4NTgtZjcyNzg4ZGQ4OTUzNjJmMzhiMmNjNDU4NmJjNWY4YjctMTc3NDQwMTc1My0xNzc0MzkwOTUzJnJlbW90ZT1ub19jaGVja19pcA==
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvYll4U1d2dFkvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iQmFuZ2xhIiB0dmctc2VydmVyPSJTZXJ2ZXIgMyIgdHZnLWNvdW50cnk9IkJEIixBVE4gQmFuZ2xhICgzKQ==
 #X-HIDE-URL:base64:aHR0cDovLzEwMy4yMjkuMjU0LjI1OjcwMDEvcGxheS9hMDZiL2luZGV4Lm0zdTg=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYxSWvtY/image.png" group-title="Bangla" tvg-server="Server 4" tvg-country="BD",ATN Bangla (4)
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnbd-8-org.stream/tracks-v1a1/mono.m3u8
+#X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvYll4U1d2dFkvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iQmFuZ2xhIiB0dmctc2VydmVyPSJTZXJ2ZXIgNCIgdHZnLWNvdW50cnk9IkJEIixBVE4gQmFuZ2xhICg0KQ==
+#X-HIDE-URL:base64:aHR0cHM6Ly9hcHAyNC5qYWdvYmQuY29tLmJkL2MzVnlkbVZ5WDhScGJFVTlNaTh4Tnk4eU1GREVFSEdjZlJnelE2TlRBZ2RFb2FlRnpiRjkyWVd4SVpUTzBVMGV6TjFJek15ZnZjRWRzRWZlRGVLaU5rVk4zUFRPbWRGc2VXUnRhVzUxYWlQaG5QVEkyL2F0bmJkLTgtb3JnLnN0cmVhbS90cmFja3MtdjFhMS9tb25vLm0zdTg=
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYxSWvtY/image.png" group-title="Bangla" tvg-country="BD",ATN Bangla (5)
+https://tvsen5.aynaott.com/atnbangla/index.m3u8
 #EXTINF:-1 tvg-id="ATNMusic.bd@SD" tvg-logo="https://i.postimg.cc/7Z5Lv9cn/image.png" group-title="Music" tvg-server="Server 1" tvg-country="BD",ATN Music (1)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctaWQ9IkFUTk11c2ljLmJkQFNEIiB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvN1o1THY5Y24vaW1hZ2UucG5nIiBncm91cC10aXRsZT0iTXVzaWMiIHR2Zy1zZXJ2ZXI9IlNlcnZlciAyIiB0dmctY291bnRyeT0iQkQiLEFUTiBNdXNpYyAoMik=
