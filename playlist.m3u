@@ -106,7 +106,7 @@ https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-15
 #X-HIDE-META:base64:I0VYVElORjotMSBncm91cC10aXRsZT0iTGlmZXN0eWxlIixBc2lhbiBGb29kIENoYW5uZWwgKDEp
 #X-HIDE-URL:base64:
 #EXTINF:-1 tvg-id="AsianTV.bd@SD" tvg-logo="https://i.postimg.cc/Y0HG05Jj/image.png" group-title="Bangla" tvg-server="Server 3" tvg-country="BD",Asian TV (1)
-https://tvsen5.aynaott.com/atnbangla/tracks-v1a1/mono.ts.m3u8
+https://tvsen6.aynaott.com/asiantv/index.m3u8
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvYll4U1d2dFkvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iQmFuZ2xhIiB0dmctc2VydmVyPSJTZXJ2ZXIgMSIgdHZnLWNvdW50cnk9IkJEIixBVE4gQmFuZ2xhICgxKQ==
 #X-HIDE-URL:base64:aHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyMi9vdXRwdXQvaW5kZXgubTN1OA==
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvYll4U1d2dFkvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iQmFuZ2xhIiB0dmctc2VydmVyPSJTZXJ2ZXIgMiIgdHZnLWNvdW50cnk9IkJEIixBVE4gQmFuZ2xhICgyKQ==
@@ -279,8 +279,10 @@ https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-sam
 #X-HIDE-URL:base64:aHR0cDovLzEwMy4xNjEuMTUzLjE2NTo4MDAwL3BsYXkvYTAzNi9pbmRleC5tM3U4
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctaWQ9IkNvbG9yc0JhbmdsYS5pbkBTRCIgdHZnLWxvZ289Imh0dHBzOi8vaS5wb3N0aW1nLmNjL2MxUGd2bk55L2ltYWdlLnBuZyIgZ3JvdXAtdGl0bGU9IkJhbmdsYSIgdHZnLXNlcnZlcj0iU2VydmVyIDMiIHR2Zy1jb3VudHJ5PSJJTiIsQ29sb3JzIEJhbmdsYSAoMyk=
 #X-HIDE-URL:base64:aHR0cDovLzEwMy4xNDQuODkuMjUxOjgwODIvQ09MT1JTLkJBTkdMQS5IRC9pbmRleC5tM3U4P3Rva2VuPTk0YjkzMDg1MDUxYzNhZWFjZjk3ODBjYzEyOTYzZTM5N2ExZmE1YWEtMzViZDIyZmYyZmRjYjZmNzU0MGNjNTMwM2IxYzI2NzAtMTc3NDM5NTA0OC0xNzc0Mzg0MjQ4JnJlbW90ZT1ub19jaGVja19pcA==
-#EXTINF:-1 tvg-id="ColorsBangla.in@SD" tvg-logo="https://i.postimg.cc/c1PgvnNy/image.png" group-title="Bangla" tvg-server="Server 4" tvg-country="IN",Colors Bangla (4)
-https://stalkerm3u8.razankhan.workers.dev/play?channel=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F339412_
+#X-HIDE-META:base64:I0VYVElORjotMSB0dmctaWQ9IkNvbG9yc0JhbmdsYS5pbkBTRCIgdHZnLWxvZ289Imh0dHBzOi8vaS5wb3N0aW1nLmNjL2MxUGd2bk55L2ltYWdlLnBuZyIgZ3JvdXAtdGl0bGU9IkJhbmdsYSIgdHZnLXNlcnZlcj0iU2VydmVyIDQiIHR2Zy1jb3VudHJ5PSJJTiIsQ29sb3JzIEJhbmdsYSAoNCk=
+#X-HIDE-URL:base64:aHR0cHM6Ly9zdGFsa2VybTN1OC5yYXphbmtoYW4ud29ya2Vycy5kZXYvcGxheT9jaGFubmVsPWZmbXBlZyUyMGh0dHAlM0ElMkYlMkZsb2NhbGhvc3QlMkZjaCUyRjMzOTQxMl8=
+#EXTINF:-1 tvg-id="ColorsBangla.in@SD" tvg-logo="https://i.postimg.cc/c1PgvnNy/image.png" group-title="Bangla" tvg-country="IN",Colors Bangla (5)
+http://103.180.212.191:3500/live/756.m3u8
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvOVFZcmdnUnMvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iTW92aWVzIiB0dmctc2VydmVyPSJTZXJ2ZXIgMSIgdHZnLWNvdW50cnk9IklOIixDb2xvcnMgQmFuZ2xhIENpbmVtYSAoMSk=
 #X-HIDE-URL:base64:aHR0cDovLzEwMy4xNDQuODkuMjUxOjgwODIvQ09MT1JTLkJBTkdMQS5DSU5FTUEvaW5kZXgubTN1OD90b2tlbj1hMzQyMmY3ODY0YWM2N2E1MzQ1ZjE5YWNlMDk1YTYxNDgxZGE3YTQ4LTk3ODgxMzQyOTc4YzM2ZTVmZDZlM2ZhMTNkY2NiNmE2LTE3NzQzOTUwNDctMTc3NDM4NDI0NyZyZW1vdGU9bm9fY2hlY2tfaXA=
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QYrggRs/image.png" group-title="Movies" tvg-server="Server 2" tvg-country="IN",Colors Bangla Cinema (2)
@@ -341,8 +343,10 @@ http://198.195.239.50:8095/SonyTenSports5/tracks-v1a1/mono.m3u8
 #X-HIDE-URL:base64:aHR0cHM6Ly90dnNlbjYuYXluYXNjb3BlLm5ldC9kYmNuZXdzL2luZGV4Lm0zdTg/ZT0xNzcyNTc1MTE2JnU9NzhiZTY2NDQtMGE2NS00OGVjLTgxYTQtMDg5YWM2NWEyNjE5JnRva2VuPWIyMzgwODAwNWE2ODY0YzViY2IxNWI1M2U5NGE5MTM5
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctaWQ9IkRCQy5iZEBTRCIgdHZnLWxvZ289Imh0dHBzOi8vaS5wb3N0aW1nLmNjLzI1NThja2Y2L2ltYWdlLnBuZyIgZ3JvdXAtdGl0bGU9Ik5ld3MiIHR2Zy1zZXJ2ZXI9IkhEIiB0dmctY291bnRyeT0iQkQiLERCQyAoNCk=
 #X-HIDE-URL:base64:aHR0cDovLzEwMy4xNjEuMTUzLjE2NTo4MDAwL3BsYXkvYTAydi9pbmRleC5tM3U4
-#EXTINF:-1 tvg-id="DBC.bd@SD" tvg-logo="https://i.postimg.cc/2558ckf6/image.png" group-title="News" tvg-server="Server 5" tvg-country="BD",DBC (5)
-http://103.229.254.25:7001/play/a06h/index.m3u8
+#X-HIDE-META:base64:I0VYVElORjotMSB0dmctaWQ9IkRCQy5iZEBTRCIgdHZnLWxvZ289Imh0dHBzOi8vaS5wb3N0aW1nLmNjLzI1NThja2Y2L2ltYWdlLnBuZyIgZ3JvdXAtdGl0bGU9Ik5ld3MiIHR2Zy1zZXJ2ZXI9IlNlcnZlciA1IiB0dmctY291bnRyeT0iQkQiLERCQyAoNSk=
+#X-HIDE-URL:base64:aHR0cDovLzEwMy4yMjkuMjU0LjI1OjcwMDEvcGxheS9hMDZoL2luZGV4Lm0zdTg=
+#EXTINF:-1 tvg-id="DBC.bd@SD" tvg-logo="https://i.postimg.cc/2558ckf6/image.png" group-title="News" tvg-country="BD",DBC (6)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 #EXTINF:-1 tvg-id="Deepto.bd@SD" tvg-logo="https://i.postimg.cc/63kWpC4c/image.png" group-title="Bangla" tvg-server="Server 1",Deepto TV (1)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711.m3u8
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctaWQ9IkRlZXB0by5iZEBTRCIgdHZnLWxvZ289Imh0dHBzOi8vaS5wb3N0aW1nLmNjLzYza1dwQzRjL2ltYWdlLnBuZyIgZ3JvdXAtdGl0bGU9IkJhbmdsYSIgdHZnLXNlcnZlcj0iU2VydmVyIDIiLERlZXB0byBUViAoMik=
@@ -421,10 +425,14 @@ https://stalkerm3u8.razankhan.workers.dev/play?channel=ffmpeg%20http%3A%2F%2Floc
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctaWQ9IkVudGVydGFpbm1lbnRUb25pZ2h0LnVzQFNEIiB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvQzU2Vm1Ud1EvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iRW5nbGlzaCIgdHZnLXNlcnZlcj0iR29vZ2xlIE0zVSIgdHZnLWNvdW50cnk9IlVTIixFbnRlcnRhaW5tZW50IFRvbmlnaHQgKDEp
 #X-HIDE-URL:base64:aHR0cHM6Ly9kYWkuZ29vZ2xlLmNvbS9saW5lYXIvaGxzL2V2ZW50L3hyVnJKWVRtVGZpdGZYQlFmZVpCeVEvbWFzdGVyLm0zdTg=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzZtLRRY/image.png" group-title="Sports" tvg-server="Server 1",ESPN (1)
-http://dns.p2.wtf/rogerio55x/24992611250/296999
+#X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvbnpadExSUlkvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iU3BvcnRzIiB0dmctc2VydmVyPSJTZXJ2ZXIgMSIsRVNQTiAoMSk=
+#X-HIDE-URL:base64:aHR0cDovL2Rucy5wMi53dGYvcm9nZXJpbzU1eC8yNDk5MjYxMTI1MC8yOTY5OTk=
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvbnpadExSUlkvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iU3BvcnRzIiB0dmctc2VydmVyPSJTZXJ2ZXIgMiIsRVNQTiAoMik=
 #X-HIDE-URL:base64:aHR0cHM6Ly9zdGFsa2VybTN1OC5yYXphbmtoYW4ud29ya2Vycy5kZXYvcGxheT9jaGFubmVsPWZmbXBlZyUyMGh0dHAlM0ElMkYlMkZsb2NhbGhvc3QlMkZjaCUyRjMyODgxOV8=
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzZtLRRY/image.png" group-title="Sports",ESPN (3)
+http://41.205.93.154/ESPN/index.m3u8?checkedby:iptvlister.com
+#X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvbnpadExSUlkvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iU3BvcnRzIixFU1BOICg0KQ==
+#X-HIDE-URL:base64:aHR0cHM6Ly90dnNlbjUuYXluYW90dC5jb20vZXNwbi9pbmRleC5tM3U4
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvcnNjQkh6MnMvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iU3BvcnRzIiB0dmctc2VydmVyPSJTZXJ2ZXIgMSIgdHZnLWNvdW50cnk9IklOIixFdXJvIFNwb3J0cyAoMSk=
 #X-HIDE-URL:base64:aHR0cDovLzEwMy4xNDQuODkuMjUxOjgwODIvRVVST1NQT1JUUy5IRC9pbmRleC5tM3U4P3Rva2VuPTRiMGIyN2Q5MGIwODBkNzZjODA4NTRkN2M3NWI3OTQ2NGYzYjAyMDMtM2E3YmIzOGE1ODRjNjhhZWQ1OTg4OGQwZDEyZjBhYjctMTc3NDM5NTA2Mi0xNzc0Mzg0MjYyJnJlbW90ZT1ub19jaGVja19pcA==
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rscBHz2s/image.png" group-title="Sports" tvg-server="Server 2" tvg-country="IN",Euro Sports (2)
