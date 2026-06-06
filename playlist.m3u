@@ -31,8 +31,12 @@
 #X-HIDE-URL:base64:aHR0cDovLzEwMy4xNDQuODkuMjUxOjgwODIvWFBMT1IuSEQvaW5kZXgubTN1OD90b2tlbj1mY2NmYWUwZDcyMjkwODU0OWZmODIzYjZkZGIxODcwMTRkMTg1ZjI0LWIwOGM4YmQzZGRmNDMzNDU0MWEwZDY4OTE3YmRkOTFmLTE3NzQzOTUwNTctMTc3NDM4NDI1NyZyZW1vdGU9bm9fY2hlY2tfaXA=
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvdkhubmhCWnkvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iTW92aWVzIiB0dmctc2VydmVyPSJTZXJ2ZXIgMiIgdHZnLWNvdW50cnk9IklOIiwmIFhwbG9yICgyKQ==
 #X-HIDE-URL:base64:aHR0cDovLzY2LjEwMi4xMjAuMTg6ODAwMC9wbGF5L2EwMTIvaW5kZXgubTN1OA==
-#X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly95dDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3l0Yy9BSWRyb19scFJKc2pKb2pkZWNwdF9jbFU4RnNKR2FrVkNyLXdYejF3Qm9VTzdLbzhjdz1zOTAwLWMtay1jMHgwMGZmZmZmZi1uby1yaiIgZ3JvdXAtdGl0bGU9IlNwb3J0cyIsMDAuIExpdmUgU3BvcnRzICgxKQ==
-#X-HIDE-URL:base64:
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lpRJsjJojdecpt_clU8FsJGakVCr-wXz1wBoUO7Ko8cw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",00. Live Sports (1) (beIN)
+http://moj.feniks.team:25461/live/411dariocacic/a1Uni9hC0D/0bdb986d-7c41-486b-9ac3-7a4a8248815e.ts
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lpRJsjJojdecpt_clU8FsJGakVCr-wXz1wBoUO7Ko8cw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",00. Live Sports (2) (ESPN)
+http://41.205.93.154/ESPN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lpRJsjJojdecpt_clU8FsJGakVCr-wXz1wBoUO7Ko8cw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",00. Live Sports (3) (FOX)
+https://stalkerm3u8.razankhan.workers.dev/play?channel=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F328813_
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctaWQ9IjMwQU11c2ljLnVzQFNEIiB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MveGQ2TjhOdEsvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iTXVzaWMiIHR2Zy1zZXJ2ZXI9IlNlcnZlciAxIiB0dmctY291bnRyeT0iVVMiLDMwQSBNdXNpYyAoMSk=
 #X-HIDE-URL:base64:aHR0cHM6Ly8zMGEtdHYuY29tL211c2ljLm0zdTg=
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9paWxpLmlvL2Q5bWdla1gucG5nIiBncm91cC10aXRsZT0iTW92aWVzIiB0dmctc2VydmVyPSJTZXJ2ZXIgMSIsNCBGaWxtICgxKQ==
