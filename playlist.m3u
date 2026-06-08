@@ -40,4 +40,6 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQwtHWQQ/image.png" group-title="Hindi / Urdu Channel",Sony ENT (1)
 http://198.195.239.50:8095/SonyTv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26dJnmLq/image.png" group-title="Sports channel",T Sports (1)
-http://198.195.239.50:8095/Tsports/index.m3u8
+https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
+#X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvMjZkSm5tTHEvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iU3BvcnRzIGNoYW5uZWwiLFQgU3BvcnRzICgyKQ==
+#X-HIDE-URL:base64:aHR0cDovLzE5OC4xOTUuMjM5LjUwOjgwOTUvVHNwb3J0cy9pbmRleC5tM3U4
