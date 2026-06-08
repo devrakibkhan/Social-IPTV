@@ -39,3 +39,5 @@ http://103.175.73.12:8080/live/379/379_0.m3u8
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQwtHWQQ/image.png" group-title="Hindi / Urdu Channel",Sony ENT (1)
 http://198.195.239.50:8095/SonyTv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26dJnmLq/image.png" group-title="Sports channel",T Sports (1)
+http://198.195.239.50:8095/Tsports/index.m3u8
