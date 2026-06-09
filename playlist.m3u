@@ -1,16 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8JktWqP/image.png" group-title="Sports channel",00. Live Sports (1) (ESPN)
-http://41.205.93.154/ESPN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8JktWqP/image.png" group-title="Sports channel",00. Live Sports (2) (FOX)
-http://vu4040.top:80/live/4230840782/7418745969/784895.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8JktWqP/image.png" group-title="Sports channel",00. Live Sports (3) (T Sports)
-http://198.195.239.50:8095/Tsports/index.m3u8
+#X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvTDhKa3RXcVAvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iU3BvcnRzIGNoYW5uZWwiLDAwLiBMaXZlIFNwb3J0cyAoMSkgKEVTUE4p
+#X-HIDE-URL:base64:aHR0cDovLzQxLjIwNS45My4xNTQvRVNQTi9wbGF5bGlzdC5tM3U4
+#X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvTDhKa3RXcVAvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iU3BvcnRzIGNoYW5uZWwiLDAwLiBMaXZlIFNwb3J0cyAoMikgKEZPWCk=
+#X-HIDE-URL:base64:aHR0cDovL3Z1NDA0MC50b3A6ODAvbGl2ZS80MjMwODQwNzgyLzc0MTg3NDU5NjkvNzg0ODk1LnRz
+#X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvTDhKa3RXcVAvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iU3BvcnRzIGNoYW5uZWwiLDAwLiBMaXZlIFNwb3J0cyAoMykgKFQgU3BvcnRzKQ==
+#X-HIDE-URL:base64:aHR0cDovLzE5OC4xOTUuMjM5LjUwOjgwOTUvVHNwb3J0cy9pbmRleC5tM3U4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SKgDWrmH/image.png" group-title="Music Channel",9XM (1)
 http://103.175.73.12:8080/live/155/155_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bYxSWvtY/image.png" group-title="Bangla channel",ATN Bangla (1)
 https://tvsen5.aynaott.com/atnbangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KYT8T97R/image.png" group-title="Movies Channel",B4U Movies (1)
 http://103.175.73.12:8080/live/43/43_0.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RV6HLg8d/image.png" group-title="Sports channel",beIN Sports (1) (i)
+http://27.124.71.27/beIN_Sports_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Rhd7BCNv/image.png" group-title="Bangla channel",BTV (1) (HD)
 https://tvsen6.aynaott.com/btvhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Rhd7BCNv/image.png" group-title="Bangla channel",BTV (2) (World)
@@ -23,6 +25,12 @@ http://vu4040.top:80/live/4230840782/7418745969/781162.ts
 https://stalkerm3u8.razankhan.workers.dev/play?channel=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F328959_
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vH1yFkQX/image.png" group-title="Islamic Channel",eman (1)
 https://tvsen6.aynaott.com/eman/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzZtLRRY/image.png" group-title="Sports channel",ESPN (1)
+https://tvsen5.aynaott.com/espn/index.m3u8
+#X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvbnpadExSUlkvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iU3BvcnRzIGNoYW5uZWwiLEVTUE4gKDIp
+#X-HIDE-URL:base64:aHR0cHM6Ly9zdGFsa2VybTN1OC5yYXphbmtoYW4ud29ya2Vycy5kZXYvcGxheT9jaGFubmVsPWZmbXBlZyUyMGh0dHAlM0ElMkYlMkZsb2NhbGhvc3QlMkZjaCUyRjMyODgxOV8=
+#X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvbnpadExSUlkvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iU3BvcnRzIGNoYW5uZWwiLEVTUE4gKDMp
+#X-HIDE-URL:base64:aHR0cDovLzQxLjIwNS45My4xNTQvRVNQTi9pbmRleC5tM3U4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65HCPnGV/image.png" group-title="Cooking Channel",FOOD FOOD (1) [IN]
 http://103.175.73.12:8080/live/143/143_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qq6heRq.png" group-title="English channel",Free Speech TV (1)
@@ -39,7 +47,9 @@ http://103.175.73.12:8080/live/379/379_0.m3u8
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQwtHWQQ/image.png" group-title="Hindi / Urdu Channel",Sony ENT (1)
 http://198.195.239.50:8095/SonyTv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/26dJnmLq/image.png" group-title="Sports channel",T Sports (1)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26dJnmLq/image.png" group-title="Sports channel",T Sports (1) (HD)
 https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
-#X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvMjZkSm5tTHEvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iU3BvcnRzIGNoYW5uZWwiLFQgU3BvcnRzICgyKQ==
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26dJnmLq/image.png" group-title="Sports channel",T Sports (2) (fast)
+http://198.195.239.50:8095/Tsports/index.m3u8
+#X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvMjZkSm5tTHEvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iU3BvcnRzIGNoYW5uZWwiLFQgU3BvcnRzICgzKQ==
 #X-HIDE-URL:base64:aHR0cDovLzE5OC4xOTUuMjM5LjUwOjgwOTUvVHNwb3J0cy9pbmRleC5tM3U4
