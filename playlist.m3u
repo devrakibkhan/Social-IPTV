@@ -41,18 +41,18 @@ http://vu4040.top:80/live/4230840782/7418745969/781162.ts
 https://stalkerm3u8.razankhan.workers.dev/play?channel=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F328959_
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vH1yFkQX/image.png" group-title="Islamic Channel",eman (1)
 https://tvsen6.aynaott.com/eman/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzZtLRRY/image.png" group-title="Sports channel",ESPN (1) (Buffering!)
-http://41.205.93.154/ESPN/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzZtLRRY/image.png" group-title="Sports channel",ESPN (2)
-http://ua-tv.xyz:80/trhoads/BEzkHPZEXFns/152329
+#X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvbnpadExSUlkvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iU3BvcnRzIGNoYW5uZWwiLEVTUE4gKDEpIChCdWZmZXJpbmchKQ==
+#X-HIDE-URL:base64:aHR0cDovLzQxLjIwNS45My4xNTQvRVNQTi9pbmRleC5tM3U4
+#X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvbnpadExSUlkvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iU3BvcnRzIGNoYW5uZWwiLEVTUE4gKDIp
+#X-HIDE-URL:base64:aHR0cDovL3VhLXR2Lnh5ejo4MC90cmhvYWRzL0JFemtIUFpFWEZucy8xNTIzMjk=
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvbnpadExSUlkvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iU3BvcnRzIGNoYW5uZWwiLEVTUE4gKDMp
 #X-HIDE-URL:base64:aHR0cDovL3VhLXR2Lnh5ejo4MC90cmhvYWRzL0JFemtIUFpFWEZucy85MjM=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzZtLRRY/image.png" group-title="Sports channel",ESPN (4) (UHD)
-http://ua-tv.xyz:80/trhoads/BEzkHPZEXFns/268983
+#X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvbnpadExSUlkvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iU3BvcnRzIGNoYW5uZWwiLEVTUE4gKDQpIChVSEQp
+#X-HIDE-URL:base64:aHR0cDovL3VhLXR2Lnh5ejo4MC90cmhvYWRzL0JFemtIUFpFWEZucy8yNjg5ODM=
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65HCPnGV/image.png" group-title="Cooking Channel",FOOD FOOD (1) [IN]
 http://103.175.73.12:8080/live/143/143_0.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hjRBNtPK/image.png" group-title="Sports channel",FOX Sports 1 (1)
-http://ua-tv.xyz:80/trhoads/BEzkHPZEXFns/838116
+#X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvaGpSQk50UEsvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iU3BvcnRzIGNoYW5uZWwiLEZPWCBTcG9ydHMgMSAoMSk=
+#X-HIDE-URL:base64:aHR0cDovL3VhLXR2Lnh5ejo4MC90cmhvYWRzL0JFemtIUFpFWEZucy84MzgxMTY=
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvaGpSQk50UEsvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iU3BvcnRzIGNoYW5uZWwiLEZPWCBTcG9ydHMgMSAoMik=
 #X-HIDE-URL:base64:aHR0cDovL3Z1NDA0MC50b3A6ODAvbGl2ZS80MjMwODQwNzgyLzc0MTg3NDU5NjkvNzg0ODk1LnRz
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qq6heRq.png" group-title="English channel",Free Speech TV (1)
@@ -75,5 +75,5 @@ http://198.195.239.50:8095/SonyTv/index.m3u8
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26dJnmLq/image.png" group-title="Sports channel",T Sports (3)
 http://103.59.176.72:8083/live1/tracks-v1a1/mono.m3u8?token=123
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mk6g9N53/image.png" group-title="Sports channel",TNT Sports 1 (1)
-http://a1.media1.london:8080//live/Keith2025/Keith2025/1524008.ts
+#X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvbWs2ZzlONTMvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iU3BvcnRzIGNoYW5uZWwiLFROVCBTcG9ydHMgMSAoMSk=
+#X-HIDE-URL:base64:aHR0cDovL2ExLm1lZGlhMS5sb25kb246ODA4MC8vbGl2ZS9LZWl0aDIwMjUvS2VpdGgyMDI1LzE1MjQwMDgudHM=
