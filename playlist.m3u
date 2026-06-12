@@ -19,8 +19,8 @@ http://ua-tv.xyz:80/trhoads/BEzkHPZEXFns/838112
 http://27.124.71.27/beIN_Sports_1/index.m3u8
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvUlY2SExnOGQvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iU3BvcnRzIGNoYW5uZWwiLGJlSU4gU3BvcnRzICgyKSAoVVMgKGFkcyEpKQ==
 #X-HIDE-URL:base64:aHR0cDovL2ExLm1lZGlhMS5sb25kb246ODA4MC8vbGl2ZS9LZWl0aDIwMjUvS2VpdGgyMDI1LzU5NTU3MDMudHM=
-#X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvUlY2SExnOGQvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iU3BvcnRzIGNoYW5uZWwiLGJlSU4gU3BvcnRzICgzKSBbQVVd
-#X-HIDE-URL:base64:aHR0cDovL3VhLXR2Lnh5ejo4MC90cmhvYWRzL0JFemtIUFpFWEZucy8xNTIyMzM=
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RV6HLg8d/image.png" group-title="Sports channel",beIN Sports (3) [AU]
+http://ua-tv.xyz:80/trhoads/BEzkHPZEXFns/152233
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Rhd7BCNv/image.png" group-title="Bangla channel",BTV (1) (HD)
 https://tvsen6.aynaott.com/btvhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Rhd7BCNv/image.png" group-title="Bangla channel",BTV (2) (World)
@@ -44,7 +44,9 @@ http://ua-tv.xyz:80/trhoads/BEzkHPZEXFns/268983
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65HCPnGV/image.png" group-title="Cooking Channel",FOOD FOOD (1) [IN]
 http://103.175.73.12:8080/live/143/143_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hjRBNtPK/image.png" group-title="Sports channel",FOX Sports 1 (1)
-http://vu4040.top:80/live/4230840782/7418745969/784895.ts
+http://ua-tv.xyz:80/trhoads/BEzkHPZEXFns/838116
+#X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvaGpSQk50UEsvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iU3BvcnRzIGNoYW5uZWwiLEZPWCBTcG9ydHMgMSAoMik=
+#X-HIDE-URL:base64:aHR0cDovL3Z1NDA0MC50b3A6ODAvbGl2ZS80MjMwODQwNzgyLzc0MTg3NDU5NjkvNzg0ODk1LnRz
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qq6heRq.png" group-title="English channel",Free Speech TV (1)
 https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hj3DtXm2/image.png" group-title="Islamic Channel",Islamic TV (1)
@@ -61,9 +63,5 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 http://198.195.239.50:8095/SonyTv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26dJnmLq/image.png" group-title="Sports channel",T Sports (1) (HD)
 https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/26dJnmLq/image.png" group-title="Sports channel",T Sports (2) (fast)
-http://198.195.239.50:8095/Tsports/index.m3u8
-#X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvMjZkSm5tTHEvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iU3BvcnRzIGNoYW5uZWwiLFQgU3BvcnRzICgzKQ==
-#X-HIDE-URL:base64:aHR0cDovLzE5OC4xOTUuMjM5LjUwOjgwOTUvVHNwb3J0cy9pbmRleC5tM3U4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mk6g9N53/image.png" group-title="Sports channel",TNT Sports 1 (1)
 http://a1.media1.london:8080//live/Keith2025/Keith2025/1524008.ts
