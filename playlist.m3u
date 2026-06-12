@@ -3,6 +3,8 @@
 http://103.59.176.72:8083/live1/tracks-v1a1/mono.m3u8?token=123
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nVNgSNv5/image.png" group-title="Sports channel",00. FIFA 2026 (2)
 https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/652385.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nVNgSNv5/image.png" group-title="Sports channel",00. FIFA 2026 (3) (T sports)
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvTDhKa3RXcVAvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iU3BvcnRzIGNoYW5uZWwiLDAwLiBMaXZlIFNwb3J0cyAoMSkgKEVTUE4p
 #X-HIDE-URL:base64:aHR0cDovLzQxLjIwNS45My4xNTQvRVNQTi9wbGF5bGlzdC5tM3U4
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvTDhKa3RXcVAvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iU3BvcnRzIGNoYW5uZWwiLDAwLiBMaXZlIFNwb3J0cyAoMikgKEZPWCk=
