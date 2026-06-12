@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nVNgSNv5/image.png" group-title="Sports channel",00. FIFA 2026 (1)
 http://103.59.176.72:8083/live1/tracks-v1a1/mono.m3u8?token=123
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nVNgSNv5/image.png" group-title="Sports channel",00. FIFA 2026 (2)
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/652385.ts
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvTDhKa3RXcVAvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iU3BvcnRzIGNoYW5uZWwiLDAwLiBMaXZlIFNwb3J0cyAoMSkgKEVTUE4p
 #X-HIDE-URL:base64:aHR0cDovLzQxLjIwNS45My4xNTQvRVNQTi9wbGF5bGlzdC5tM3U4
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvTDhKa3RXcVAvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iU3BvcnRzIGNoYW5uZWwiLDAwLiBMaXZlIFNwb3J0cyAoMikgKEZPWCk=
@@ -21,8 +23,10 @@ http://ua-tv.xyz:80/trhoads/BEzkHPZEXFns/838112
 #X-HIDE-URL:base64:aHR0cDovL2ExLm1lZGlhMS5sb25kb246ODA4MC8vbGl2ZS9LZWl0aDIwMjUvS2VpdGgyMDI1LzU5NTU3MDMudHM=
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvUlY2SExnOGQvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iU3BvcnRzIGNoYW5uZWwiLGJlSU4gU3BvcnRzICgzKSBbQVVd
 #X-HIDE-URL:base64:aHR0cDovL3VhLXR2Lnh5ejo4MC90cmhvYWRzL0JFemtIUFpFWEZucy8xNTIyMzM=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RV6HLg8d/image.png" group-title="Sports channel",beIN Sports (4)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RV6HLg8d/image.png" group-title="Sports channel",beIN Sports (4) (HD)
 http://portal.alliptvapp.com:8080/250434878645/048031890478/109208
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RV6HLg8d/image.png" group-title="Sports channel",beIN Sports (5) (FHD)
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/652385.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Rhd7BCNv/image.png" group-title="Bangla channel",BTV (1) (HD)
 https://tvsen6.aynaott.com/btvhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Rhd7BCNv/image.png" group-title="Bangla channel",BTV (2) (World)
