@@ -13,32 +13,30 @@ http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
 #X-HIDE-URL:base64:aHR0cDovLzE5OC4xOTUuMjM5LjUwOjgwOTUvVHNwb3J0cy9pbmRleC5tM3U4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SKgDWrmH/image.png" group-title="Music Channel",9XM (1)
 http://103.175.73.12:8080/live/155/155_0.m3u8
+#X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvU0tnRFdybUgvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iTXVzaWMgQ2hhbm5lbCIsOVhNICgyKQ==
+#X-HIDE-URL:base64:aHR0cHM6Ly9yZ2trdy5saXZlOjQ0My9saXZlLzFBb2VuN2VscDUvSWdNSjYwdG1BYS83MjU1LnRz
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bYxSWvtY/image.png" group-title="Bangla channel",ATN Bangla (1)
-https://tvsen5.aynaott.com/atnbangla/index.m3u8
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/431.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KYT8T97R/image.png" group-title="Movies Channel",B4U Movies (1)
 http://103.175.73.12:8080/live/43/43_0.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5z5HXgt/image.png" group-title="English channel",BBC ONE (1)
-http://ua-tv.xyz:80/trhoads/BEzkHPZEXFns/838112
-#X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvUlY2SExnOGQvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iU3BvcnRzIGNoYW5uZWwiLGJlSU4gU3BvcnRzICgxKSAoaSk=
-#X-HIDE-URL:base64:aHR0cDovLzI3LjEyNC43MS4yNy9iZUlOX1Nwb3J0c18xL2luZGV4Lm0zdTg=
-#X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvUlY2SExnOGQvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iU3BvcnRzIGNoYW5uZWwiLGJlSU4gU3BvcnRzICgyKSAoVVMgKGFkcyEpKQ==
-#X-HIDE-URL:base64:aHR0cDovL2ExLm1lZGlhMS5sb25kb246ODA4MC8vbGl2ZS9LZWl0aDIwMjUvS2VpdGgyMDI1LzU5NTU3MDMudHM=
-#X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvUlY2SExnOGQvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iU3BvcnRzIGNoYW5uZWwiLGJlSU4gU3BvcnRzICgzKSBbQVVd
-#X-HIDE-URL:base64:aHR0cDovL3VhLXR2Lnh5ejo4MC90cmhvYWRzL0JFemtIUFpFWEZucy8xNTIyMzM=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RV6HLg8d/image.png" group-title="Sports channel",beIN Sports (4) (HD)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RV6HLg8d/image.png" group-title="Sports channel",beIN Sports (1) (ENG)
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/744527.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RV6HLg8d/image.png" group-title="Sports channel",beIN Sports (2) (HD)
 http://portal.alliptvapp.com:8080/250434878645/048031890478/109208
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RV6HLg8d/image.png" group-title="Sports channel",beIN Sports (5) (FHD)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RV6HLg8d/image.png" group-title="Sports channel",beIN Sports (3) (FHD)
 https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/652385.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Rhd7BCNv/image.png" group-title="Bangla channel",BTV (1) (HD)
-https://tvsen6.aynaott.com/btvhd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Rhd7BCNv/image.png" group-title="Bangla channel",BTV (2) (World)
-https://tvsen6.aynaott.com/btv_world/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RV6HLg8d/image.png" group-title="Sports channel",beIN Sports (4)
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/744517.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Rhd7BCNv/image.png" group-title="Bangla channel",BTV (1) (NEWS)
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/998.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Rhd7BCNv/image.png" group-title="Bangla channel",BTV (2)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5ysCrPRN/image.png" group-title="Kids Channel",Cartoon Network (1)
-http://198.195.239.50:8095/CartoonNetwork/index.m3u8
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/148211.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LXXRTNLz/image.png" group-title="Hindi / Urdu Channel",colors (1)
-http://vu4040.top:80/live/4230840782/7418745969/781162.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/htCYTdD7/image.png" group-title="Cooking Channel",Cooking Channel (1)
-https://stalkerm3u8.razankhan.workers.dev/play?channel=ffmpeg%20http%3A%2F%2Flocalhost%2Fch%2F328959_
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/195.ts
+#X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvaHRDWVRkRDcvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iQ29va2luZyBDaGFubmVsIixDb29raW5nIENoYW5uZWwgKDEp
+#X-HIDE-URL:base64:aHR0cHM6Ly9zdGFsa2VybTN1OC5yYXphbmtoYW4ud29ya2Vycy5kZXYvcGxheT9jaGFubmVsPWZmbXBlZyUyMGh0dHAlM0ElMkYlMkZsb2NhbGhvc3QlMkZjaCUyRjMyODk1OV8=
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vH1yFkQX/image.png" group-title="Islamic Channel",eman (1)
 https://tvsen6.aynaott.com/eman/index.m3u8
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvbnpadExSUlkvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iU3BvcnRzIGNoYW5uZWwiLEVTUE4gKDEpIChCdWZmZXJpbmchKQ==
