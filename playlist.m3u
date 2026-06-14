@@ -9,6 +9,8 @@ https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/52500.ts
 #X-HIDE-URL:base64:aHR0cDovL3Z1NDA0MC50b3A6ODAvbGl2ZS80MjMwODQwNzgyLzc0MTg3NDU5NjkvNzg0ODk1LnRz
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvTDhKa3RXcVAvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iU3BvcnRzIGNoYW5uZWwiLDAwLiBMaXZlIFNwb3J0cyAoMykgKFQgU3BvcnRzKQ==
 #X-HIDE-URL:base64:aHR0cDovLzE5OC4xOTUuMjM5LjUwOjgwOTUvVHNwb3J0cy9pbmRleC5tM3U4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdtFSFvb/image.png" group-title="Sports channel",01. Cricket Live (1)
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa /415534.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SKgDWrmH/image.png" group-title="Music Channel",9XM (1)
 http://103.175.73.12:8080/live/155/155_0.m3u8
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvU0tnRFdybUgvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iTXVzaWMgQ2hhbm5lbCIsOVhNICgyKQ==
@@ -17,8 +19,6 @@ http://103.175.73.12:8080/live/155/155_0.m3u8
 https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/431.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KYT8T97R/image.png" group-title="Movies Channel",B4U Movies (1)
 http://103.175.73.12:8080/live/43/43_0.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdtFSFvb/image.png" group-title="Sports channel",BD Cricket Live (1)
-https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa /415534.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RV6HLg8d/image.png" group-title="Sports channel",beIN Sports (1) (ENG)
 https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/744527.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RV6HLg8d/image.png" group-title="Sports channel",beIN Sports (2) (HD)
