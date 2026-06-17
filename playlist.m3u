@@ -69,13 +69,15 @@ http://198.195.239.50:8095/SonyTv/index.m3u8
 https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa /157939.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26dJnmLq/image.png" group-title="Sports channel",T Sports (1)
 http://198.195.239.50:8095/tsports/index.m3u8
-#X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvMjZkSm5tTHEvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iU3BvcnRzIGNoYW5uZWwiLFQgU3BvcnRzICgyKQ==
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26dJnmLq/image.png" group-title="Sports channel",T Sports (2)
+http://luckonline.eu/live/y49sz6KMQs/6115263489/1142.ts
+#X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvMjZkSm5tTHEvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iU3BvcnRzIGNoYW5uZWwiLFQgU3BvcnRzICgzKQ==
 #X-HIDE-URL:base64:aHR0cHM6Ly9yZ2trdy5saXZlOjQ0My9saXZlLzFBb2VuN2VscDUvSWdNSjYwdG1BYS81MjUwMC50cw==
-#X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvMjZkSm5tTHEvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iU3BvcnRzIGNoYW5uZWwiLFQgU3BvcnRzICgzKSAoSEQp
+#X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvMjZkSm5tTHEvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iU3BvcnRzIGNoYW5uZWwiLFQgU3BvcnRzICg0KSAoSEQp
 #X-HIDE-URL:base64:aHR0cHM6Ly90dnNlbjcuYXluYW90dC5jb20vdHNwb3J0cy1oZC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg=
-#X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvMjZkSm5tTHEvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iU3BvcnRzIGNoYW5uZWwiLFQgU3BvcnRzICg0KQ==
-#X-HIDE-URL:base64:aHR0cDovL3Jna2t3LmxpdmU6ODAvbGl2ZS8xQW9lbjdlbHA1L0lnTUo2MHRtQWEvMTMwNzE0LnRz
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvMjZkSm5tTHEvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iU3BvcnRzIGNoYW5uZWwiLFQgU3BvcnRzICg1KQ==
+#X-HIDE-URL:base64:aHR0cDovL3Jna2t3LmxpdmU6ODAvbGl2ZS8xQW9lbjdlbHA1L0lnTUo2MHRtQWEvMTMwNzE0LnRz
+#X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvMjZkSm5tTHEvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iU3BvcnRzIGNoYW5uZWwiLFQgU3BvcnRzICg2KQ==
 #X-HIDE-URL:base64:aHR0cDovLzEwMy41OS4xNzYuNzI6ODA4My9saXZlMS90cmFja3MtdjFhMS9tb25vLm0zdTg/dG9rZW49MTIz
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mk6g9N53/image.png" group-title="Sports channel",TNT Sports 1 (1)
 https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa /186627.ts
