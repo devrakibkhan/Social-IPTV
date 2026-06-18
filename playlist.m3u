@@ -1,8 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nVNgSNv5/image.png" group-title="Sports channel",00. FIFA 2026 (1)
-https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/652385.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nVNgSNv5/image.png" group-title="Sports channel",00. FIFA 2026 (2) (T sports)
-https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/52500.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nVNgSNv5/image.png" group-title="Sports channel",00. FIFA 2026 (1) (T Sports)
+http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nVNgSNv5/image.png" group-title="Sports channel",00. FIFA 2026 (2) (Somoy TV)
+http://114.130.57.224:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nVNgSNv5/image.png" group-title="Sports channel",00. FIFA 2026 (3) (beIN Direct)
+http://1.la5liga.store:80/play/oOuLyOr0l4zfSQqe-48swyrUC_d5JG7Wj1gX3MfuOaHcCaCD-hqEbP027yBVHqJ4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nVNgSNv5/image.png" group-title="Sports channel",00. FIFA 2026 (4) (4k)
+http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/6408/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nVNgSNv5/image.png" group-title="Sports channel",00. FIFA 2026 (5) (beIN 4K)
+http://starhub.pro/live/farhat-3379/67897-913379/744527.ts
 #X-HIDE-META:base64:I0VYVElORjotMSB0dmctbG9nbz0iaHR0cHM6Ly9pLnBvc3RpbWcuY2MvTDhKa3RXcVAvaW1hZ2UucG5nIiBncm91cC10aXRsZT0iU3BvcnRzIGNoYW5uZWwiLDAwLiBMaXZlIFNwb3J0cyAoMSk=
 #X-HIDE-URL:base64:
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdtFSFvb/image.png" group-title="Sports channel",01. Cricket Live (1) (FOX 501)
